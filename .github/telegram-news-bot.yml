@@ -1,0 +1,62 @@
+name: Telegram News Bot
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram-news-bot
+  cancel-in-progress: false
+
+jobs:
+  run-news-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check required settings
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN || vars.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID || vars.CHAT_ID }}
+        run: |
+          if [ -z "$BOT_TOKEN" ]; then
+            echo "::error::BOT_TOKEN is missing. Add it in Settings > Secrets and variables > Actions > Repository secrets."
+            exit 1
+          fi
+          if [ -z "$CHAT_ID" ]; then
+            echo "::error::CHAT_ID is missing. Add it in Settings > Secrets and variables > Actions > Repository secrets."
+            exit 1
+          fi
+          echo "BOT_TOKEN is set."
+          echo "CHAT_ID is set."
+
+      - name: Run news bot
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN || vars.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID || vars.CHAT_ID }}
+          REALTIME_ONLY_MINUTES: "30"
+          RSS_SEARCH_WINDOW: "1h"
+          MAX_RSS_ITEMS_TO_CHECK: "5"
+          MAX_MESSAGES_PER_RUN: "4"
+          TIMEZONE: "Asia/Seoul"
+        run: python github-actions-news-bot/news_bot.py
+
+      - name: Commit sent article state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-actions-news-bot/sent_articles.json
+          git diff --cached --quiet || git commit -m "Update sent article state"
+          git push
