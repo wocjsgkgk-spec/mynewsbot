@@ -58,5 +58,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-actions-news-bot/sent_articles.json
-          git diff --cached --quiet || git commit -m "Update sent article state"
-          git push
+          if git diff --cached --quiet; then
+            echo "No sent article state changes to commit."
+            exit 0
+          fi
+          git commit -m "Update sent article state"
+          git push || {
+            echo "::warning::Could not push sent_articles.json. Check Settings > Actions > General > Workflow permissions."
+            exit 0
+          }
