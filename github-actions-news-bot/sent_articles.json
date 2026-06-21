@@ -1,6 +1,13 @@
 {
   "failed": {},
   "sent": {
+    "2ed3d307f4e0a9f77d8e483c50caee9f5633fbfed7d6e985acab1aa35d05281d": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OcThXUmtaRlFmdFAtMDk5N0s1d2w5eG1KWUdLVEVBZnFtSzRfTl9FQnVDSDFLeURqQUVZZGxkQk51bzNYaW15RW5uYW5ES01HY1NDVUZ2ZE5qajhDTE9GSW1qaGFuQ3M?oc=5",
+      "published_at": "2026-06-21T22:39:52+00:00",
+      "real_link": "https://www.sjsori.com/news/articleView.html?idxno=86873",
+      "sent_at": "2026-06-21T22:44:37.161741+00:00",
+      "title": "9000억 들여 품은 지누스…정지선 M&A 성적표는 마이너스의 손(3부)"
+    },
     "362e1f0313ff042218de0133d3e5cafc65d1386ce8400015664c48ed653be141": {
       "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mWDFYd21tUkMwd1RsZDl5ZEhsMGprWnlOTE8zM1MxTlpaN1NfYmRWTkZFZGJHUE15WXQxeHEzUlFFb3ZySV9SNGY2bDUta0lUV3Jj?oc=5",
       "published_at": "2026-06-21T02:34:00+00:00",
@@ -64,6 +71,20 @@
       "sent_at": "2026-06-21T05:59:02.941138+00:00",
       "title": "공공 AX 수주 현실화… 시선AI 실적 도약 기대감 커진다"
     },
+    "c3193ccef9b2b6ef36b31fdf7f0e51422068ccad046a69642c83a2cb8a247330": {
+      "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WekRnR2ZtbE5jUnZ1bUlmUVNSMVZXRlBOOVVvT1FmVzQxVFdKd05TOEh1YjJSRnpWUldRYUtvUi0tcDViUjlLMUhJSmJQSThXUUR6SDYwSlZCZ0hVMWFvcFZpYTRfeFVhZmRYTU41Nmh1UQ?oc=5",
+      "published_at": "2026-06-21T22:30:28+00:00",
+      "real_link": "https://kbthink.com/news-list/view.html?newsId=20260622073029603",
+      "sent_at": "2026-06-21T22:44:38.488548+00:00",
+      "title": "美 재무부 환율보고서 카운트다운…관건은"
+    },
+    "c9d7081877315e195bbfe4f5e2ea95ef42417b1c79307a5b0cd6146aa2fc7b41": {
+      "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OWjBKcHZOTnZaejVBSlluRmgxNHAzcjU4MEZNa2NZeWhDUVB4WVlmVUpHTXhZdmxUd1NEc3ZSN2V4ekZ1UEplY181U2l6MjRqbzdBa0dLb29mUFgxUS1pYXFsT2hJVFZfMFFGYg?oc=5",
+      "published_at": "2026-06-21T22:39:19+00:00",
+      "real_link": "https://www.sejungilbo.com/news/articleView.html?idxno=58883",
+      "sent_at": "2026-06-21T22:44:39.653515+00:00",
+      "title": "정진욱, 원유 공급망 다변화 시설 투자 세액공제 추진"
+    },
     "cbc9b8e179192057e3a1321e061ad179e22084129f41b99799e765980ceb8100": {
       "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EQ2NhWjQxcDJTZmFYVlFXLURPS3BWSXVQOHRIb1kwZTgyeGRSUEx3OW91UVJVUzQ0dTB2MFhadFRrSjg2Tm5WdXlPX1I?oc=5",
       "published_at": "2026-06-21T18:03:25+00:00",
@@ -115,6 +136,11 @@
     }
   },
   "url_cache": {
+    "2ed3d307f4e0a9f77d8e483c50caee9f5633fbfed7d6e985acab1aa35d05281d": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OcThXUmtaRlFmdFAtMDk5N0s1d2w5eG1KWUdLVEVBZnFtSzRfTl9FQnVDSDFLeURqQUVZZGxkQk51bzNYaW15RW5uYW5ES01HY1NDVUZ2ZE5qajhDTE9GSW1qaGFuQ3M?oc=5",
+      "real_link": "https://www.sjsori.com/news/articleView.html?idxno=86873",
+      "updated_at": "2026-06-21T22:44:36.188921+00:00"
+    },
     "362e1f0313ff042218de0133d3e5cafc65d1386ce8400015664c48ed653be141": {
       "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mWDFYd21tUkMwd1RsZDl5ZEhsMGprWnlOTE8zM1MxTlpaN1NfYmRWTkZFZGJHUE15WXQxeHEzUlFFb3ZySV9SNGY2bDUta0lUV3Jj?oc=5",
       "real_link": "https://news.nate.com/view/20260621n05627",
@@ -159,6 +185,16 @@
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00MlBGd0lQRUxnSk5kVHNoaFU3NjA1V1I1Q29XekNpNUxxZHN0NVpubUdaWXVaN0UtMXlKV0pYaGRjeGszbjFMWEdZb21rWlBRZlRSSFVqaVcwQ2tOMlJ3Nl9qYlJfZVlOamQ1M2tSaEdzVlnSAXdBVV95cUxNR3JUMUNEOTc4Z2VVVmxuRWZRUi1rM1NtalBzU3U5R1dmdGExbnpJZ0tWZlFVX3AxT0t5VmpybjQ5V3NXbUlqQmJZNUxSOXo0Y0FpdG9XZ2RXVWNZUTN6WktmdVEyeXZ3VDc2V2RPWW5VRnk0LWp3MA?oc=5",
       "real_link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461790",
       "updated_at": "2026-06-21T05:59:02.425388+00:00"
+    },
+    "c3193ccef9b2b6ef36b31fdf7f0e51422068ccad046a69642c83a2cb8a247330": {
+      "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WekRnR2ZtbE5jUnZ1bUlmUVNSMVZXRlBOOVVvT1FmVzQxVFdKd05TOEh1YjJSRnpWUldRYUtvUi0tcDViUjlLMUhJSmJQSThXUUR6SDYwSlZCZ0hVMWFvcFZpYTRfeFVhZmRYTU41Nmh1UQ?oc=5",
+      "real_link": "https://kbthink.com/news-list/view.html?newsId=20260622073029603",
+      "updated_at": "2026-06-21T22:44:37.841324+00:00"
+    },
+    "c9d7081877315e195bbfe4f5e2ea95ef42417b1c79307a5b0cd6146aa2fc7b41": {
+      "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OWjBKcHZOTnZaejVBSlluRmgxNHAzcjU4MEZNa2NZeWhDUVB4WVlmVUpHTXhZdmxUd1NEc3ZSN2V4ekZ1UEplY181U2l6MjRqbzdBa0dLb29mUFgxUS1pYXFsT2hJVFZfMFFGYg?oc=5",
+      "real_link": "https://www.sejungilbo.com/news/articleView.html?idxno=58883",
+      "updated_at": "2026-06-21T22:44:39.005853+00:00"
     },
     "cbc9b8e179192057e3a1321e061ad179e22084129f41b99799e765980ceb8100": {
       "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EQ2NhWjQxcDJTZmFYVlFXLURPS3BWSXVQOHRIb1kwZTgyeGRSUEx3OW91UVJVUzQ0dTB2MFhadFRrSjg2Tm5WdXlPX1I?oc=5",
