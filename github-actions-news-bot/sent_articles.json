@@ -1,5 +1,55 @@
 {
   "failed": {},
-  "sent": {},
-  "url_cache": {}
+  "sent": {
+    "362e1f0313ff042218de0133d3e5cafc65d1386ce8400015664c48ed653be141": {
+      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mWDFYd21tUkMwd1RsZDl5ZEhsMGprWnlOTE8zM1MxTlpaN1NfYmRWTkZFZGJHUE15WXQxeHEzUlFFb3ZySV9SNGY2bDUta0lUV3Jj?oc=5",
+      "published_at": "2026-06-21T02:34:00+00:00",
+      "real_link": "https://news.nate.com/view/20260621n05627",
+      "sent_at": "2026-06-21T02:45:52.946829+00:00",
+      "title": "삼전닉스 쏠림 심화…코스피 내 거래량 비중도 '쑥'"
+    },
+    "837403f9e815c1c47d23469a5074631482778b2b44af328a4b1991ef001e31df": {
+      "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWNjRjF1OXlKYXZoVTA3WkxCck1nOWtlMEM5N2xTUWc1NW9QQjdtTGUycTVoclpneW9Pa3Z5UkpqcFM4U1p2bm12Sm9seVVqdXFHVmtGalkwdUxESkUyTkVENWluRVZUeFRUMnpJWEVYeHd0LWN4MlAwdFUyaW5FUg?oc=5",
+      "published_at": "2026-06-21T02:22:43+00:00",
+      "real_link": "https://www.edaily.co.kr/News/Read?newsId=01436646645484016&mediaCodeNo=257",
+      "sent_at": "2026-06-21T02:45:49.232389+00:00",
+      "title": "강민국 의원 \"개인정보 대량 이전 M&A, 사전심사 의무화 추진\""
+    },
+    "9cc339f47e6d695b0adcbc3dd45bb768a2462b67dd557e1021722b94984ac480": {
+      "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VYThDbThhcnROOVhlUEZyOUVTQlBsTDB0NVVMdWF6Q3BaaXhsWlFvaXY3Q0ZGd3pGTVYtbzlLNEJ3T1FXOFFlZDMxUlJQTDBNMWZlZW1CYUZCRkJyRjduQm9yQ28yb1p0c2c?oc=5",
+      "published_at": "2026-06-21T02:25:52+00:00",
+      "real_link": "https://www.cstimes.com/news/articleView.html?idxno=710470",
+      "sent_at": "2026-06-21T02:45:50.551976+00:00",
+      "title": "6월 환율 1520원 돌파…외환위기 후 가장 높았다"
+    },
+    "ffd576d9ae03454fadf9f003b8162bec2fe259244a2d011044302168aae6e582": {
+      "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zV0N3VWNuM3FXNXBBSnFqQmhsNEZMZXJyTmR0U19UTnFkYlN2NG5WVkdkdl9iMHo0dWNPeXFGcmoxeUt2R19JVDlPU3c2aXJtZHNpWFRyMkNLSlVUbVhmSA?oc=5",
+      "published_at": "2026-06-21T02:42:02+00:00",
+      "real_link": "https://www.ikbc.co.kr/article/view/kbc202606210015",
+      "sent_at": "2026-06-21T02:45:51.712139+00:00",
+      "title": "반도체 성과급에 들썩이는 동탄..계약해제·갭투자 동시 확산"
+    }
+  },
+  "url_cache": {
+    "362e1f0313ff042218de0133d3e5cafc65d1386ce8400015664c48ed653be141": {
+      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mWDFYd21tUkMwd1RsZDl5ZEhsMGprWnlOTE8zM1MxTlpaN1NfYmRWTkZFZGJHUE15WXQxeHEzUlFFb3ZySV9SNGY2bDUta0lUV3Jj?oc=5",
+      "real_link": "https://news.nate.com/view/20260621n05627",
+      "updated_at": "2026-06-21T02:45:52.426329+00:00"
+    },
+    "837403f9e815c1c47d23469a5074631482778b2b44af328a4b1991ef001e31df": {
+      "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWNjRjF1OXlKYXZoVTA3WkxCck1nOWtlMEM5N2xTUWc1NW9QQjdtTGUycTVoclpneW9Pa3Z5UkpqcFM4U1p2bm12Sm9seVVqdXFHVmtGalkwdUxESkUyTkVENWluRVZUeFRUMnpJWEVYeHd0LWN4MlAwdFUyaW5FUg?oc=5",
+      "real_link": "https://www.edaily.co.kr/News/Read?newsId=01436646645484016&mediaCodeNo=257",
+      "updated_at": "2026-06-21T02:45:48.496797+00:00"
+    },
+    "9cc339f47e6d695b0adcbc3dd45bb768a2462b67dd557e1021722b94984ac480": {
+      "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VYThDbThhcnROOVhlUEZyOUVTQlBsTDB0NVVMdWF6Q3BaaXhsWlFvaXY3Q0ZGd3pGTVYtbzlLNEJ3T1FXOFFlZDMxUlJQTDBNMWZlZW1CYUZCRkJyRjduQm9yQ28yb1p0c2c?oc=5",
+      "real_link": "https://www.cstimes.com/news/articleView.html?idxno=710470",
+      "updated_at": "2026-06-21T02:45:50.031853+00:00"
+    },
+    "ffd576d9ae03454fadf9f003b8162bec2fe259244a2d011044302168aae6e582": {
+      "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zV0N3VWNuM3FXNXBBSnFqQmhsNEZMZXJyTmR0U19UTnFkYlN2NG5WVkdkdl9iMHo0dWNPeXFGcmoxeUt2R19JVDlPU3c2aXJtZHNpWFRyMkNLSlVUbVhmSA?oc=5",
+      "real_link": "https://www.ikbc.co.kr/article/view/kbc202606210015",
+      "updated_at": "2026-06-21T02:45:51.186808+00:00"
+    }
+  }
 }
