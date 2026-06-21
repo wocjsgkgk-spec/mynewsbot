@@ -26,10 +26,26 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Check required settings
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN || vars.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID || vars.CHAT_ID }}
+        run: |
+          if [ -z "$BOT_TOKEN" ]; then
+            echo "::error::BOT_TOKEN is missing. Add it in Settings > Secrets and variables > Actions > Repository secrets."
+            exit 1
+          fi
+          if [ -z "$CHAT_ID" ]; then
+            echo "::error::CHAT_ID is missing. Add it in Settings > Secrets and variables > Actions > Repository secrets."
+            exit 1
+          fi
+          echo "BOT_TOKEN is set."
+          echo "CHAT_ID is set."
+
       - name: Run news bot
         env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN || vars.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID || vars.CHAT_ID }}
           REALTIME_ONLY_MINUTES: "30"
           RSS_SEARCH_WINDOW: "1h"
           MAX_RSS_ITEMS_TO_CHECK: "5"
@@ -42,5 +58,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-actions-news-bot/sent_articles.json
-          git diff --cached --quiet || git commit -m "Update sent article state"
-          git push
+          if git diff --cached --quiet; then
+            echo "No sent article state changes to commit."
+            exit 0
+          fi
+          git commit -m "Update sent article state"
+          git push || {
+            echo "::warning::Could not push sent_articles.json. Check Settings > Actions > General > Workflow permissions."
+            exit 0
+          }
