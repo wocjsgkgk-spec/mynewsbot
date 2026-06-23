@@ -1,6 +1,13 @@
 {
   "failed": {},
   "sent": {
+    "11d020a9198fc63ad32dcaf820cd0659fe93ba0845fa4b3afaff27f9e2ca7b01": {
+      "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DS1ZGb0dJVXJfZnRmSVRjQ3NGdUZJX2VqNzJ6YW81RVlXa2xpZWJadlVWT2Nmb2hfWnF3bGNmR1VmeVM3X3hodG5US0Uta0wtVHc?oc=5",
+      "published_at": "2026-06-23T10:44:33+00:00",
+      "real_link": "https://stock.mk.co.kr/news/view/1109111",
+      "sent_at": "2026-06-23T10:48:54.674852+00:00",
+      "title": "삼전보다 더 올랐다…앞으로 더 간다는 ‘제2의 반도체’ [플러스 관심종목]"
+    },
     "289461d9f571b81ac41e3aff16013f2405d810e9b9a682b2136e62fc2baa6a9f": {
       "google_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0teG12NGl0VllIdEU4MUs0azY1X3gxM0ZLZXVCLU11S2ZRcWlidFQ0ZW9qY0RvSmVHVFVGX2RpcXVXMFVIUmczZWMxMlJpLVVP?oc=5",
       "published_at": "2026-06-22T16:08:39+00:00",
@@ -28,6 +35,13 @@
       "real_link": "https://www.newsis.com/view/NISX20260621_0003677220",
       "sent_at": "2026-06-21T05:56:24.917799+00:00",
       "title": "인도 최대 통신기업 지오 38억＄IPO 실시…\"최고기록 경신\""
+    },
+    "5ee4bcf25a75b7de75ce8376b855d907647c4b096fe8c97f0df1ce3e94b691ac": {
+      "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FZFZjZ19RM3pyOHkyOWdaNjNpeHNtc1RFX1dQa01IeWdmdVNWb3FfejhIeXFpa20tTk5GbkxSeVFhal9qNUdrODdoU0FCbnBweWF5aEpsVEdmWGdrZlBFTEkzUUt0aXJmQWxsbVpvRHRRNHhQT0IzYw?oc=5",
+      "published_at": "2026-06-23T10:32:00+00:00",
+      "real_link": "https://m.news.nate.com/view/20260623n32641?mid=m02&list=recent&cpcd=",
+      "sent_at": "2026-06-23T10:48:52.558125+00:00",
+      "title": "[이슈플러스] '검은 화요일' 코스피 10%대 가까이 폭락…원인은?"
     },
     "746f747d6539aa8a5e6c2a94adbc41744ff7dda2e6f9d45c780720b248719952": {
       "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeV9fOFh3UVBUR2lXVjJobnZ5amx4TU9talNxOG9RaEtpVjdsNFZqYmlLYUp0bnRFUlZDZXZiNHFnWkdra1ptRnhJRlB3TXZqOXc0STl4RGhyeGVqSDlUejZwYk80RWQ2WFBtQWd0LThxZDNOVWZEQ1NnM1U1cHVGVFN4VW1adVFN0gGcAUFVX3lxTE9MdFd6WnJ0U1JGZmRXU0RIRHlIZXdWVzl4d04td0tZNFgyOHoxMUxHNURkeExHOUhWYmh5Wm9PeVBkbEpqdEdyRjVxb2xOcnljYXdYNkY0WmNOZnJnU1JoWkQ1TGJqLVVJbGpXRmQxRTViVHFJRWZDNVNsQVhmNmVxcnVlR0FDWUx5QkVHeS1HTXpST1pHUjRLcXZ3eQ?oc=5",
@@ -178,6 +192,11 @@
     }
   },
   "url_cache": {
+    "11d020a9198fc63ad32dcaf820cd0659fe93ba0845fa4b3afaff27f9e2ca7b01": {
+      "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DS1ZGb0dJVXJfZnRmSVRjQ3NGdUZJX2VqNzJ6YW81RVlXa2xpZWJadlVWT2Nmb2hfWnF3bGNmR1VmeVM3X3hodG5US0Uta0wtVHc?oc=5",
+      "real_link": "https://stock.mk.co.kr/news/view/1109111",
+      "updated_at": "2026-06-23T10:48:54.129972+00:00"
+    },
     "289461d9f571b81ac41e3aff16013f2405d810e9b9a682b2136e62fc2baa6a9f": {
       "google_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0teG12NGl0VllIdEU4MUs0azY1X3gxM0ZLZXVCLU11S2ZRcWlidFQ0ZW9qY0RvSmVHVFVGX2RpcXVXMFVIUmczZWMxMlJpLVVP?oc=5",
       "real_link": "https://bloomingbit.io/feed/news/114797",
@@ -197,6 +216,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQWHQ3NjJOZTZMSGV0bGc1UzFEb1BVV195SlB0SjVnWGF4ZldMZVR3dHhQZWpnWVNrUm9haE94SE1uTGhETmQxR2pjNkZwa29tRldaNUx2Z2dZdnRPSHQ2UtIBeEFVX3lxTE9sdUFsYTFlSl9zdTVPM1dSd2tHeW03QzJoZ0hKWTdzamFRZGlOZU9sMVhyY0Q2TG1Md0xUN0RMSFJGMXdOZlo4dXdQeE15dlY2RnpmSEFuQUdvWFd0S2xJS0QwVkd0RHF0VlFKanUtQWx3d3BJbkNUcg?oc=5",
       "real_link": "https://www.newsis.com/view/NISX20260621_0003677220",
       "updated_at": "2026-06-21T05:56:24.429637+00:00"
+    },
+    "5ee4bcf25a75b7de75ce8376b855d907647c4b096fe8c97f0df1ce3e94b691ac": {
+      "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FZFZjZ19RM3pyOHkyOWdaNjNpeHNtc1RFX1dQa01IeWdmdVNWb3FfejhIeXFpa20tTk5GbkxSeVFhal9qNUdrODdoU0FCbnBweWF5aEpsVEdmWGdrZlBFTEkzUUt0aXJmQWxsbVpvRHRRNHhQT0IzYw?oc=5",
+      "real_link": "https://m.news.nate.com/view/20260623n32641?mid=m02&list=recent&cpcd=",
+      "updated_at": "2026-06-23T10:48:51.975762+00:00"
     },
     "746f747d6539aa8a5e6c2a94adbc41744ff7dda2e6f9d45c780720b248719952": {
       "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeV9fOFh3UVBUR2lXVjJobnZ5amx4TU9talNxOG9RaEtpVjdsNFZqYmlLYUp0bnRFUlZDZXZiNHFnWkdra1ptRnhJRlB3TXZqOXc0STl4RGhyeGVqSDlUejZwYk80RWQ2WFBtQWd0LThxZDNOVWZEQ1NnM1U1cHVGVFN4VW1adVFN0gGcAUFVX3lxTE9MdFd6WnJ0U1JGZmRXU0RIRHlIZXdWVzl4d04td0tZNFgyOHoxMUxHNURkeExHOUhWYmh5Wm9PeVBkbEpqdEdyRjVxb2xOcnljYXdYNkY0WmNOZnJnU1JoWkQ1TGJqLVVJbGpXRmQxRTViVHFJRWZDNVNsQVhmNmVxcnVlR0FDWUx5QkVHeS1HTXpST1pHUjRLcXZ3eQ?oc=5",
