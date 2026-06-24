@@ -1,6 +1,13 @@
 {
   "failed": {},
   "sent": {
+    "0d19b4be6d52970228e348850038e5ada9461763d7515fb5691c0cffb1955c75": {
+      "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1I0bTBhSXdtODhsUGNFRWFfWnE3d1kwTGctUGJCQUlNeWZWaFlsSFVPeFlhejlEZXl5NENjamFHSHoyTVdjOUdGb3RLQkxiem5RLUZYOXNxekUxeEhVZnBDNzZCa0RSWF9RRXNSLXJkczlpNno4a2o0MmJoZ1hGdDdrU2w5c3haRUNvTGFnTQ?oc=5",
+      "published_at": "2026-06-24T22:00:21+00:00",
+      "real_link": "https://www.sciencetimes.co.kr/nscvrg/view/menu/248?searchCategory=220&nscvrgSn=262041",
+      "sent_at": "2026-06-24T22:03:03.288890+00:00",
+      "title": "사이언스타임즈/사용자메뉴/과학기술/기초·응용과학"
+    },
     "11d020a9198fc63ad32dcaf820cd0659fe93ba0845fa4b3afaff27f9e2ca7b01": {
       "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DS1ZGb0dJVXJfZnRmSVRjQ3NGdUZJX2VqNzJ6YW81RVlXa2xpZWJadlVWT2Nmb2hfWnF3bGNmR1VmeVM3X3hodG5US0Uta0wtVHc?oc=5",
       "published_at": "2026-06-23T10:44:33+00:00",
@@ -21,6 +28,13 @@
       "real_link": "https://bloomingbit.io/feed/news/114797",
       "sent_at": "2026-06-22T16:20:26.842926+00:00",
       "title": "비탈릭 \"익명으로 작성한 이더리움(ETH) 문서 있다...AI로 찾아봐라\""
+    },
+    "296877d07f4c352a0e75541a780a87951824bfcb29ffd4b5f9fa3edd77e17c84": {
+      "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0TUx0ZHEyWmI4YWVVNFUySGhsbEV3ZkdxcU9FRjlXTl9PWGt3MmFEYTBzUzNhYXFZQmY2VDBQYml3Rl9lTHo2M0RSZXYzTTNiOHJUWTcwU1hBNVJh?oc=5",
+      "published_at": "2026-06-24T21:40:00+00:00",
+      "real_link": "https://www.newspim.com/news/view/20260625000030",
+      "sent_at": "2026-06-24T22:03:01.860570+00:00",
+      "title": "[채권/외환] 美 국채금리 하락에도 달러는 13개월 최고…연준 매파 기조에 시장 긴장"
     },
     "2ed3d307f4e0a9f77d8e483c50caee9f5633fbfed7d6e985acab1aa35d05281d": {
       "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OcThXUmtaRlFmdFAtMDk5N0s1d2w5eG1KWUdLVEVBZnFtSzRfTl9FQnVDSDFLeURqQUVZZGxkQk51bzNYaW15RW5uYW5ES01HY1NDVUZ2ZE5qajhDTE9GSW1qaGFuQ3M?oc=5",
@@ -140,6 +154,13 @@
       "real_link": "https://kr.investing.com/news/economy-news/article-93CH-1993235",
       "sent_at": "2026-06-23T17:30:36.115753+00:00",
       "title": "국채 금리 하락, 주식 매도세에 안전자산 선호 증가"
+    },
+    "ac2e42db9bab1a5e034753fd1e986343ee631063dc92f6a687c69011271b57a0": {
+      "google_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYkVJc09SY1RwTi1fZXFwaEpqTUhaamZJYkRndVZub1p1M3FDQkdqX1lxc05YUkVCRlJDQW1xNXBjcmMwcGZidGJkejFxX1gzcFVEcURLYnZjbGZZZXdweVpmY3BGSlpHRV9pdHh4RHFCaFJfUGdDUWk2MVA5Y2FpVG5URdIBlwFBVV95cUxPUmpWMnVXQ2k1NmRoYzlIRFBBcVY1Z3lCY3BqS1p3Mi1UTHFkN3Vqd0RHRU9WWmRMWmdiME51NUQtZXFmaTU0c1JMU0t4bTBpNHZXV3hPM2luYjZ3WjdOQXZQbW5qQXJEQTl2LUxOeHVxNlFzUGJzRWprRUFhbjZCRzRMLUR0bm1DZnF5aGhRR3V5Z0RWOFI0?oc=5",
+      "published_at": "2026-06-24T21:57:00+00:00",
+      "real_link": "https://biz.chosun.com/about-investing/2026/06/25/EZ2LSLDLFZGZTN3XVPPXZW3WHM/",
+      "sent_at": "2026-06-24T22:03:00.222553+00:00",
+      "title": "[투자노트] AI 과열론 잠재울 마이크론의 ‘깜짝 실적’ - 조선비즈"
     },
     "b23cd1c2b3171fac710852002318e8e48a483df65b90b3a85a44a825676e3412": {
       "google_link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxQbHRUSGNpa21ZYTdKYmJIN3BrVlRRT3NDS01RYmlEemVRd01fYTRBRjcyVzRZRTcyQ096T1BFV193RnRpY2JmbTRFV1M4Q1haazhmVFlHTUhaZHh1bV90d2ppaDdFUG9VNDZOejNWU19aWmZRY1AycG9fZW1EaWkwcDVkWlF0OEZXVmVmVlNkODR4NEhkNm5OQXQyLXFUWFVuektTeTVmRU9XUjdETXVDNExtbGxSRVZ0WHpjQkp1a1p3R0tOMnk0MEFZVEt4bWNteGp1ckJoWHpyRkFEdHROWUk5ZTVxZHFGZDJKSDlRWmt4RVFYelBpWWNDZzFFX18xMFhwVndyTmxJajV1QVpMQXBQeUlWdThiNUt1NGdkNnN3VnQxN3BnNGZCMEVDTGNSSng3SG5zTDBLMTlXZVNPMGt6R2JMM2lLY0NMUk1mcm9oeTRIZGdnUGFELWZQZEJaNFI0NDZFaHk4X2dIM2tyamdJTFdQNWplWWZQeGxhbGFSVkFHVHVBaUxMLWtZdWV4S0xCeWswSTZHVzZ0dENJVEx1bDRfYjRaT3dVZDRGX3g3XzIzZWxPRWR1UkxDYkNpWkNRZUdYZ0UwUzdHR1NLZGdNWTFWbzdrNjQxMTZEczdITm9JU0pmWGhYQm1NTWlxRGlrYjE0RFdqbDcwMThv?oc=5",
@@ -262,6 +283,11 @@
     }
   },
   "url_cache": {
+    "0d19b4be6d52970228e348850038e5ada9461763d7515fb5691c0cffb1955c75": {
+      "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1I0bTBhSXdtODhsUGNFRWFfWnE3d1kwTGctUGJCQUlNeWZWaFlsSFVPeFlhejlEZXl5NENjamFHSHoyTVdjOUdGb3RLQkxiem5RLUZYOXNxekUxeEhVZnBDNzZCa0RSWF9RRXNSLXJkczlpNno4a2o0MmJoZ1hGdDdrU2w5c3haRUNvTGFnTQ?oc=5",
+      "real_link": "https://www.sciencetimes.co.kr/nscvrg/view/menu/248?searchCategory=220&nscvrgSn=262041",
+      "updated_at": "2026-06-24T22:03:02.765345+00:00"
+    },
     "11d020a9198fc63ad32dcaf820cd0659fe93ba0845fa4b3afaff27f9e2ca7b01": {
       "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DS1ZGb0dJVXJfZnRmSVRjQ3NGdUZJX2VqNzJ6YW81RVlXa2xpZWJadlVWT2Nmb2hfWnF3bGNmR1VmeVM3X3hodG5US0Uta0wtVHc?oc=5",
       "real_link": "https://stock.mk.co.kr/news/view/1109111",
@@ -276,6 +302,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0teG12NGl0VllIdEU4MUs0azY1X3gxM0ZLZXVCLU11S2ZRcWlidFQ0ZW9qY0RvSmVHVFVGX2RpcXVXMFVIUmczZWMxMlJpLVVP?oc=5",
       "real_link": "https://bloomingbit.io/feed/news/114797",
       "updated_at": "2026-06-22T16:20:26.103283+00:00"
+    },
+    "296877d07f4c352a0e75541a780a87951824bfcb29ffd4b5f9fa3edd77e17c84": {
+      "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0TUx0ZHEyWmI4YWVVNFUySGhsbEV3ZkdxcU9FRjlXTl9PWGt3MmFEYTBzUzNhYXFZQmY2VDBQYml3Rl9lTHo2M0RSZXYzTTNiOHJUWTcwU1hBNVJh?oc=5",
+      "real_link": "https://www.newspim.com/news/view/20260625000030",
+      "updated_at": "2026-06-24T22:03:01.285781+00:00"
     },
     "2ed3d307f4e0a9f77d8e483c50caee9f5633fbfed7d6e985acab1aa35d05281d": {
       "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OcThXUmtaRlFmdFAtMDk5N0s1d2w5eG1KWUdLVEVBZnFtSzRfTl9FQnVDSDFLeURqQUVZZGxkQk51bzNYaW15RW5uYW5ES01HY1NDVUZ2ZE5qajhDTE9GSW1qaGFuQ3M?oc=5",
@@ -361,6 +392,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFaGl4TG92T1I1OVp3WFhtbzdPSkI4LWdBbEFueGhZUEtMRDNZR1JnLU5vTE9ldG1ON21Od0VHNGhCenhWa1hsZVRGV2I0X25QZjNJbTR1ZUJ1NlhjV0h0Um9fbUhfVklVcDliQjg5UVg?oc=5",
       "real_link": "https://kr.investing.com/news/economy-news/article-93CH-1993235",
       "updated_at": "2026-06-23T17:30:35.586062+00:00"
+    },
+    "ac2e42db9bab1a5e034753fd1e986343ee631063dc92f6a687c69011271b57a0": {
+      "google_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYkVJc09SY1RwTi1fZXFwaEpqTUhaamZJYkRndVZub1p1M3FDQkdqX1lxc05YUkVCRlJDQW1xNXBjcmMwcGZidGJkejFxX1gzcFVEcURLYnZjbGZZZXdweVpmY3BGSlpHRV9pdHh4RHFCaFJfUGdDUWk2MVA5Y2FpVG5URdIBlwFBVV95cUxPUmpWMnVXQ2k1NmRoYzlIRFBBcVY1Z3lCY3BqS1p3Mi1UTHFkN3Vqd0RHRU9WWmRMWmdiME51NUQtZXFmaTU0c1JMU0t4bTBpNHZXV3hPM2luYjZ3WjdOQXZQbW5qQXJEQTl2LUxOeHVxNlFzUGJzRWprRUFhbjZCRzRMLUR0bm1DZnF5aGhRR3V5Z0RWOFI0?oc=5",
+      "real_link": "https://biz.chosun.com/about-investing/2026/06/25/EZ2LSLDLFZGZTN3XVPPXZW3WHM/",
+      "updated_at": "2026-06-24T22:02:59.450797+00:00"
     },
     "b23cd1c2b3171fac710852002318e8e48a483df65b90b3a85a44a825676e3412": {
       "google_link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxQbHRUSGNpa21ZYTdKYmJIN3BrVlRRT3NDS01RYmlEemVRd01fYTRBRjcyVzRZRTcyQ096T1BFV193RnRpY2JmbTRFV1M4Q1haazhmVFlHTUhaZHh1bV90d2ppaDdFUG9VNDZOejNWU19aWmZRY1AycG9fZW1EaWkwcDVkWlF0OEZXVmVmVlNkODR4NEhkNm5OQXQyLXFUWFVuektTeTVmRU9XUjdETXVDNExtbGxSRVZ0WHpjQkp1a1p3R0tOMnk0MEFZVEt4bWNteGp1ckJoWHpyRkFEdHROWUk5ZTVxZHFGZDJKSDlRWmt4RVFYelBpWWNDZzFFX18xMFhwVndyTmxJajV1QVpMQXBQeUlWdThiNUt1NGdkNnN3VnQxN3BnNGZCMEVDTGNSSng3SG5zTDBLMTlXZVNPMGt6R2JMM2lLY0NMUk1mcm9oeTRIZGdnUGFELWZQZEJaNFI0NDZFaHk4X2dIM2tyamdJTFdQNWplWWZQeGxhbGFSVkFHVHVBaUxMLWtZdWV4S0xCeWswSTZHVzZ0dENJVEx1bDRfYjRaT3dVZDRGX3g3XzIzZWxPRWR1UkxDYkNpWkNRZUdYZ0UwUzdHR1NLZGdNWTFWbzdrNjQxMTZEczdITm9JU0pmWGhYQm1NTWlxRGlrYjE0RFdqbDcwMThv?oc=5",
