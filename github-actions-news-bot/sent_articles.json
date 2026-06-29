@@ -1,6 +1,13 @@
 {
   "failed": {},
   "sent": {
+    "0131301f191a4a4e7b78491ee034eb12ed163c42f999497b40170379f6fe6a59": {
+      "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQcTRDcXRaUWNqTld3dW9lZFRybF9FZXBCUm8xWk5jOVByTEhqbk1WNTRiQ1hJQ0ltMVVoSGNPOUtYUXB0NUpRMDJsRHNzNmItQkVham5ydkhfQUNXdXZoU0l1eElyamt5OUdVMjNIRlo1MGo4cWV4cw?oc=5",
+      "published_at": "2026-06-29T20:52:00+00:00",
+      "real_link": "https://m.news.nate.com/view/20260630n03394?mid=m02&list=recent&cpcd=",
+      "sent_at": "2026-06-29T20:59:38.502402+00:00",
+      "title": "비용 1.2조원 줄였는데 2000억 더 필요…홈플러스 회생계획 수정안 제출"
+    },
     "0224dff8f543818eaef0e29dd285934218f4ef1341dc7c42745e251c5c081352": {
       "google_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXcFhlTmNZZzhvNFpMOUhjdG5wX2NNaXE5V09uTlFVSHc0ZDJFb0ZuQ0lSSnVOUTlDT1BiZE9CRzRHX2dBYk56QlNOcmo3SC1OUjcwdg?oc=5",
       "published_at": "2026-06-26T10:16:00+00:00",
@@ -470,6 +477,13 @@
       "sent_at": "2026-06-26T10:37:46.757524+00:00",
       "title": "中관영지, 日기업들 공급망박람회 참여 부각…\"다카이치 향한 신호\"(종합)"
     },
+    "dd7115ed1149a8d33e7c557e261d2831ff60b049a0e5a32cbba73bfb05371d76": {
+      "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RZ0JzRUxNVkFJbkhOX0M0cXJnTF8tUkozdDZucjZUNnVhcWRETkNGZEtZU2FMYVRvRHF5bW1LTS0yRzI1bC1IRk1TMUg2bWlTQnZ1N19JRDBhOFE5NFZmZnBDSHZsMVZVMGc?oc=5",
+      "published_at": "2026-06-29T20:56:00+00:00",
+      "real_link": "http://www.jeonpa.co.kr/news/articleView.html?idxno=221001",
+      "sent_at": "2026-06-29T20:59:40.026429+00:00",
+      "title": "한은 \"AI투자 美경제 핵심동력... 투자 지속\""
+    },
     "dd86eb579bcb3e4b1092fb1bc52885c5cd2ea851b727027ecc6d3a0ccfbac2ed": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JbnJPOWpkM2V4c08teXlJQmRTZDc1YmdjSll1Ul9yeEJmbkYyR0h0S3RtVlAxdUFEMF9oaTJWN0xaczF4R1B1M0wtZHphZVYwdk45MHpEMmlWSzBqSm5Da2k1THk5X1VzYmdrUEdNV0d6Wm_SAXdBVV95cUxOSEs0UXgtQlVueURZN3dYV2ctSVVmd1gwdUpyUlNaV19aQVdPN2FjaVBWaVJHWHRrdnQweTUzQXE2b2NJVWFjYUdReHFvdkVXaVN2NDZJbEdlbTNhX1ZsazdnaTUxdmQ1WkNUUGRQV1ZjbjQxSnNRTQ?oc=5",
       "published_at": "2026-06-21T05:37:20+00:00",
@@ -577,6 +591,11 @@
     }
   },
   "url_cache": {
+    "0131301f191a4a4e7b78491ee034eb12ed163c42f999497b40170379f6fe6a59": {
+      "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQcTRDcXRaUWNqTld3dW9lZFRybF9FZXBCUm8xWk5jOVByTEhqbk1WNTRiQ1hJQ0ltMVVoSGNPOUtYUXB0NUpRMDJsRHNzNmItQkVham5ydkhfQUNXdXZoU0l1eElyamt5OUdVMjNIRlo1MGo4cWV4cw?oc=5",
+      "real_link": "https://m.news.nate.com/view/20260630n03394?mid=m02&list=recent&cpcd=",
+      "updated_at": "2026-06-29T20:59:38.014331+00:00"
+    },
     "0224dff8f543818eaef0e29dd285934218f4ef1341dc7c42745e251c5c081352": {
       "google_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXcFhlTmNZZzhvNFpMOUhjdG5wX2NNaXE5V09uTlFVSHc0ZDJFb0ZuQ0lSSnVOUTlDT1BiZE9CRzRHX2dBYk56QlNOcmo3SC1OUjcwdg?oc=5",
       "real_link": "https://news.jtbc.co.kr/article/NB12305269",
@@ -911,6 +930,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IQzI5dmJJV2pVaXZUY05IMGRGU1dlVG04c3NKQWl2QWVLd0Jqd0tURzBFWHBzbjRSQ1ZScUNHM0FsajVMdHlHTDlfcHVtaFJRNkU4?oc=5",
       "real_link": "https://news.nate.com/view/20260626n28950",
       "updated_at": "2026-06-26T10:37:46.165231+00:00"
+    },
+    "dd7115ed1149a8d33e7c557e261d2831ff60b049a0e5a32cbba73bfb05371d76": {
+      "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RZ0JzRUxNVkFJbkhOX0M0cXJnTF8tUkozdDZucjZUNnVhcWRETkNGZEtZU2FMYVRvRHF5bW1LTS0yRzI1bC1IRk1TMUg2bWlTQnZ1N19JRDBhOFE5NFZmZnBDSHZsMVZVMGc?oc=5",
+      "real_link": "http://www.jeonpa.co.kr/news/articleView.html?idxno=221001",
+      "updated_at": "2026-06-29T20:59:39.532149+00:00"
     },
     "dd86eb579bcb3e4b1092fb1bc52885c5cd2ea851b727027ecc6d3a0ccfbac2ed": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JbnJPOWpkM2V4c08teXlJQmRTZDc1YmdjSll1Ul9yeEJmbkYyR0h0S3RtVlAxdUFEMF9oaTJWN0xaczF4R1B1M0wtZHphZVYwdk45MHpEMmlWSzBqSm5Da2k1THk5X1VzYmdrUEdNV0d6Wm_SAXdBVV95cUxOSEs0UXgtQlVueURZN3dYV2ctSVVmd1gwdUpyUlNaV19aQVdPN2FjaVBWaVJHWHRrdnQweTUzQXE2b2NJVWFjYUdReHFvdkVXaVN2NDZJbEdlbTNhX1ZsazdnaTUxdmQ1WkNUUGRQV1ZjbjQxSnNRTQ?oc=5",
