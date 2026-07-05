@@ -1471,13 +1471,6 @@
       "sent_at": "2026-06-29T22:15:58.905666+00:00",
       "title": "'결혼 페널티' 있다지만…연봉 XX 이하는 혼인신고가 이득ㅣ연수원"
     },
-    "cbc9b8e179192057e3a1321e061ad179e22084129f41b99799e765980ceb8100": {
-      "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EQ2NhWjQxcDJTZmFYVlFXLURPS3BWSXVQOHRIb1kwZTgyeGRSUEx3OW91UVJVUzQ0dTB2MFhadFRrSjg2Tm5WdXlPX1I?oc=5",
-      "published_at": "2026-06-21T18:03:25+00:00",
-      "real_link": "https://www.kairnews.com/news/498401",
-      "sent_at": "2026-06-21T18:09:03.470161+00:00",
-      "title": "CCBS 인물포커스 한화에어로스페이스 대표 김동관"
-    },
     "cc467801888790e85f2ebf0f65813d6d6f11e69254dbb6b47e3cdcf99e3e382e": {
       "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtTWRmVy1BQ2RncjdocjBjcEVva3h4SUZ3bGUxY1pQcENXblhlTnRMV254djFzSWxveXlIQmNVaHJjclZzMFlMTFFpXzRPWGVmS3VNYXhkN2QtUUdBTHN5NUE2aw?oc=5",
       "published_at": "2026-07-01T16:02:00+00:00",
@@ -1498,6 +1491,13 @@
       "real_link": "https://news.nate.com/view/20260705n08367?mid=n0100",
       "sent_at": "2026-07-05T04:34:01.138074+00:00",
       "title": "에코프로비엠 창사 10주년…\"유상증자로 인니 니켈 제련소 투자 가속\""
+    },
+    "d0aeb468612b199cd322667e65a1e66cca6fab1f4330a603b8d6b2d45c844ca5": {
+      "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWtTS0Nnb3VwbDhfYlc3bzM4RFhzdm5wTkxZM2dmWWFMVi1NUzJvSVg4Y0Fpbnd4MzUzbG5UQkY1X3JZYTUyeGxnbDZWUlNuSklhN2lzbEJxZm8xWUJxb3N2aHRYaUZ3M0JqZTVwQmpGWVJrNWJTcUE5TGFuTWxYS2NPRldNUQ?oc=5",
+      "published_at": "2026-07-05T18:00:00+00:00",
+      "real_link": "https://www.chosun.com/economy/weeklybiz/2026/07/06/WH4LOZARVFDQ5D4OO5XRR5ZWWU/",
+      "sent_at": "2026-07-05T18:14:33.742260+00:00",
+      "title": "AI가 투자 결정한 펀드 수익률, 초기에만 반짝⋯ 인간보다 우월하지 않았다"
     },
     "d24a747a5c35718fe20fb4eec73c21840000623bfead88d12ee27c02e7dab69f": {
       "google_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HUDdrN0kzYXJGVjYxNHB5aTJLV1B1SkZQS0pTTGFndW5oTE5yTTN3eXJPcFZ2VlJHZEI3YjJBMk9CV2Zwd3luVHpHVEpycVhUTDNRaEFvb3Nfb3hpaWtvNVRR?oc=5",
@@ -2824,11 +2824,6 @@
       "real_link": "https://news.nate.com/view/20260630n04590",
       "updated_at": "2026-06-29T22:15:58.251218+00:00"
     },
-    "cbc9b8e179192057e3a1321e061ad179e22084129f41b99799e765980ceb8100": {
-      "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EQ2NhWjQxcDJTZmFYVlFXLURPS3BWSXVQOHRIb1kwZTgyeGRSUEx3OW91UVJVUzQ0dTB2MFhadFRrSjg2Tm5WdXlPX1I?oc=5",
-      "real_link": "https://www.kairnews.com/news/498401",
-      "updated_at": "2026-06-21T18:09:02.581372+00:00"
-    },
     "cc467801888790e85f2ebf0f65813d6d6f11e69254dbb6b47e3cdcf99e3e382e": {
       "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtTWRmVy1BQ2RncjdocjBjcEVva3h4SUZ3bGUxY1pQcENXblhlTnRMV254djFzSWxveXlIQmNVaHJjclZzMFlMTFFpXzRPWGVmS3VNYXhkN2QtUUdBTHN5NUE2aw?oc=5",
       "real_link": "https://www.ekn.kr/web/view.php?key=20260701023058378",
@@ -2843,6 +2838,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51U3BTc0dacW1oYnlMRzNXS05xcW80MnpvcFpOeEMza1J4WHZ0eHlzekluVkdvRzJvWHNQYnB0MmFXWEtMY3A5SThIallvTTB2Nl9Ba3R1cm43LXJTS1FIUw?oc=5",
       "real_link": "https://news.nate.com/view/20260705n08367?mid=n0100",
       "updated_at": "2026-07-05T04:34:00.227980+00:00"
+    },
+    "d0aeb468612b199cd322667e65a1e66cca6fab1f4330a603b8d6b2d45c844ca5": {
+      "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWtTS0Nnb3VwbDhfYlc3bzM4RFhzdm5wTkxZM2dmWWFMVi1NUzJvSVg4Y0Fpbnd4MzUzbG5UQkY1X3JZYTUyeGxnbDZWUlNuSklhN2lzbEJxZm8xWUJxb3N2aHRYaUZ3M0JqZTVwQmpGWVJrNWJTcUE5TGFuTWxYS2NPRldNUQ?oc=5",
+      "real_link": "https://www.chosun.com/economy/weeklybiz/2026/07/06/WH4LOZARVFDQ5D4OO5XRR5ZWWU/",
+      "updated_at": "2026-07-05T18:14:33.199152+00:00"
     },
     "d24a747a5c35718fe20fb4eec73c21840000623bfead88d12ee27c02e7dab69f": {
       "google_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HUDdrN0kzYXJGVjYxNHB5aTJLV1B1SkZQS0pTTGFndW5oTE5yTTN3eXJPcFZ2VlJHZEI3YjJBMk9CV2Zwd3luVHpHVEpycVhUTDNRaEFvb3Nfb3hpaWtvNVRR?oc=5",
