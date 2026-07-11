@@ -1786,13 +1786,6 @@
       "sent_at": "2026-07-06T23:37:24.831436+00:00",
       "title": "[미국 특징주] 허츠, 공매도 베팅 최대 규모로 급증"
     },
-    "99ece36117413e12cc42a579e3eba9fff2720b1321e5a5ab283a7baa19352325": {
-      "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFFJMjdfeTVucnMxOTNvMnc2NDJoMmJLUE1CUEo0dHdQMHlBSEI0cVB3bHpZY2RLVXk1VS1yRjZuZFhmTG5acW5oUkUxWUM3b1ctRnJ5N0V1UFdmMC14b2tWbGhRR3lCdmt3bGlMM3JYMmVXLWtQZ0phamw4SnNMNURGZWtFV2FPWGhRaWlXMTZrcGlYNXkxaFpJSk1vREt4Nkl0YzhwNFRLZw?oc=5",
-      "published_at": "2026-06-27T16:17:57+00:00",
-      "real_link": "https://www.tikr.com/ko/blog/vertiv-stock-soared-73-in-2026-heres-what-analysts-see-driving-the-next-move?",
-      "sent_at": "2026-06-27T16:19:57.696851+00:00",
-      "title": "Vertiv Stock Soared 73% in 2026. Here’s What Analysts See Driving the Next Move"
-    },
     "9a754e94d1b615775aa77f37e8315699ade98001342fed527c56a4e284aee65f": {
       "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNFN1V2o2bVBWQXBXT05sdS1vemFzZWtmakFOc2RSekN4UTFSZ21HcUpBWUg5RW9WeVhHWF9wbm52LVRLaTNiaEFmRExCdG1iN281RTlzVkFocF8xblV5WHJGd1Rkc055eFpralJn?oc=5",
       "published_at": "2026-07-10T23:35:36+00:00",
@@ -2023,6 +2016,13 @@
       "real_link": "https://kr.investing.com/news/stock-market-news/article-93CH-2001256",
       "sent_at": "2026-06-30T18:54:49.678254+00:00",
       "title": "Rezolve AI, 옵션 거래량 2만 8천 계약 돌파"
+    },
+    "b33f46f7f8330c6cdd628fb585cf76e78be71bca0836aad944e117bd779f0d12": {
+      "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80aHp4akx0T3pPQndpV0hNTl80SnowMXVzTmpaUmFrdWFUbEJFZC1iSkhVcFFHcTliYTZsV2F3NXNBNElaWUJXaHBUYWo3MlN3MjlXRGFuQ2FJa25SWDdZT0IxcUhwUTVl?oc=5",
+      "published_at": "2026-07-11T16:36:41+00:00",
+      "real_link": "http://www.theonetv.kr/news/articleView.html?idxno=248835",
+      "sent_at": "2026-07-11T16:55:54.811505+00:00",
+      "title": "엔비디아 주가 흔들려도 AI판은 그대로…크레이머 “모든 길은 엔비디아로 통한다”"
     },
     "b4164252e0d6d3ed16e3f3e3003b270598f087608b2b965061cfa992300779a5": {
       "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuUmw2eFB1TURGaEhZX0N5NnoyUUxuQndsUWFRdkJsbkt3V2d1WG1RcHcwU0tKNnFjVGtoWWd5Uy1sU1NUdVFXLXpONGFkaDg5a1N3?oc=5",
@@ -2548,13 +2548,6 @@
       "real_link": "https://www.wikitree.co.kr/articles/1144515",
       "sent_at": "2026-07-02T23:47:24.523437+00:00",
       "title": "동두천 양봉장서 벌통 구경하던 60대 벌에 쏘여 숨져"
-    },
-    "e10e57a52ae713796c7782b0c1c22ab4efb2c4d7bab982d9f7eb0a873b462696": {
-      "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSmVCS2FBS19NUk5BakdxZjByREhRRzNTWXIwWUxOR20tVVVfazB3aU9QQktaMWx3Q2NMeWYtRThQRVhPRVJpMUVnSFBmUW1fbGpDbExsOGZMMEtSajkyemhCdnBYSUdqanBobUFybHQwT1l6SXdwZHhXODRBcG9PaGZmQ0duTU1JNjBONUVEMGM3cjRTcnlYMWRldWZzd1ItRnVjTEl2bkR6NllnVFJr?oc=5",
-      "published_at": "2026-06-27T16:17:57+00:00",
-      "real_link": "https://www.tikr.com/ko/blog/applovins-ai-advertising-engine-just-delivered-59-revenue-growth-heres-the-catch?",
-      "sent_at": "2026-06-27T16:19:59.877683+00:00",
-      "title": "AppLovin’s AI Advertising Engine Just Delivered 59% Revenue Growth. Here’s the Catch."
     },
     "e16f8345a322e392415a9af88c993b04e75e4bf0abd141c12a74124fc141fab0": {
       "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TWkhuVjgxS0FEdk9zLS1lRWpEYUZJWldaeUVSVFJQUmRuUTFXd1htR3A4aFVtTUY5TlVIbnJyQ0NreWpaR2J4U19mY3BUN3prd01oakNTVzhfeFJZc2FYU2NXQ2RQN0NjWHYzTnctbW9DdFdad1E?oc=5",
@@ -4141,11 +4134,6 @@
       "real_link": "https://www.newspim.com/news/view/20260707000078",
       "updated_at": "2026-07-06T23:37:24.341766+00:00"
     },
-    "99ece36117413e12cc42a579e3eba9fff2720b1321e5a5ab283a7baa19352325": {
-      "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFFJMjdfeTVucnMxOTNvMnc2NDJoMmJLUE1CUEo0dHdQMHlBSEI0cVB3bHpZY2RLVXk1VS1yRjZuZFhmTG5acW5oUkUxWUM3b1ctRnJ5N0V1UFdmMC14b2tWbGhRR3lCdmt3bGlMM3JYMmVXLWtQZ0phamw4SnNMNURGZWtFV2FPWGhRaWlXMTZrcGlYNXkxaFpJSk1vREt4Nkl0YzhwNFRLZw?oc=5",
-      "real_link": "https://www.tikr.com/ko/blog/vertiv-stock-soared-73-in-2026-heres-what-analysts-see-driving-the-next-move?",
-      "updated_at": "2026-06-27T16:19:56.794463+00:00"
-    },
     "9a754e94d1b615775aa77f37e8315699ade98001342fed527c56a4e284aee65f": {
       "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNFN1V2o2bVBWQXBXT05sdS1vemFzZWtmakFOc2RSekN4UTFSZ21HcUpBWUg5RW9WeVhHWF9wbm52LVRLaTNiaEFmRExCdG1iN281RTlzVkFocF8xblV5WHJGd1Rkc055eFpralJn?oc=5",
       "real_link": "https://www.ezyeconomy.com/news/articleView.html?idxno=237396",
@@ -4310,6 +4298,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55T04wVjdXeEdwWmp4b21pTWRVZDVseVlKNHdHdUptbk8wU2I4Ynd1SDZjb2w4TXl5dElqNzNUbDVhbms4ZTdxZllLVkc0N3VkSUFOakpsTFF6NjVuMjBDSnhiR1hNTFd2cnhBcHprTzVjVWRDbWRV?oc=5",
       "real_link": "https://kr.investing.com/news/stock-market-news/article-93CH-2001256",
       "updated_at": "2026-06-30T18:54:49.208706+00:00"
+    },
+    "b33f46f7f8330c6cdd628fb585cf76e78be71bca0836aad944e117bd779f0d12": {
+      "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80aHp4akx0T3pPQndpV0hNTl80SnowMXVzTmpaUmFrdWFUbEJFZC1iSkhVcFFHcTliYTZsV2F3NXNBNElaWUJXaHBUYWo3MlN3MjlXRGFuQ2FJa25SWDdZT0IxcUhwUTVl?oc=5",
+      "real_link": "http://www.theonetv.kr/news/articleView.html?idxno=248835",
+      "updated_at": "2026-07-11T16:55:54.133953+00:00"
     },
     "b4164252e0d6d3ed16e3f3e3003b270598f087608b2b965061cfa992300779a5": {
       "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuUmw2eFB1TURGaEhZX0N5NnoyUUxuQndsUWFRdkJsbkt3V2d1WG1RcHcwU0tKNnFjVGtoWWd5Uy1sU1NUdVFXLXpONGFkaDg5a1N3?oc=5",
@@ -4685,11 +4678,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZREFaVlpta0FsNXJQY04zOHNuQkJVMEc3cTc5TnF0bDdoakxITk51b2ptOVhUVEplWFJVeGZkNmVmWUJfeXloeGZEalhVZGxHSUdjQk1R?oc=5",
       "real_link": "https://www.wikitree.co.kr/articles/1144515",
       "updated_at": "2026-07-02T23:47:23.508868+00:00"
-    },
-    "e10e57a52ae713796c7782b0c1c22ab4efb2c4d7bab982d9f7eb0a873b462696": {
-      "google_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSmVCS2FBS19NUk5BakdxZjByREhRRzNTWXIwWUxOR20tVVVfazB3aU9QQktaMWx3Q2NMeWYtRThQRVhPRVJpMUVnSFBmUW1fbGpDbExsOGZMMEtSajkyemhCdnBYSUdqanBobUFybHQwT1l6SXdwZHhXODRBcG9PaGZmQ0duTU1JNjBONUVEMGM3cjRTcnlYMWRldWZzd1ItRnVjTEl2bkR6NllnVFJr?oc=5",
-      "real_link": "https://www.tikr.com/ko/blog/applovins-ai-advertising-engine-just-delivered-59-revenue-growth-heres-the-catch?",
-      "updated_at": "2026-06-27T16:19:59.110270+00:00"
     },
     "e16f8345a322e392415a9af88c993b04e75e4bf0abd141c12a74124fc141fab0": {
       "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TWkhuVjgxS0FEdk9zLS1lRWpEYUZJWldaeUVSVFJQUmRuUTFXd1htR3A4aFVtTUY5TlVIbnJyQ0NreWpaR2J4U19mY3BUN3prd01oakNTVzhfeFJZc2FYU2NXQ2RQN0NjWHYzTnctbW9DdFdad1E?oc=5",
