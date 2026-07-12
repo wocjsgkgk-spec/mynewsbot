@@ -750,13 +750,6 @@
       "sent_at": "2026-07-11T13:52:45.784705+00:00",
       "title": "AIROC 2026 국제 로봇 경진대회 출범"
     },
-    "3a2882cfc344707b4e7249ecefa9e3fada171e96c4a68fe84b86ba44e3006047": {
-      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZVWNRVEFTc0pQcXFCaXhCNHJ1Q1pLYXB5RFJBRUhQVjA0cDkydVlFTXFMcDZjVFJ0WGs0RXNqU0NDZVZTRHlBd2tQQUJzV21wdGxR?oc=5",
-      "published_at": "2026-06-28T19:35:00+00:00",
-      "real_link": "https://news.nate.com/view/20260629n01268",
-      "sent_at": "2026-06-28T19:58:18.386132+00:00",
-      "title": "'호남 반도체' 여론전 나선 李 \"특혜 아냐, 지역주의 조장 멈추길\""
-    },
     "3b348c4ff96b13e090750ea86725811fa72a0a759d772aeec21438cc3981b740": {
       "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kYmRCNWlMUU52TFcySmdXNXlkRGM2cGNUZm4wOEdXeVNpcE5IMDhfb0EyRUtjZWNBMHk1Z2ZCaGxVdTI1Z0U2Z1pweEU?oc=5",
       "published_at": "2026-07-03T19:50:26+00:00",
@@ -1051,6 +1044,13 @@
       "sent_at": "2026-06-30T20:56:20.411375+00:00",
       "title": "원·달러 환율 1,549.5원 마감...엔저 흐름에 동참"
     },
+    "5656daeafb515a8f718569cd49e958c9c310a5f702d4f92f74ad29e697104e4a": {
+      "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3LTZPeUY5NndaR0kzaXpoWnZIZW1Mc0pQdGpFWU03R1hBQmI3UFV3YWYzeU5YUkxZMmk1NHBBMUt3Y0RUYXVobUNOQ1FVak9pa0RvNWxYeHl2Q01WYV9mYUtJaG5yWjJaSW9sT2xGSVRTZzZkc2pUcA?oc=5",
+      "published_at": "2026-07-12T20:23:00+00:00",
+      "real_link": "https://m.news.nate.com/view/20260713n01165?mid=m02&list=recent&cpcd=",
+      "sent_at": "2026-07-12T20:30:13.375332+00:00",
+      "title": "이충훈 삼성증권 부사장 \"기업 생애주기 책임…모험자본 공급 역할\" [커버리지, 기업을 잡는 손]⑤"
+    },
     "56a80d125b9eb37a975c5327901ec411bcd36f3fc5700cd97b2ca325de593ca8": {
       "google_link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9fNUVjQ0tQZElFUEJBY3lwbURfY3VNVXVzc25NZzB0TDdxd3VSV1ZfZU9oMHpsd0EyQWYweXRWWTRIYVFCWVHSAUJBVV95cUxOamtKcWJDZjhTM2MtWmpleEtiNjBrRmxmVlo5RjVKTHN3a1A3YUlHaml4M1RZRzJmeWlPU1BRZGd2UHc?oc=5",
       "published_at": "2026-07-10T19:16:20+00:00",
@@ -1232,6 +1232,13 @@
       "real_link": "https://www.newspim.com/news/view/20260706001212",
       "sent_at": "2026-07-06T14:31:56.128817+00:00",
       "title": "모간스탠리 \"미 반도체 약세는 순환 신호…하이퍼스케일러·경기소비재로 자금 이동\""
+    },
+    "63276037f3989a5ef28fdaf8ea0388c4c84d49e299a1f05673ae66e596c0d5c9": {
+      "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3poUDZOOTFINUxZWkpBYk5oQjhSLW1wNFE4c3BidmgwaGMtZmlQTUlHNk5pN0h0bFI1TjZqaEFsOXBzbDZKaFFCSGROeDJXZFpCRVpuQ2JFdFlka1RkeGhtNC03X3Y0b1J4N2U1UzdPT2xVOXozd1N4V2Y1Z3J2QXJMalpTeE44aGIxdVVhczV5dHJKZy1EVVh5X0QyQQ?oc=5",
+      "published_at": "2026-07-12T20:16:00+00:00",
+      "real_link": "https://www.chosun.com/international/international_general/2026/07/13/A5XRWA7N3ZBEXHHVDCODBHT7GM/",
+      "sent_at": "2026-07-12T20:30:14.920569+00:00",
+      "title": "美 경제 전문가 \"경기 침체 우려 낮지만 고물가 위험 높아\""
     },
     "63ae1b4977834eccf2da3e04f3f5ad34e8ecfb308b73754e1591329ed721f5d7": {
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0Z25VcnlhYlVoaGY3Q3VaSWJHeVlDOVJCMkVGam56NGZQOWpSWlR6Z0xtRW1LQjFiQjNkU3lObUlpS1VnQkZCV0FyRVZZZUxqX3lLdnVwemRmakJ0SmV6dHM3UEg2djdSM25GMlRwbHE?oc=5",
@@ -2689,6 +2696,13 @@
       "sent_at": "2026-07-08T00:09:28.483819+00:00",
       "title": "[오늘 주요 경제·암호화폐 일정] 6월 FOMC 의사록 外"
     },
+    "d60a9ba40c62ace13d13ef751a9eafca7bdf83a6526a08378295f0f9625f98fb": {
+      "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KYjE1dUhEVjMwX3NQZWluNUpLbUFfT2ZFSWJRX3pfblU1bXg3eWI2QXE1R3g2Y3lVQ05tSmxMZ0otNTJTbjhEWjBTMDRmeW9ZWmFEaFZ4RTNyc3BzR2ZMbWpsLU9xeGRvcDRv?oc=5",
+      "published_at": "2026-07-12T20:16:03+00:00",
+      "real_link": "https://www.cj-ilbo.com/news/articleView.html?idxno=1179586",
+      "sent_at": "2026-07-12T20:30:16.261894+00:00",
+      "title": "충북 청주시, AI로 포트홀 잡는다… 도로 위험 탐지체계 확대"
+    },
     "d6910ee44dfee385897f9c0fafee136f81b6630d12b7110bfb4397aa5709bf11": {
       "google_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsUU9pQzAyZGRIMGNlZjBMMDZvdHVqZ3I2MTFIdkZuRGVYMzBtMHNPYWM2TW5FcU1zcUJFNlQtYS1zaTBoOVlqU3JSWUVnMmFIcVpLRzViQkw1b1FzMTcxWHhLYXU1Wl9oRWE1LTdibHZGNFYz?oc=5",
       "published_at": "2026-07-09T23:06:53+00:00",
@@ -3674,11 +3688,6 @@
       "real_link": "https://www.vietnam.vn/ko/phat-dong-cuoc-thi-robotics-quoc-te-airoc-2026",
       "updated_at": "2026-07-11T13:52:45.290023+00:00"
     },
-    "3a2882cfc344707b4e7249ecefa9e3fada171e96c4a68fe84b86ba44e3006047": {
-      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZVWNRVEFTc0pQcXFCaXhCNHJ1Q1pLYXB5RFJBRUhQVjA0cDkydVlFTXFMcDZjVFJ0WGs0RXNqU0NDZVZTRHlBd2tQQUJzV21wdGxR?oc=5",
-      "real_link": "https://news.nate.com/view/20260629n01268",
-      "updated_at": "2026-06-28T19:58:17.513982+00:00"
-    },
     "3b348c4ff96b13e090750ea86725811fa72a0a759d772aeec21438cc3981b740": {
       "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kYmRCNWlMUU52TFcySmdXNXlkRGM2cGNUZm4wOEdXeVNpcE5IMDhfb0EyRUtjZWNBMHk1Z2ZCaGxVdTI1Z0U2Z1pweEU?oc=5",
       "real_link": "https://www.kairnews.com/news/501871",
@@ -3889,6 +3898,11 @@
       "real_link": "https://www.ytn.co.kr/_ln/0104_202607010541518925",
       "updated_at": "2026-06-30T20:56:19.744923+00:00"
     },
+    "5656daeafb515a8f718569cd49e958c9c310a5f702d4f92f74ad29e697104e4a": {
+      "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3LTZPeUY5NndaR0kzaXpoWnZIZW1Mc0pQdGpFWU03R1hBQmI3UFV3YWYzeU5YUkxZMmk1NHBBMUt3Y0RUYXVobUNOQ1FVak9pa0RvNWxYeHl2Q01WYV9mYUtJaG5yWjJaSW9sT2xGSVRTZzZkc2pUcA?oc=5",
+      "real_link": "https://m.news.nate.com/view/20260713n01165?mid=m02&list=recent&cpcd=",
+      "updated_at": "2026-07-12T20:30:12.580480+00:00"
+    },
     "56a80d125b9eb37a975c5327901ec411bcd36f3fc5700cd97b2ca325de593ca8": {
       "google_link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9fNUVjQ0tQZElFUEJBY3lwbURfY3VNVXVzc25NZzB0TDdxd3VSV1ZfZU9oMHpsd0EyQWYweXRWWTRIYVFCWVHSAUJBVV95cUxOamtKcWJDZjhTM2MtWmpleEtiNjBrRmxmVlo5RjVKTHN3a1A3YUlHaml4M1RZRzJmeWlPU1BRZGd2UHc?oc=5",
       "real_link": "https://voi.id/kr/berita/584257",
@@ -4018,6 +4032,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3WW9PUmdobnN0Vkthckh6WFVlQU5wdjZjaWdnTS1HVFBmbDFVaHhtRXlkbkdudnRERnhxSkNnVHhYMmlUU2VfaEVQTmZOcW80OFF3eWZhcEd6Z3RF?oc=5",
       "real_link": "https://www.newspim.com/news/view/20260706001212",
       "updated_at": "2026-07-06T14:31:55.556505+00:00"
+    },
+    "63276037f3989a5ef28fdaf8ea0388c4c84d49e299a1f05673ae66e596c0d5c9": {
+      "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3poUDZOOTFINUxZWkpBYk5oQjhSLW1wNFE4c3BidmgwaGMtZmlQTUlHNk5pN0h0bFI1TjZqaEFsOXBzbDZKaFFCSGROeDJXZFpCRVpuQ2JFdFlka1RkeGhtNC03X3Y0b1J4N2U1UzdPT2xVOXozd1N4V2Y1Z3J2QXJMalpTeE44aGIxdVVhczV5dHJKZy1EVVh5X0QyQQ?oc=5",
+      "real_link": "https://www.chosun.com/international/international_general/2026/07/13/A5XRWA7N3ZBEXHHVDCODBHT7GM/",
+      "updated_at": "2026-07-12T20:30:14.381683+00:00"
     },
     "63ae1b4977834eccf2da3e04f3f5ad34e8ecfb308b73754e1591329ed721f5d7": {
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0Z25VcnlhYlVoaGY3Q3VaSWJHeVlDOVJCMkVGam56NGZQOWpSWlR6Z0xtRW1LQjFiQjNkU3lObUlpS1VnQkZCV0FyRVZZZUxqX3lLdnVwemRmakJ0SmV6dHM3UEg2djdSM25GMlRwbHE?oc=5",
@@ -5058,6 +5077,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qLWRMX05aSFpVNFR1dGdNdlR3R0dEbkJVRG8yNDhRUjlQLXVPTFBPX29jTlRWRGpxdjdjWTdwbjRJbnE5VEZQelVqM0xoZFA0?oc=5",
       "real_link": "https://bloomingbit.io/feed/news/115803",
       "updated_at": "2026-07-08T00:09:27.785556+00:00"
+    },
+    "d60a9ba40c62ace13d13ef751a9eafca7bdf83a6526a08378295f0f9625f98fb": {
+      "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KYjE1dUhEVjMwX3NQZWluNUpLbUFfT2ZFSWJRX3pfblU1bXg3eWI2QXE1R3g2Y3lVQ05tSmxMZ0otNTJTbjhEWjBTMDRmeW9ZWmFEaFZ4RTNyc3BzR2ZMbWpsLU9xeGRvcDRv?oc=5",
+      "real_link": "https://www.cj-ilbo.com/news/articleView.html?idxno=1179586",
+      "updated_at": "2026-07-12T20:30:15.704430+00:00"
     },
     "d6910ee44dfee385897f9c0fafee136f81b6630d12b7110bfb4397aa5709bf11": {
       "google_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsUU9pQzAyZGRIMGNlZjBMMDZvdHVqZ3I2MTFIdkZuRGVYMzBtMHNPYWM2TW5FcU1zcUJFNlQtYS1zaTBoOVlqU3JSWUVnMmFIcVpLRzViQkw1b1FzMTcxWHhLYXU1Wl9oRWE1LTdibHZGNFYz?oc=5",
