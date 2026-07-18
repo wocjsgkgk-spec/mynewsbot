@@ -904,19 +904,19 @@
       "sent_at": "2026-07-11T21:05:40.541705+00:00",
       "title": "[AI 토큰 경제]③'토성비' 따지는 시대…AI 패권, 이젠 토큰경제다"
     },
-    "3614004e6d8511654cd312821c257312c9108688d6a189bc1c83f81151d78b3d": {
-      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01SElQR1dpeG5uaEtuOXVJa01yQ05sVXpxaFVLVXpIcHUyak0tVUkxMmVvOU1NeDdiR3JlZDlQRk9uSHU5NHkydFNHclMzeGxZWjdz?oc=5",
-      "published_at": "2026-07-04T09:48:00+00:00",
-      "real_link": "https://news.nate.com/view/20260704n09879",
-      "sent_at": "2026-07-04T09:53:38.620386+00:00",
-      "title": "\"삼전닉스가 번 돈을 왜 국민에게?\"…외신 \"한국의 새로운 과제\" 이익 배분 논쟁 커진다"
-    },
     "3652535b29ac9b8827689ddb4f096ec34d0aab3417e62d25b3a4438b71cbe59f": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZmFMME12UXhJZU1NNGFyejg3UFlSd1dBai1ubTlvQjhyQ1FRYU1qTmlBNjhQQno0TjFpZ2VNVFA2Z3JWVHpBa202eVNsdUQ1eGlrbWlReHRrQ1NZVWgxY2lXa09PMll4X0E?oc=5",
       "published_at": "2026-07-16T12:47:32+00:00",
       "real_link": "https://www.hellodd.com/news/articleView.html?idxno=112486",
       "sent_at": "2026-07-16T12:49:02.993788+00:00",
       "title": "김한곤 단장 \"AI 시대 전력 경쟁력 SMR···원전 제조 유일 국가 '대한민국'\""
+    },
+    "36e1d0930442e8560f6773a15012486fbab55bdbb6e93e7947e49ad6279ba7ed": {
+      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyMmVXRWx4OC02US1VcExqeTZOaTVjcWg5aXM1Mm1lVWhVYmUxYnZlcjI5LUl3ekF0ZFRnQk03ZEplalpZbXJBZXdHMU13SWpWX0M0?oc=5",
+      "published_at": "2026-07-18T10:52:05+00:00",
+      "real_link": "https://news.nate.com/view/20260718n09353",
+      "sent_at": "2026-07-18T11:01:21.440744+00:00",
+      "title": "'물폭탄'에 계곡 고립…하천서 악어 붙잡혀"
     },
     "37092a2af01fe565c0022a8de586609fbd81163c687bafde461303bbee9ce3ba": {
       "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BWTc0NjZlTU00bnRCQVZkYmFxeWxSYTdlbzYtNEhqbVY0NE5jVHdNWXdvVWQ0OERyQmdiZjZKNkdwTWF4OHhhTFJVdUN5Z3FSSVE?oc=5",
@@ -1617,13 +1617,6 @@
       "real_link": "https://news.nate.com/view/20260715n28668",
       "sent_at": "2026-07-15T08:16:53.714167+00:00",
       "title": "[K조선 공급망]성광벤드, 곳간 쌓였지만 ROE 후퇴 '자본효율' 과제"
-    },
-    "66f32f2336fd208d18c392eeed4d71991a89bef255b46484ec6c1f2420275e67": {
-      "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JalNtWm9jbTdqMHM4SGdoTzcwalcyMmpLUmtCcEFzUFc5RUl6b0tzRDdCd2dzN24zVGRaOWVqRzdweEdBTWwxMjNTYjA4dFhCNngxTnBpZ3BjQVBy?oc=5",
-      "published_at": "2026-07-04T09:39:00+00:00",
-      "real_link": "https://supple.kr/news/cmr66cir9000011jgceden9h2",
-      "sent_at": "2026-07-04T09:53:36.475825+00:00",
-      "title": "해수욕장 개장했는데 '상어 출몰' 신고…강릉시 재난문자 발송"
     },
     "67b3c50dc51c5c7939546a18d3e5a8b0f553605eacf0adb08b14cb396bbf151e": {
       "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uRWhIRmw4Ynp2QnA0TkxBejZtVkZrUFhuSS1fMFl4R3cybWpJU19pTWRiX0dXeG05SGFLdVVKcGx5ejk5d3paS2pCTVEtWVNNejJvLWVzZkpWR0JvakZ5bGpTbGxuNUVGZW9FbDZmSQ?oc=5",
@@ -2989,6 +2982,13 @@
       "real_link": "https://www.khgames.co.kr/news/articleView.html?idxno=306464",
       "sent_at": "2026-07-16T21:44:55.843975+00:00",
       "title": "[주간 디지털 자산 시장 브리핑] 업비트 지수 1.28% 하락, 거래대금은 32.53% 감소"
+    },
+    "c8d977f4d088c85077c8d9d537fdd74b9a908f6c655716979d95d52df31b041a": {
+      "google_link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQWFp5VXBXZEpKLXludVU5SWhXUEtjUUFldmlpMG0wdVNhdkhLT3hzUFFzTUZfakRQQ2RFdEpxcUJiTENHVDM1eWhvbU9MbFBpcWJFQU14WnNBd3ZrQWlLNGxfa19lLXNYdGNCY3lXSXZPbnRqSS1HRXI4X0tyWmg5UzR3R29MNS1KdUtzM3pJXzBVMS1WcjhTbFVnYlRCeVJMUGhFaFE2MlhZYkZaajZ2WTE2TWRONUpFRWpuWDEzS0dDeWgtVk1SSVNxM0M3amZ0TjAwLVJkUk5VUUc1RzRiVk45SVdOcHUxN1gyS0FjckZBQ2VlWjVSTlJzWGNsbkNfSTdaQ3daYWNHalBhdXoyNnMyaUNyRzBydVpHUFBSbElWZXFOV1dDaHFDZEtJQVUwdXhxdEVzYXd0Zi1BdHB1TlN5bUxKY19DeWZ4bUVxRHlJLUxxeXcxM2RsWWtoWUstYXR4T3d6eHVlazNRYjh4OE5UUm94dzJqMUZRaU1yQUV0c193anB3UjJybkJHNFhWU2F2RXhyLThpbTNOcjk0RmxRcTRrcnFESXA2TUdSM3ZQTUVyQ1lHdzhqWDhxVEpwZTE4WlVqVHJxT1VBVmFldENaYmdRR3dnTkdyLWs2X0hkckd5eUV6cXZncEV2SHNmSl81TXlFTV9kWExxSlNxSjR1R1FTQQ?oc=5",
+      "published_at": "2026-07-18T10:59:52+00:00",
+      "real_link": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98-%EB%86%93%EC%B9%9C-%ED%8F%B4%EB%9E%80%EB%93%9C-%EC%9E%A0%EC%88%98%ED%95%A8-%EC%82%AC%EB%B8%8C-%EC%82%AC%EC%83%81-%EC%B5%9C%EB%8C%80-%EC%88%98%EC%A3%BC-%EB%A1%9C-k-%EB%B0%A9%EC%82%B0%EC%97%90-%EA%B2%BD%EA%B3%A0%EB%93%B1/ar-AA28alq6?cvid=6a5b5c1431c84732ae76fe5f24f103e1&ocid=hpmsn",
+      "sent_at": "2026-07-18T11:01:23.218760+00:00",
+      "title": "한화오션 놓친 폴란드 잠수함, 사브 '사상 최대 수주'로…K-방산에 경고등?"
     },
     "c93cfd3478d6c260a20b7e5cc43fc707c406d417e3a15eceaf1a7626c38d66d4": {
       "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CZEUzM0NVaW50dkN2U3hHM0hGMDhUa3RRclVLVlRZckNSc2FGWVNRRHptTkZtY1FsYk1EWUVpM1ZGb2I4OF8za0R6N0dRcU4taENUVzBZQV9lZUdR?oc=5",
@@ -4456,15 +4456,15 @@
       "real_link": "https://www.news1.kr/it-science/general-it/6223620",
       "updated_at": "2026-07-11T21:05:39.960050+00:00"
     },
-    "3614004e6d8511654cd312821c257312c9108688d6a189bc1c83f81151d78b3d": {
-      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01SElQR1dpeG5uaEtuOXVJa01yQ05sVXpxaFVLVXpIcHUyak0tVUkxMmVvOU1NeDdiR3JlZDlQRk9uSHU5NHkydFNHclMzeGxZWjdz?oc=5",
-      "real_link": "https://news.nate.com/view/20260704n09879",
-      "updated_at": "2026-07-04T09:53:37.999727+00:00"
-    },
     "3652535b29ac9b8827689ddb4f096ec34d0aab3417e62d25b3a4438b71cbe59f": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZmFMME12UXhJZU1NNGFyejg3UFlSd1dBai1ubTlvQjhyQ1FRYU1qTmlBNjhQQno0TjFpZ2VNVFA2Z3JWVHpBa202eVNsdUQ1eGlrbWlReHRrQ1NZVWgxY2lXa09PMll4X0E?oc=5",
       "real_link": "https://www.hellodd.com/news/articleView.html?idxno=112486",
       "updated_at": "2026-07-16T12:49:02.234755+00:00"
+    },
+    "36e1d0930442e8560f6773a15012486fbab55bdbb6e93e7947e49ad6279ba7ed": {
+      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyMmVXRWx4OC02US1VcExqeTZOaTVjcWg5aXM1Mm1lVWhVYmUxYnZlcjI5LUl3ekF0ZFRnQk03ZEplalpZbXJBZXdHMU13SWpWX0M0?oc=5",
+      "real_link": "https://news.nate.com/view/20260718n09353",
+      "updated_at": "2026-07-18T11:01:20.760795+00:00"
     },
     "37092a2af01fe565c0022a8de586609fbd81163c687bafde461303bbee9ce3ba": {
       "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BWTc0NjZlTU00bnRCQVZkYmFxeWxSYTdlbzYtNEhqbVY0NE5jVHdNWXdvVWQ0OERyQmdiZjZKNkdwTWF4OHhhTFJVdUN5Z3FSSVE?oc=5",
@@ -4965,11 +4965,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01eFhxM2tEaHJXd3p2MV9CRUdDLW9Ra05LNTRUVjI3RFJtNVEtZHJDaWZkNGpTRGUzRHNDS2JpZXp3Q2prTFV3ZW9IODNWRkc2eHRB?oc=5",
       "real_link": "https://news.nate.com/view/20260715n28668",
       "updated_at": "2026-07-15T08:16:53.244875+00:00"
-    },
-    "66f32f2336fd208d18c392eeed4d71991a89bef255b46484ec6c1f2420275e67": {
-      "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JalNtWm9jbTdqMHM4SGdoTzcwalcyMmpLUmtCcEFzUFc5RUl6b0tzRDdCd2dzN24zVGRaOWVqRzdweEdBTWwxMjNTYjA4dFhCNngxTnBpZ3BjQVBy?oc=5",
-      "real_link": "https://supple.kr/news/cmr66cir9000011jgceden9h2",
-      "updated_at": "2026-07-04T09:53:35.667027+00:00"
     },
     "67b3c50dc51c5c7939546a18d3e5a8b0f553605eacf0adb08b14cb396bbf151e": {
       "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uRWhIRmw4Ynp2QnA0TkxBejZtVkZrUFhuSS1fMFl4R3cybWpJU19pTWRiX0dXeG05SGFLdVVKcGx5ejk5d3paS2pCTVEtWVNNejJvLWVzZkpWR0JvakZ5bGpTbGxuNUVGZW9FbDZmSQ?oc=5",
@@ -5945,6 +5940,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kUmppenFMZWZPWXU0UW9BcFEzZHRFVURhVzYzU1JWZllEUkVRVjduWm1aN01RakZnX1V1UTdOWG9WS3hCOUJWMHhpYnhqMEpHSUpxczZxekxtZEFrTDZ1T0p6aFhmeENEQno5Ug?oc=5",
       "real_link": "https://www.khgames.co.kr/news/articleView.html?idxno=306464",
       "updated_at": "2026-07-16T21:44:55.123063+00:00"
+    },
+    "c8d977f4d088c85077c8d9d537fdd74b9a908f6c655716979d95d52df31b041a": {
+      "google_link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQWFp5VXBXZEpKLXludVU5SWhXUEtjUUFldmlpMG0wdVNhdkhLT3hzUFFzTUZfakRQQ2RFdEpxcUJiTENHVDM1eWhvbU9MbFBpcWJFQU14WnNBd3ZrQWlLNGxfa19lLXNYdGNCY3lXSXZPbnRqSS1HRXI4X0tyWmg5UzR3R29MNS1KdUtzM3pJXzBVMS1WcjhTbFVnYlRCeVJMUGhFaFE2MlhZYkZaajZ2WTE2TWRONUpFRWpuWDEzS0dDeWgtVk1SSVNxM0M3amZ0TjAwLVJkUk5VUUc1RzRiVk45SVdOcHUxN1gyS0FjckZBQ2VlWjVSTlJzWGNsbkNfSTdaQ3daYWNHalBhdXoyNnMyaUNyRzBydVpHUFBSbElWZXFOV1dDaHFDZEtJQVUwdXhxdEVzYXd0Zi1BdHB1TlN5bUxKY19DeWZ4bUVxRHlJLUxxeXcxM2RsWWtoWUstYXR4T3d6eHVlazNRYjh4OE5UUm94dzJqMUZRaU1yQUV0c193anB3UjJybkJHNFhWU2F2RXhyLThpbTNOcjk0RmxRcTRrcnFESXA2TUdSM3ZQTUVyQ1lHdzhqWDhxVEpwZTE4WlVqVHJxT1VBVmFldENaYmdRR3dnTkdyLWs2X0hkckd5eUV6cXZncEV2SHNmSl81TXlFTV9kWExxSlNxSjR1R1FTQQ?oc=5",
+      "real_link": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98-%EB%86%93%EC%B9%9C-%ED%8F%B4%EB%9E%80%EB%93%9C-%EC%9E%A0%EC%88%98%ED%95%A8-%EC%82%AC%EB%B8%8C-%EC%82%AC%EC%83%81-%EC%B5%9C%EB%8C%80-%EC%88%98%EC%A3%BC-%EB%A1%9C-k-%EB%B0%A9%EC%82%B0%EC%97%90-%EA%B2%BD%EA%B3%A0%EB%93%B1/ar-AA28alq6?cvid=6a5b5c1431c84732ae76fe5f24f103e1&ocid=hpmsn",
+      "updated_at": "2026-07-18T11:01:22.570421+00:00"
     },
     "c93cfd3478d6c260a20b7e5cc43fc707c406d417e3a15eceaf1a7626c38d66d4": {
       "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CZEUzM0NVaW50dkN2U3hHM0hGMDhUa3RRclVLVlRZckNSc2FGWVNRRHptTkZtY1FsYk1EWUVpM1ZGb2I4OF8za0R6N0dRcU4taENUVzBZQV9lZUdR?oc=5",
