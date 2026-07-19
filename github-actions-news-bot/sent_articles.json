@@ -2199,6 +2199,13 @@
       "sent_at": "2026-07-13T11:11:56.244123+00:00",
       "title": "'하닉·삼전 시총 역전=주가 폭락' 그 증권사 \"과매도 국면\" [분석+]"
     },
+    "892943410a5c2dbe5b562abc4aebc8b3218c7b61d910122d75eb912233d0f22e": {
+      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa05NTVhOMVdqREl4Z3YwVmRMbGlqcm9pTnN0R3ZWX25Bd0hMQ1dSbjBYY2d0cUlUcllYMUd4WFY3Z0RURXh4a1ZDZkpBUEdTc3FrU0NhMU1YWmc5QlNINksyRDFNUXZSa2l0ZGd0MHFpV3NmSV83dkt2bklzRkVPTXdFelliS0hO?oc=5",
+      "published_at": "2026-07-19T18:25:00+00:00",
+      "real_link": "https://www.g-enews.com/article/Global-Biz/2026/07/202607191620361285fbbec65dfb_1",
+      "sent_at": "2026-07-19T18:27:54.320593+00:00",
+      "title": "美 데이터센터 '주민 장벽'… AI 투자 과열 논쟁 불붙다"
+    },
     "8999417661d275e8f5d48b2b0f5d25331e0df67c51b835dd38510a325fc8288e": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CaGNja256ZkZrdWxUZHh1OG9PaVNXanlXeC14VjhaMGlPZ3pYc3lwVFFnTnYyRE1sOW9fLTN5S1REUktIaFRIc1JRZ0NXREtxQjRmb0VtaFpkeTUxaU4tRWQzbEZaVzNHRlE?oc=5",
       "published_at": "2026-07-19T17:17:00+00:00",
@@ -3220,13 +3227,6 @@
       "real_link": "https://www.vietnam.vn/ko/co-phieu-pnj-giam-san-phien-thu-3-lien-tiep",
       "sent_at": "2026-07-07T05:35:27.671216+00:00",
       "title": "PNJ 주가는 3거래일 연속 하한가를 기록했습니다."
-    },
-    "d0aeb468612b199cd322667e65a1e66cca6fab1f4330a603b8d6b2d45c844ca5": {
-      "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWtTS0Nnb3VwbDhfYlc3bzM4RFhzdm5wTkxZM2dmWWFMVi1NUzJvSVg4Y0Fpbnd4MzUzbG5UQkY1X3JZYTUyeGxnbDZWUlNuSklhN2lzbEJxZm8xWUJxb3N2aHRYaUZ3M0JqZTVwQmpGWVJrNWJTcUE5TGFuTWxYS2NPRldNUQ?oc=5",
-      "published_at": "2026-07-05T18:00:00+00:00",
-      "real_link": "https://www.chosun.com/economy/weeklybiz/2026/07/06/WH4LOZARVFDQ5D4OO5XRR5ZWWU/",
-      "sent_at": "2026-07-05T18:14:33.742260+00:00",
-      "title": "AI가 투자 결정한 펀드 수익률, 초기에만 반짝⋯ 인간보다 우월하지 않았다"
     },
     "d125c53f6c6d862c9046d3f4940b91925760ffedce9d452a2f9e92df87916cbf": {
       "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWWnNuTE1Uc3ZHbnRfYlhYS1hDTzlGTnZFeE9JaFJKR1pCdEJhaGpCTXlSeHNRMW13VkczY2hSTWZEOTc4VUtEWjZBSC1oeW5fdUNkX2N5NThqVTVY?oc=5",
@@ -5465,6 +5465,11 @@
       "real_link": "https://www.hankyung.com/article/2026071322856",
       "updated_at": "2026-07-13T11:11:55.546797+00:00"
     },
+    "892943410a5c2dbe5b562abc4aebc8b3218c7b61d910122d75eb912233d0f22e": {
+      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa05NTVhOMVdqREl4Z3YwVmRMbGlqcm9pTnN0R3ZWX25Bd0hMQ1dSbjBYY2d0cUlUcllYMUd4WFY3Z0RURXh4a1ZDZkpBUEdTc3FrU0NhMU1YWmc5QlNINksyRDFNUXZSa2l0ZGd0MHFpV3NmSV83dkt2bklzRkVPTXdFelliS0hO?oc=5",
+      "real_link": "https://www.g-enews.com/article/Global-Biz/2026/07/202607191620361285fbbec65dfb_1",
+      "updated_at": "2026-07-19T18:27:53.624174+00:00"
+    },
     "8999417661d275e8f5d48b2b0f5d25331e0df67c51b835dd38510a325fc8288e": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CaGNja256ZkZrdWxUZHh1OG9PaVNXanlXeC14VjhaMGlPZ3pYc3lwVFFnTnYyRE1sOW9fLTN5S1REUktIaFRIc1JRZ0NXREtxQjRmb0VtaFpkeTUxaU4tRWQzbEZaVzNHRlE?oc=5",
       "real_link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008664347",
@@ -6194,11 +6199,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xUU1pUDNTNmZNeGdLVFJtSVM2Y25ZNHoyd1kzUk1tVGZMTjNZRjFYRWJVNHcxeUNyX1N2TFVDS1QxWW9fWTU4d3ExRHZHNnlsaTlyd3VjV05YQVB6NTZiTXdwc0tObEFvMWFaRTRPLThxNExmUDVTXw?oc=5",
       "real_link": "https://www.vietnam.vn/ko/co-phieu-pnj-giam-san-phien-thu-3-lien-tiep",
       "updated_at": "2026-07-07T05:35:26.954151+00:00"
-    },
-    "d0aeb468612b199cd322667e65a1e66cca6fab1f4330a603b8d6b2d45c844ca5": {
-      "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWtTS0Nnb3VwbDhfYlc3bzM4RFhzdm5wTkxZM2dmWWFMVi1NUzJvSVg4Y0Fpbnd4MzUzbG5UQkY1X3JZYTUyeGxnbDZWUlNuSklhN2lzbEJxZm8xWUJxb3N2aHRYaUZ3M0JqZTVwQmpGWVJrNWJTcUE5TGFuTWxYS2NPRldNUQ?oc=5",
-      "real_link": "https://www.chosun.com/economy/weeklybiz/2026/07/06/WH4LOZARVFDQ5D4OO5XRR5ZWWU/",
-      "updated_at": "2026-07-05T18:14:33.199152+00:00"
     },
     "d125c53f6c6d862c9046d3f4940b91925760ffedce9d452a2f9e92df87916cbf": {
       "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWWnNuTE1Uc3ZHbnRfYlhYS1hDTzlGTnZFeE9JaFJKR1pCdEJhaGpCTXlSeHNRMW13VkczY2hSTWZEOTc4VUtEWjZBSC1oeW5fdUNkX2N5NThqVTVY?oc=5",
