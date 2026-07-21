@@ -1,13 +1,6 @@
 {
   "failed": {},
   "sent": {
-    "0013895f337d154abc8da5a03f5e251ff73446748f889f73a986571727eda432": {
-      "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03MG9tNTNUZVBCSTJRMlZvRU1YSkVZSWxPcFpaeWFMZlJJNUhaS2lmdFp1VWZUcDZ3ZjNlMHVLdmhxenF5QTJNU0ZEbXpZckk?oc=5",
-      "published_at": "2026-07-07T20:03:18+00:00",
-      "real_link": "https://v.daum.net/v/20260708050318036",
-      "sent_at": "2026-07-07T20:29:44.479671+00:00",
-      "title": "'24시간 거래' 환율, 롤러코스피에도 안정세 유지"
-    },
     "00511be937b494860a503347f159cadc4e4e47da2a8260f4e77e4c28f6ab5fa0": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iQWdJZ2o5OXdGNXpGV2txRk91VFBMTlRqdFFlaGg1cUZVbWZtcmgya05TWl9uRzVZXzNNb3lvVTl6RVU1M3dZODYyOWs2N0tRS2hjODRhMjJMZG1VX2FaMXpRQXJGRjVINEwyUXpHb0tkQQ?oc=5",
       "published_at": "2026-07-17T20:31:02+00:00",
@@ -287,13 +280,6 @@
       "real_link": "https://www.coinreaders.com/248280",
       "sent_at": "2026-07-17T15:35:49.096107+00:00",
       "title": "마이크론·인텔·샌디스크, 줄줄이 '추락'...반도체 랠리 끝났나"
-    },
-    "0eb1b3c314402c01b660d4def00cc4333c391968929dc2b8f2f2bb6359ebb2ab": {
-      "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DeU8xNnphcFozOU1Wd09raFFXSm9ybkFZZGlPU2FuTldWS0FpZzh0T1JSbjZIQVdISWtpMkZ5VnkwNDJYdzd4VW8tT3FDUDNGTnViaXVncDhiaXFydF80XzF2bWJyRURnS0U1bXI5VTBTYzg?oc=5",
-      "published_at": "2026-07-07T20:25:04+00:00",
-      "real_link": "https://www.datatooza.com/article/202607080525043902cd1e7af9d4_80",
-      "sent_at": "2026-07-07T20:29:43.125175+00:00",
-      "title": "에너지 에볼루션 마스터 펀드, 엠파이어 페트롤리엄 지분 30.7% 보유"
     },
     "0f055a056d25d883488648a1b994684f3bc6031564ae8d678c71bc5525d1b1af": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPX1NsU2JXdE1EZGt3NElZc25sM1VaTmNEdmNmVFN2UjFjb2lfN3QxNGR1bE5WODFfdnBuQVFlbFp4TXUzWVh5YWJ1WXhFMXo2WkNMUlcwaW9yOVRGZWdiVGlpN0JMUE1W?oc=5",
@@ -3270,6 +3256,13 @@
       "sent_at": "2026-07-08T19:58:22.734889+00:00",
       "title": "Fed, 금리 인상 가능성 열었다…AI·중동·관세가 물가 압박"
     },
+    "ce2664cea05c8cbf08011db6ba133821b161325d0659eb13e7815323f975a80a": {
+      "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zS0ZJVDBzME1OU2NWc2lybXBSVFdsRTZXUE5FUzFHOTBZWWZ0cE92UnN4dkVqanU0MURKTXozV2JaSjVRLUg1bG1YUm9ncWx0VEE?oc=5",
+      "published_at": "2026-07-21T20:48:47+00:00",
+      "real_link": "https://www.youthassembly.kr/news/975973",
+      "sent_at": "2026-07-21T20:52:04.887055+00:00",
+      "title": "현대차, 차주도 전기차 배터리로 돈 버는 시대 연다"
+    },
     "ce5e6ab07170fb2f9883a73088814fc3a89c32ff320c0186a50512b450e16ed9": {
       "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MS2xFdVB5djJ6dGkzVV9BQ2RxbmFyS2FRcHk4V3p3M1NteFl6WkpMQUlHM3ZPNzBULW5QSEZmMjBWLWtreldYS2lrN0h2SGNIcnY4a2ZmZFZnbndzRGJnUW00QUxXdw?oc=5",
       "published_at": "2026-07-21T12:57:55+00:00",
@@ -3809,13 +3802,6 @@
       "sent_at": "2026-07-11T11:17:46.322441+00:00",
       "title": "미래반도체 투자분석 2026. 07. 11"
     },
-    "f228a42666163b824be2d8e8a52a6e317220e29832c8f18c7b8992e85cc99619": {
-      "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WZG5jOUljYTBxUkdZYlkteUlnVmIzdHFqdDlrbGR3eW8yREp5UmhuRkxYTlhlVVhBS0ZfZXZpUTFJZC0xdE9lZUFPU1FMbUk?oc=5",
-      "published_at": "2026-07-07T20:22:16+00:00",
-      "real_link": "https://v.daum.net/v/20260708052216483",
-      "sent_at": "2026-07-07T20:29:45.705029+00:00",
-      "title": "한-나토 ‘조달 기본협정’ 협상 개시…이 대통령 “방산기업 진출 기반”"
-    },
     "f23d6282c5271b917dad30add03f27d202888418dbef0d2c2bad2eda1ef3da4a": {
       "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95U2dGTkN3OTc2TnhXdm40a3NtNnVvVUpoZm5WS2RlMDlQdmdpMy1BYnZPSWVXOEZYOU5pS3lJX3UxTzVoZDZfMjQ1dEVHamRaZE1zOFAtVEVaWU1kWVlWRzZqUC1jVEJRNnp0Slk0ZlNabmdYUTBpNA?oc=5",
       "published_at": "2026-07-17T04:17:00+00:00",
@@ -3914,6 +3900,13 @@
       "sent_at": "2026-07-18T13:43:40.492564+00:00",
       "title": "AI 지능형 출판, 작가 권리와 독자 일상을 동시에 재편한다"
     },
+    "fa6a5933c45554acd729839ec98c7ac4e124460c21d30fee74ad317803398465": {
+      "google_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1obXZra1hUdks2VERPQ3RkYlJpM1ZpQ3F4M2FJX3FaYTdpbjRpNEJvNXZ1UjF0UTQtelBYS1FEWkZCcDk4YjBldlFKU3NtSXBv?oc=5",
+      "published_at": "2026-07-21T20:47:00+00:00",
+      "real_link": "https://economybloc.com/article/113347/",
+      "sent_at": "2026-07-21T20:52:03.476177+00:00",
+      "title": "뉴욕증시 상승, 반도체주 반등…나스닥 1.29%↑"
+    },
     "fb1ac655278596236ae01bd9c68be1d8bf2248ec99750ee47e7ce4ea10717349": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtRXZSOWFIUTZoZzNVWmZUQ1c5ZXBIODd2ZnNhVEM3SVgxb1V5V0R5M0NjeTd4TkF2VmpRQ1MyZENmQWpPb1A3WHJwUTBVQlFITnZLZWlmYmUwOEhENVRZQWxtMTNhekRWbDhxdlR5ZjV3dw?oc=5",
       "published_at": "2026-07-15T17:46:23+00:00",
@@ -4000,11 +3993,6 @@
     }
   },
   "url_cache": {
-    "0013895f337d154abc8da5a03f5e251ff73446748f889f73a986571727eda432": {
-      "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03MG9tNTNUZVBCSTJRMlZvRU1YSkVZSWxPcFpaeWFMZlJJNUhaS2lmdFp1VWZUcDZ3ZjNlMHVLdmhxenF5QTJNU0ZEbXpZckk?oc=5",
-      "real_link": "https://v.daum.net/v/20260708050318036",
-      "updated_at": "2026-07-07T20:29:43.799739+00:00"
-    },
     "00511be937b494860a503347f159cadc4e4e47da2a8260f4e77e4c28f6ab5fa0": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iQWdJZ2o5OXdGNXpGV2txRk91VFBMTlRqdFFlaGg1cUZVbWZtcmgya05TWl9uRzVZXzNNb3lvVTl6RVU1M3dZODYyOWs2N0tRS2hjODRhMjJMZG1VX2FaMXpRQXJGRjVINEwyUXpHb0tkQQ?oc=5",
       "real_link": "https://kbthink.com/news-list/view.html?newsId=20260718053103811",
@@ -4204,11 +4192,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYVTVDa0NyNDJSdThKUTRmbjhJSTRqRldEU2hjcE43OE9sM0lvWFFtX3BWblJtZjFjei0zMDYyLVB2czVjcGl3bmln?oc=5",
       "real_link": "https://www.coinreaders.com/248280",
       "updated_at": "2026-07-17T15:35:48.598782+00:00"
-    },
-    "0eb1b3c314402c01b660d4def00cc4333c391968929dc2b8f2f2bb6359ebb2ab": {
-      "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DeU8xNnphcFozOU1Wd09raFFXSm9ybkFZZGlPU2FuTldWS0FpZzh0T1JSbjZIQVdISWtpMkZ5VnkwNDJYdzd4VW8tT3FDUDNGTnViaXVncDhiaXFydF80XzF2bWJyRURnS0U1bXI5VTBTYzg?oc=5",
-      "real_link": "https://www.datatooza.com/article/202607080525043902cd1e7af9d4_80",
-      "updated_at": "2026-07-07T20:29:42.214384+00:00"
     },
     "0f055a056d25d883488648a1b994684f3bc6031564ae8d678c71bc5525d1b1af": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPX1NsU2JXdE1EZGt3NElZc25sM1VaTmNEdmNmVFN2UjFjb2lfN3QxNGR1bE5WODFfdnBuQVFlbFp4TXUzWVh5YWJ1WXhFMXo2WkNMUlcwaW9yOVRGZWdiVGlpN0JMUE1W?oc=5",
@@ -6335,6 +6318,11 @@
       "real_link": "https://v.daum.net/v/20260709043550612",
       "updated_at": "2026-07-08T19:58:22.207477+00:00"
     },
+    "ce2664cea05c8cbf08011db6ba133821b161325d0659eb13e7815323f975a80a": {
+      "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zS0ZJVDBzME1OU2NWc2lybXBSVFdsRTZXUE5FUzFHOTBZWWZ0cE92UnN4dkVqanU0MURKTXozV2JaSjVRLUg1bG1YUm9ncWx0VEE?oc=5",
+      "real_link": "https://www.youthassembly.kr/news/975973",
+      "updated_at": "2026-07-21T20:52:04.414531+00:00"
+    },
     "ce5e6ab07170fb2f9883a73088814fc3a89c32ff320c0186a50512b450e16ed9": {
       "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MS2xFdVB5djJ6dGkzVV9BQ2RxbmFyS2FRcHk4V3p3M1NteFl6WkpMQUlHM3ZPNzBULW5QSEZmMjBWLWtreldYS2lrN0h2SGNIcnY4a2ZmZFZnbndzRGJnUW00QUxXdw?oc=5",
       "real_link": "https://www.issuetoday.co.kr/news/article.html?no=57950",
@@ -6720,11 +6708,6 @@
       "real_link": "https://www.judal.co.kr/?view=stockAI&shareToken=cwGRZJM4xpmYLMoI",
       "updated_at": "2026-07-11T11:17:45.573734+00:00"
     },
-    "f228a42666163b824be2d8e8a52a6e317220e29832c8f18c7b8992e85cc99619": {
-      "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WZG5jOUljYTBxUkdZYlkteUlnVmIzdHFqdDlrbGR3eW8yREp5UmhuRkxYTlhlVVhBS0ZfZXZpUTFJZC0xdE9lZUFPU1FMbUk?oc=5",
-      "real_link": "https://v.daum.net/v/20260708052216483",
-      "updated_at": "2026-07-07T20:29:45.031412+00:00"
-    },
     "f23d6282c5271b917dad30add03f27d202888418dbef0d2c2bad2eda1ef3da4a": {
       "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95U2dGTkN3OTc2TnhXdm40a3NtNnVvVUpoZm5WS2RlMDlQdmdpMy1BYnZPSWVXOEZYOU5pS3lJX3UxTzVoZDZfMjQ1dEVHamRaZE1zOFAtVEVaWU1kWVlWRzZqUC1jVEJRNnp0Slk0ZlNabmdYUTBpNA?oc=5",
       "real_link": "https://m.news.nate.com/view/20260717n07265?mid=m03&list=recent&cpcd=",
@@ -6794,6 +6777,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83QVllcVpTY2ZxeDY5YVV1ZTZaU1ZGWVBzemRlZHJnR0dDaUFYeW1Oa2dZSFF4VVlOTG9UU2ZaWGotZ21NWWxmeDJNcHM?oc=5",
       "real_link": "https://www.kairnews.com/news/505372",
       "updated_at": "2026-07-18T13:43:39.990012+00:00"
+    },
+    "fa6a5933c45554acd729839ec98c7ac4e124460c21d30fee74ad317803398465": {
+      "google_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1obXZra1hUdks2VERPQ3RkYlJpM1ZpQ3F4M2FJX3FaYTdpbjRpNEJvNXZ1UjF0UTQtelBYS1FEWkZCcDk4YjBldlFKU3NtSXBv?oc=5",
+      "real_link": "https://economybloc.com/article/113347/",
+      "updated_at": "2026-07-21T20:52:02.711479+00:00"
     },
     "fb1ac655278596236ae01bd9c68be1d8bf2248ec99750ee47e7ce4ea10717349": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtRXZSOWFIUTZoZzNVWmZUQ1c5ZXBIODd2ZnNhVEM3SVgxb1V5V0R5M0NjeTd4TkF2VmpRQ1MyZENmQWpPb1A3WHJwUTBVQlFITnZLZWlmYmUwOEhENVRZQWxtMTNhekRWbDhxdlR5ZjV3dw?oc=5",
