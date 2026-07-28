@@ -120,13 +120,6 @@
       "sent_at": "2026-07-17T22:48:02.631164+00:00",
       "title": "스페이스X 발사 1초 전 멈추더니…한달새 시총 1500조원 증발 - 머니투데이"
     },
-    "098ec9c03396a27186737d5838c3f81a1836754f1b83d0cfbd09abd02b768f30": {
-      "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RQVZqYXFRc0k0bzcwS1hrUF9TanpmbUdqMHhIS0t4SzdlNWI0RVB0SmtPUk1RVkE4RXZLNjloOUdkSXlKamh3MTBTZTJmTDNZRDB0UGlpb3ViMkUyVTJQVENpRGozZHIyeDFrdEFpVUVHYzQ?oc=5",
-      "published_at": "2026-07-14T08:24:32+00:00",
-      "real_link": "https://www.businesspost.co.kr/BP?command=article_view&num=442351",
-      "sent_at": "2026-07-14T08:37:32.889247+00:00",
-      "title": "[오늘의 주목주] '2분기 실적 우려' 한화에어로 주가 6%대 하락, 코스피 6850선 강보합 마감"
-    },
     "0a0fe0a4730264c624e85594bbaf9455c97bc2a0bca24d90310deb6cda968418": {
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5reGxjb3FkSGdxVzJWS0hKeGpJamctbGhJRnlKRXFib21wdW1PZGhwR3dHRkVaUXZ5UndZX2ZVMDNIcjZubFdCdG9jMXlSTW1XN0FqRnlMc1RlOUhkOVFyN2trSmIwRjlsaHBGZTRxT04?oc=5",
       "published_at": "2026-07-14T22:04:06+00:00",
@@ -953,6 +946,13 @@
       "sent_at": "2026-07-20T21:35:19.817338+00:00",
       "title": "파생시장 롱·숏 균형에 숨죽인 리플… 1.15달러 저항선 돌파가 강세 전환 분수령"
     },
+    "3818d74ec8c5d512e3ccfe589b5f7cf5b9af53c5ca1dcd9508ed8b8cc5486d0d": {
+      "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aQk1aZUFCWHhPOEhCNEZ0cmctZ0VsUl9NNGEtZC1LYUVzdmpuZjdGb2F5UGNTbGtLMXYyYUtRQXdXT3hjajEwWjZIMGNPQnh0MVRBdTNpQkw4MFZuWEUtbg?oc=5",
+      "published_at": "2026-07-28T09:42:36+00:00",
+      "real_link": "https://www.asiae.co.kr/article/2026072818423707958",
+      "sent_at": "2026-07-28T09:58:07.565699+00:00",
+      "title": "파이온엑스, 비핵심 자산 매각해 유동성 확보…과천 부동산 취득 추진"
+    },
     "38e02b08c305285dd2dae1333daac81dd98c4febe856c0a31eefcc1cedff3679": {
       "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ES3h6eUlzOWtHSjFOaEJDUFVjam9WQ0ZMbnI3dHlIX3NmTnBLejF4dktfMVFQc204ZWM2WjBLUTFJSUZUM2ZvNnRVQ2xRYk51c0R6RlJEeHVzUdIBX0FVX3lxTE9tM1doU3N5VVJzeGJBTFlFLTBWdHEta2tNU1o5T1U5U3czTEJCOFFFT0VBVC16RXhILXMxMF82QXNUaFM2aEIwZWI0VExRdHZYMHdmbTI4YzdvZFZ3REVJ?oc=5",
       "published_at": "2026-07-27T11:46:00+00:00",
@@ -1051,6 +1051,13 @@
       "sent_at": "2026-07-24T04:36:13.966312+00:00",
       "title": "인텔 \"데이터센터 수요, 생산 능력 초과\""
     },
+    "3e9a2da8d18a89646570d6faf37fa20afa4090ae3b45073b99ae2a09ef62959c": {
+      "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSOFNwU1Zaa2sycEpTUmhIa3lZRnZpbDJvd2VxZ21oUHFCZUptU1ZSWkdQMm80d3ItVVNpSUJoeVpLUkFEME16WkZHblBXNDUtNGZFUkJyRjBUMXhXOEc1cC13Sk94X3pxN0pR?oc=5",
+      "published_at": "2026-07-28T09:53:41+00:00",
+      "real_link": "http://www.snakorea.com/news/articleView.html?idxno=1039563",
+      "sent_at": "2026-07-28T09:58:09.249865+00:00",
+      "title": "전남바이오진흥원, “전남광주 바이오영살롱 출범”"
+    },
     "3f032de13d3df4af6ca423d4add2696ef754cef814756f0f6954d82514ebeadb": {
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RZ0E1NFhoQk0yRFNwandncE52YTJhQVRya2s3YUpsWVJxQkhHOUJmMTRqTnNPY1lYZDdYLUI3OU52R21VWTBjMm5PRFI3cDE4anNHTFd2ZC01ekRWZHRyaUpSb0dQc0t2SUd0S2VuTTjSAXRBVV95cUxQLURqbHEwMGZQbHdmVjY0Qlg3ZGFaTkdBbm9HS2JRc2Robks3Q29DTGlvS0kwVjNnYllCRjlrZDJRcEc3TWc5dUxnaDVIQkRiY0ZqV0pPbjBMaWYtMzgzVGVGSUdUZ1dPc2lVUkk5MlctaFkwUw?oc=5",
       "published_at": "2026-07-22T22:09:03+00:00",
@@ -1064,6 +1071,13 @@
       "real_link": "https://www.kairnews.com/news/507844",
       "sent_at": "2026-07-28T04:25:57.976715+00:00",
       "title": "우주에 인공지능 컴퓨팅 기지를 띄우겠다는 머스크의 구상, '지각 있는 태양'은 인류의 도약인가 새로운 독점의 시작인가"
+    },
+    "3f41fa71f8b12f43e7699e120721a4e2237bbf6d822e21310e7696b1c87b8660": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MN284RkctdkxSWFBIdDFKZHdxNHRSUDJtLUswVDdqWm4zRHMzc2J1R1NFQWpMTUJaNl9oYVd6eHZUdlNwcC11S1poZXR3czFRVlN5Zy1QWkFCeGM0NlJxSmlnYmJFTnc?oc=5",
+      "published_at": "2026-07-28T09:44:00+00:00",
+      "real_link": "https://www.hani.co.kr/arti/economy/finance/1270356.html",
+      "sent_at": "2026-07-28T09:58:05.965311+00:00",
+      "title": "미 연준 ‘포워드 가이던스’ 폐지…“자산가격 변동성 커질 것”"
     },
     "3f97f098bf14bbeb0fe2fc3587eb20a866317149ea088f4751d5995f776d7743": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rU0w4dkY5QUp0Wjl0bnRpbmEtV1VPVnBpMVdwN0tUS0NkcWdJeFhxc01VSmY1bEFEVHlqakEyUmNCaVU2ZHN6U3dkcnUxYjh2WjFlb1Z3X2hVbjNTd3U2aXdKRFhoSGxzYlJzZno3NVdwSWs?oc=5",
@@ -1393,6 +1407,13 @@
       "real_link": "https://www.asiae.co.kr/article/2026072406322352339",
       "sent_at": "2026-07-23T21:47:32.341464+00:00",
       "title": "[속보]미 재무부, 한국 등 10개국 환율 관찰대상국 유지"
+    },
+    "51737e7f65d9bee1460d86317472bd3dbb3074728a92e2f75420369c2743457d": {
+      "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wV3NYQy1BNDEzWFZVd1FmX09DQTZraHdJNTZVZEwwMzJKcFB5NEhkMHJPTjRTMlFPVDhqczc5UXB0U0NldzJDalBwdlVZYXAzRGc?oc=5",
+      "published_at": "2026-07-28T09:50:15+00:00",
+      "real_link": "https://stock.mk.co.kr/news/view/1128494",
+      "sent_at": "2026-07-28T09:58:10.668553+00:00",
+      "title": "해픈, 2분기 순이익 52% 급증·사상 최대 세전이익 달성"
     },
     "51f01f82e245e03060389a15c769b395bdc85fb3bc5a5ae8fe32510bd23af3ef": {
       "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aSDR0OWxYb21pSjJyQmhscHJJVkxWbW1JTVRqVTNCZUc5bFcwVUtHd0pzWFlVc3dsZTZVWEFGbnppY3lBeVhMZ21FVVhFVlc5dkVCaWh6TjJOQTdXcVk0UHQ2allmRFJ2LUp3?oc=5",
@@ -2100,13 +2121,6 @@
       "real_link": "https://aimkt.biz/ai-%EA%B4%91%EA%B3%A0%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4/",
       "sent_at": "2026-07-16T23:41:41.052290+00:00",
       "title": "[AI광고]AI 광고는 사람을 대체하지 않는다(5편)"
-    },
-    "7e2291f09d0f98f6c3ed8723e3aa42793cfcc13787e427c923275356df14fcf8": {
-      "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XTjBocC00QVc2SUZyNDd5bC1MTFpBUU1NRmpxdTFVZnhrUG9RNGhxZndoRHlEQ0NSZFEzZkJLUWpkdzBFazlaWmtfOVlndUhOcGtfbFMya3ZvWDY0X0lfdnppNTd6TVV5Sml3UnVB0gFzQVVfeXFMUEhlOGxURmJTTkdKbHZVS0doUzY2akFvU3BLM3J0Rkw5bVFkN2xKZ1daYTNJV0RsQ0ZMc0RPd3c1dTFhZ2FVNVdfcHN3Qm1EdHpDNHVkckNmV1dlb0JTQmJPaS00Q2JHMGNuRUl3SVZGb1d5dw?oc=5",
-      "published_at": "2026-07-14T08:34:00+00:00",
-      "real_link": "https://www.hankookilbo.com/news/article/A2026071415240001483",
-      "sent_at": "2026-07-14T08:37:31.598939+00:00",
-      "title": "'너무 잘하면 상대편이 반발할 텐데'... AI 게임 동료 '적정 실력'은"
     },
     "7e8de65375d29dea554706ad612ab0d512bc38612ec4f9bb6af893e7ff24794f": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5N2VWYVB0THJ2Sm45NTFPRnlYelNSZjZsaXNJb0ROTTJSMHNBX1B2Vjd2dmpUd1dzSXB1NV9aWTc1bWV5WDYxZmJldW5uNFN1R3d6MmloTkFXZ0ZrUTdhRms2M0k0OGVrZU1ZbHI2NDR2NjA?oc=5",
@@ -3704,13 +3718,6 @@
       "sent_at": "2026-07-21T16:46:39.992093+00:00",
       "title": "스페이스X, 8월 4일 첫 실적 발표…락업 물량 나온다"
     },
-    "e43a05cd64d7bd671660c3f63eca9dd45ed8281b545b0e829f188896e7fee4ed": {
-      "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KbzBWVjYxejNoY3M0OGJuVmt4ZERFRkxCOXdNNXJjNzlZRnhnOWdFamctUkhkTTk5dFN1dGtmM2RCM1ZWWWt3SkhKNzNoeENyNFhHYzN5eHNxSzU0R1JpdFVwQlc?oc=5",
-      "published_at": "2026-07-14T08:35:38+00:00",
-      "real_link": "https://news.mtn.co.kr/news-detail/2026071417064878963",
-      "sent_at": "2026-07-14T08:37:30.583965+00:00",
-      "title": "원·달러 환율 10.4원 급락…1493원 마감"
-    },
     "e44e9197d330e3aafdf9c6967a61daae8ac1788653927f1d654965420417bea5": {
       "google_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Wc1dMQVVQNXp3UlBIcGR6akhpS0JjQUxxc1N4d21uckF4cGYzbzRLSGF1Rl94T3VSdUt3NWhYd3FCX0JPMkVfN1U3VGJBX04w?oc=5",
       "published_at": "2026-07-22T12:21:54+00:00",
@@ -4040,13 +4047,6 @@
       "sent_at": "2026-07-18T23:29:23.038078+00:00",
       "title": "팔면 미매각, 샀더니 부도…'B의 공포', 금리인상까지 덮쳐 - 머니투데이"
     },
-    "f76fa4f7f66f059d654cd3276a13408e6e0a0fc0123e2b9c686c1fcd25625c07": {
-      "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05MmhLdlJEVlZEM2gyVE9LWUNGN2FmNG9RNnFJR09XM0VoZDF0YUNyZXE2ZFp0Tkt3RUR3aldLSDItTE5GVmxzLUVEMUpwWEtqUEhrVEY1bzEzSDRySktBZC1KMUR5RWFQS3dxN2F3?oc=5",
-      "published_at": "2026-07-14T08:25:43+00:00",
-      "real_link": "https://www.asiatoday.co.kr/kn/view.php?key=20260715010005380",
-      "sent_at": "2026-07-14T08:37:29.334138+00:00",
-      "title": "KB·신한금융, 주주환원 드라이브… 자사주 매입 ‘최대 1.7조’"
-    },
     "f77e776b7dd1eaa96040af9112e6236dbec4e26f179f27c273d602bd947de0c8": {
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55VDBKcndJT1NJcGRwM2lNcFktYjd5VFBIdHp0R2QxQ1h4VnNrWnV4TWpkWHE3WkxnallrSUYxU1UzR2JpSzJXd1BRNmpNcl95d05GZGttS3pBUmVQU1AwZw?oc=5",
       "published_at": "2026-07-15T11:47:00+00:00",
@@ -4273,11 +4273,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jcHVyNmVSbkNEbG1YV21tYldWN0s0NGpOQXZXXzBnSER5dWkyWUFDSmFyVm4xS0lOYWlJUVdtVVZsdVRsZU1hUTRGdmQ1MmNJemdTMzF3ZlR4NDhJb0pqSW9QTlNkLWNI0gFuQVVfeXFMUHlRcGlJdmJsTzVxQ2lvb1hPLTNlSzZ2eVdJbFpiVkxQajEwOFZ1X2RzLWhreW1XY3IzazNrZUFMSHpSTGFtRkw4QlNQR0xWTlZJcFRQVjhvdjZFMllJNC1qZkI3akNVNmpicFlLaVE?oc=5",
       "real_link": "https://www.mt.co.kr/world/2026/07/18/2026071807320255377",
       "updated_at": "2026-07-17T22:48:02.084785+00:00"
-    },
-    "098ec9c03396a27186737d5838c3f81a1836754f1b83d0cfbd09abd02b768f30": {
-      "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RQVZqYXFRc0k0bzcwS1hrUF9TanpmbUdqMHhIS0t4SzdlNWI0RVB0SmtPUk1RVkE4RXZLNjloOUdkSXlKamh3MTBTZTJmTDNZRDB0UGlpb3ViMkUyVTJQVENpRGozZHIyeDFrdEFpVUVHYzQ?oc=5",
-      "real_link": "https://www.businesspost.co.kr/BP?command=article_view&num=442351",
-      "updated_at": "2026-07-14T08:37:32.223099+00:00"
     },
     "0a0fe0a4730264c624e85594bbaf9455c97bc2a0bca24d90310deb6cda968418": {
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5reGxjb3FkSGdxVzJWS0hKeGpJamctbGhJRnlKRXFib21wdW1PZGhwR3dHRkVaUXZ5UndZX2ZVMDNIcjZubFdCdG9jMXlSTW1XN0FqRnlMc1RlOUhkOVFyN2trSmIwRjlsaHBGZTRxT04?oc=5",
@@ -4869,6 +4864,11 @@
       "real_link": "https://www.g-enews.com/article/Securities/2026/07/202607210617019529e7e8286d56_1",
       "updated_at": "2026-07-20T21:35:19.290799+00:00"
     },
+    "3818d74ec8c5d512e3ccfe589b5f7cf5b9af53c5ca1dcd9508ed8b8cc5486d0d": {
+      "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aQk1aZUFCWHhPOEhCNEZ0cmctZ0VsUl9NNGEtZC1LYUVzdmpuZjdGb2F5UGNTbGtLMXYyYUtRQXdXT3hjajEwWjZIMGNPQnh0MVRBdTNpQkw4MFZuWEUtbg?oc=5",
+      "real_link": "https://www.asiae.co.kr/article/2026072818423707958",
+      "updated_at": "2026-07-28T09:58:06.971600+00:00"
+    },
     "38e02b08c305285dd2dae1333daac81dd98c4febe856c0a31eefcc1cedff3679": {
       "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ES3h6eUlzOWtHSjFOaEJDUFVjam9WQ0ZMbnI3dHlIX3NmTnBLejF4dktfMVFQc204ZWM2WjBLUTFJSUZUM2ZvNnRVQ2xRYk51c0R6RlJEeHVzUdIBX0FVX3lxTE9tM1doU3N5VVJzeGJBTFlFLTBWdHEta2tNU1o5T1U5U3czTEJCOFFFT0VBVC16RXhILXMxMF82QXNUaFM2aEIwZWI0VExRdHZYMHdmbTI4YzdvZFZ3REVJ?oc=5",
       "real_link": "https://www.khan.co.kr/article/202607272046025",
@@ -4939,6 +4939,11 @@
       "real_link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=142018",
       "updated_at": "2026-07-24T04:36:13.113661+00:00"
     },
+    "3e9a2da8d18a89646570d6faf37fa20afa4090ae3b45073b99ae2a09ef62959c": {
+      "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSOFNwU1Zaa2sycEpTUmhIa3lZRnZpbDJvd2VxZ21oUHFCZUptU1ZSWkdQMm80d3ItVVNpSUJoeVpLUkFEME16WkZHblBXNDUtNGZFUkJyRjBUMXhXOEc1cC13Sk94X3pxN0pR?oc=5",
+      "real_link": "http://www.snakorea.com/news/articleView.html?idxno=1039563",
+      "updated_at": "2026-07-28T09:58:08.580678+00:00"
+    },
     "3f032de13d3df4af6ca423d4add2696ef754cef814756f0f6954d82514ebeadb": {
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RZ0E1NFhoQk0yRFNwandncE52YTJhQVRya2s3YUpsWVJxQkhHOUJmMTRqTnNPY1lYZDdYLUI3OU52R21VWTBjMm5PRFI3cDE4anNHTFd2ZC01ekRWZHRyaUpSb0dQc0t2SUd0S2VuTTjSAXRBVV95cUxQLURqbHEwMGZQbHdmVjY0Qlg3ZGFaTkdBbm9HS2JRc2Robks3Q29DTGlvS0kwVjNnYllCRjlrZDJRcEc3TWc5dUxnaDVIQkRiY0ZqV0pPbjBMaWYtMzgzVGVGSUdUZ1dPc2lVUkk5MlctaFkwUw?oc=5",
       "real_link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426312",
@@ -4948,6 +4953,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hUW8wZHB5aWNwV3I4MHJYenBpNi05RlIxc2RncThkTGVaZVNuWEdGZFgwODJ2dHQ0YTZGUm1IRHc3aVE1MzBLN080VHA?oc=5",
       "real_link": "https://www.kairnews.com/news/507844",
       "updated_at": "2026-07-28T04:25:57.332720+00:00"
+    },
+    "3f41fa71f8b12f43e7699e120721a4e2237bbf6d822e21310e7696b1c87b8660": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MN284RkctdkxSWFBIdDFKZHdxNHRSUDJtLUswVDdqWm4zRHMzc2J1R1NFQWpMTUJaNl9oYVd6eHZUdlNwcC11S1poZXR3czFRVlN5Zy1QWkFCeGM0NlJxSmlnYmJFTnc?oc=5",
+      "real_link": "https://www.hani.co.kr/arti/economy/finance/1270356.html",
+      "updated_at": "2026-07-28T09:58:05.091165+00:00"
     },
     "3f97f098bf14bbeb0fe2fc3587eb20a866317149ea088f4751d5995f776d7743": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rU0w4dkY5QUp0Wjl0bnRpbmEtV1VPVnBpMVdwN0tUS0NkcWdJeFhxc01VSmY1bEFEVHlqakEyUmNCaVU2ZHN6U3dkcnUxYjh2WjFlb1Z3X2hVbjNTd3U2aXdKRFhoSGxzYlJzZno3NVdwSWs?oc=5",
@@ -5183,6 +5193,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05TzdJVHpqWmlnQTJHU3RBN2xTaGxVS3hTWnB1VlZNSTFsdVE0MEt0cnYzSG83NFdBY1Vzd0NmVmxrTmFrYTFCOEdxZXVDUkZNdFpmRmc4ME1xbTIwT0tKRw?oc=5",
       "real_link": "https://www.asiae.co.kr/article/2026072406322352339",
       "updated_at": "2026-07-23T21:47:31.724138+00:00"
+    },
+    "51737e7f65d9bee1460d86317472bd3dbb3074728a92e2f75420369c2743457d": {
+      "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wV3NYQy1BNDEzWFZVd1FmX09DQTZraHdJNTZVZEwwMzJKcFB5NEhkMHJPTjRTMlFPVDhqczc5UXB0U0NldzJDalBwdlVZYXAzRGc?oc=5",
+      "real_link": "https://stock.mk.co.kr/news/view/1128494",
+      "updated_at": "2026-07-28T09:58:10.083160+00:00"
     },
     "51f01f82e245e03060389a15c769b395bdc85fb3bc5a5ae8fe32510bd23af3ef": {
       "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aSDR0OWxYb21pSjJyQmhscHJJVkxWbW1JTVRqVTNCZUc5bFcwVUtHd0pzWFlVc3dsZTZVWEFGbnppY3lBeVhMZ21FVVhFVlc5dkVCaWh6TjJOQTdXcVk0UHQ2allmRFJ2LUp3?oc=5",
@@ -5688,11 +5703,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVXRHYVN6R1VtRmpVdXlLZ0JaQlJVTUpndDhpSjVjalhnVzduOEJTOUtaREVFWFozWkVobGVhQVcwdzRBa2hTVDhJakR1ZDBUTXIzaTA0aU9mOHJRajh1eUxKbVFXbWpQY2tOeGxOeGhaa0RrZEgwTW9TS0J4Tk9DWG11eHhWRWdYdUgyR1o4TWdncnpJQVk5NWRod2ItTzJGOElUUHZzdERpUXluQk51RG9oYTYxVE5TdDVjb19JM0ZZVUl2Z2Y5WWFsOVVDeW5sQTNOcnVLbklQZw?oc=5",
       "real_link": "https://aimkt.biz/ai-%EA%B4%91%EA%B3%A0%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4/",
       "updated_at": "2026-07-16T23:41:40.437290+00:00"
-    },
-    "7e2291f09d0f98f6c3ed8723e3aa42793cfcc13787e427c923275356df14fcf8": {
-      "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XTjBocC00QVc2SUZyNDd5bC1MTFpBUU1NRmpxdTFVZnhrUG9RNGhxZndoRHlEQ0NSZFEzZkJLUWpkdzBFazlaWmtfOVlndUhOcGtfbFMya3ZvWDY0X0lfdnppNTd6TVV5Sml3UnVB0gFzQVVfeXFMUEhlOGxURmJTTkdKbHZVS0doUzY2akFvU3BLM3J0Rkw5bVFkN2xKZ1daYTNJV0RsQ0ZMc0RPd3c1dTFhZ2FVNVdfcHN3Qm1EdHpDNHVkckNmV1dlb0JTQmJPaS00Q2JHMGNuRUl3SVZGb1d5dw?oc=5",
-      "real_link": "https://www.hankookilbo.com/news/article/A2026071415240001483",
-      "updated_at": "2026-07-14T08:37:31.091516+00:00"
     },
     "7e8de65375d29dea554706ad612ab0d512bc38612ec4f9bb6af893e7ff24794f": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5N2VWYVB0THJ2Sm45NTFPRnlYelNSZjZsaXNJb0ROTTJSMHNBX1B2Vjd2dmpUd1dzSXB1NV9aWTc1bWV5WDYxZmJldW5uNFN1R3d6MmloTkFXZ0ZrUTdhRms2M0k0OGVrZU1ZbHI2NDR2NjA?oc=5",
@@ -6834,11 +6844,6 @@
       "real_link": "https://kbthink.com/news-list/view.html?newsId=20260722013735859",
       "updated_at": "2026-07-21T16:46:39.313116+00:00"
     },
-    "e43a05cd64d7bd671660c3f63eca9dd45ed8281b545b0e829f188896e7fee4ed": {
-      "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KbzBWVjYxejNoY3M0OGJuVmt4ZERFRkxCOXdNNXJjNzlZRnhnOWdFamctUkhkTTk5dFN1dGtmM2RCM1ZWWWt3SkhKNzNoeENyNFhHYzN5eHNxSzU0R1JpdFVwQlc?oc=5",
-      "real_link": "https://news.mtn.co.kr/news-detail/2026071417064878963",
-      "updated_at": "2026-07-14T08:37:30.097984+00:00"
-    },
     "e44e9197d330e3aafdf9c6967a61daae8ac1788653927f1d654965420417bea5": {
       "google_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Wc1dMQVVQNXp3UlBIcGR6akhpS0JjQUxxc1N4d21uckF4cGYzbzRLSGF1Rl94T3VSdUt3NWhYd3FCX0JPMkVfN1U3VGJBX04w?oc=5",
       "real_link": "https://bloomingbit.io/feed/news/116773",
@@ -7073,11 +7078,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nMWtwWkFkUThkMlFvVkdYakJrQWJXeXh3cGQydXlnN3czTmQwdi1rUVJGRDhDWVZTZlhWY3VyS1RjVkpHVWpmZW55WTkxSjRxVG8yeERBb3FzM1FJTnJBRUtyTjg4eWFj0gFuQVVfeXFMTkZwMVJ5RnZLbDdiZEp2b1dfLXRiODhTUmhUWjluSmZCUWFscUQ4cmF5RkFrMzFKeGkxdlB6OEdqV3F4U2J4X2hhak1pLXdmTkNWU0JUV2Y5NFVMV2JtVkJvQlFWX0dsU0k5V3k4OFE?oc=5",
       "real_link": "https://www.mt.co.kr/stock/2026/07/19/2026071616480941454",
       "updated_at": "2026-07-18T23:29:22.514337+00:00"
-    },
-    "f76fa4f7f66f059d654cd3276a13408e6e0a0fc0123e2b9c686c1fcd25625c07": {
-      "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05MmhLdlJEVlZEM2gyVE9LWUNGN2FmNG9RNnFJR09XM0VoZDF0YUNyZXE2ZFp0Tkt3RUR3aldLSDItTE5GVmxzLUVEMUpwWEtqUEhrVEY1bzEzSDRySktBZC1KMUR5RWFQS3dxN2F3?oc=5",
-      "real_link": "https://www.asiatoday.co.kr/kn/view.php?key=20260715010005380",
-      "updated_at": "2026-07-14T08:37:28.835037+00:00"
     },
     "f77e776b7dd1eaa96040af9112e6236dbec4e26f179f27c273d602bd947de0c8": {
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55VDBKcndJT1NJcGRwM2lNcFktYjd5VFBIdHp0R2QxQ1h4VnNrWnV4TWpkWHE3WkxnallrSUYxU1UzR2JpSzJXd1BRNmpNcl95d05GZGttS3pBUmVQU1AwZw?oc=5",
