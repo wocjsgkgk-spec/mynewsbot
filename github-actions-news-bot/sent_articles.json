@@ -169,13 +169,6 @@
       "sent_at": "2026-07-20T07:57:10.309598+00:00",
       "title": "\"3000만원 장벽도 안 통했다\"…단일종목 레버리지, 거래대금 또 12조원"
     },
-    "0c11f7fdc169ce58754170d7b5920e401564dadb5d71d7fa63ed85bc7ec8c479": {
-      "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFa1MwckotclpEd0ZlbmdDUDFjZnd3T3l1TlA5M3BTcDBTTjdFY1NkYXlEM0lXaVJ0dXVlSTRyR1pOWFA5TlpzZVFZYUR0aldUSVREU2RpVmVrT0tE?oc=5",
-      "published_at": "2026-07-17T17:40:00+00:00",
-      "real_link": "https://www.newspim.com/news/view/20260718000007",
-      "sent_at": "2026-07-17T17:48:28.046348+00:00",
-      "title": "유럽증시, 반도체 '피크아웃'·유가 상승 우려에 대부분 하락"
-    },
     "0c46009441bc830f42b47988beb069834f44805facce301d211b1c84bcf7a399": {
       "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wWllReGxENUhkcHlaWEM0M1d3bmxFMkFmNURqbkh6RHhrY0RxWUNyN1R1dWZGdXU5WWx5cjdUZnZ6UFVKVVd0TEdaZTZtdndLRW9XMHVpYmw1bGxjRzFxWGVhWFhRSnlvSjlyaGNoSQ?oc=5",
       "published_at": "2026-07-30T15:01:00+00:00",
@@ -680,6 +673,13 @@
       "sent_at": "2026-07-19T22:28:22.778998+00:00",
       "title": "에코프로비엠, 고체전해질 2027년 양산 목표…\"포트폴리오 강화\""
     },
+    "2ce635ddc28a59ed04203e28a325a9114cab9b22b585d0e30cd17a9f5cd7d6ae": {
+      "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lMDF5RjI1WjlqZkVVVXo5aWgzQ3BXbjFhVHhoeUZWdWlkMzlEb1NjZ1dZTWVLT1c5dUMwN2FyNHctd21YSHpacHJoX2JSZXdfd1p4bHRhLW90cHlyQ0JidzJvN2hDSmZoSnlqcnFB?oc=5",
+      "published_at": "2026-07-31T18:06:59+00:00",
+      "real_link": "http://www.iworldtoday.com/news/articleView.html?idxno=424734",
+      "sent_at": "2026-07-31T18:12:18.707060+00:00",
+      "title": "[社說] 팬데믹의 교훈, 국제협력은 얼마나 남았나"
+    },
     "2d945d152d1b4af95931dc38681794c9fbefe90646d9092d8c682034a15bb30f": {
       "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXVPZl9NdU10bmcxcWg2ZmFwWDlsSUpMcUdUNDBzZ2RKenRkNHhCcXdZYThTZms4RlRnUjh0WGpHZlhxUnEtZVd5SmVUY1IxVi1ONjg1bWxaMThFNnZ3a1VDMmtDYnJqRHRYcmJTYUNfdU8zTWlYa3h0OVlaRUhBamhld2o1SjJkYXYyR1BKMGlMSUw3RWdON25LTkFnRkJDVmFSWjln?oc=5",
       "published_at": "2026-07-21T15:11:36+00:00",
@@ -980,6 +980,13 @@
       "real_link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426312",
       "sent_at": "2026-07-22T22:28:49.572595+00:00",
       "title": "알파벳 최근 분기 EPS 9.11달러…전년대비 294% 급증"
+    },
+    "3f21ba47749910cf299929d9c59c37b579ce241990c6c621cfb5998e59677107": {
+      "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUJTdGQ3eFBUVmFTSjN0dk5qX3YzYkNaUDJiZFUtWG5OVVFFWUdPQTIxVGh6NHh6MUkyTXdjdlJkN1VxcWhvTFBsZlBSLUlhSGliRGxxZHppbG5nOUwwM2duMU0tYld5Qm9TU2d5WFlZdl9MX1NiUTQ5SXVEeDZiNw?oc=5",
+      "published_at": "2026-07-31T18:07:05+00:00",
+      "real_link": "https://www.edaily.co.kr/News/Read?newsId=01354646645543056&mediaCodeNo=257",
+      "sent_at": "2026-07-31T18:12:17.113952+00:00",
+      "title": "[美특징주]베라사이트, 2Q '어닝 서프라이즈'에도 선반영 피로감 부각에 주가 22% 폭락"
     },
     "3f37500a1ef1ec6b09386b6dda3db769337d1e36252295f30d0125da6e7a9dd6": {
       "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hUW8wZHB5aWNwV3I4MHJYenBpNi05RlIxc2RncThkTGVaZVNuWEdGZFgwODJ2dHQ0YTZGUm1IRHc3aVE1MzBLN080VHA?oc=5",
@@ -3305,13 +3312,6 @@
       "sent_at": "2026-07-24T18:06:11.191589+00:00",
       "title": "퍼스트 하와이안 은행, 마진 개선에 2분기 예상치 상회 (실적 발표)"
     },
-    "c9aef58ffb013efd2a9db5146f6c4b4ed1d78d58535d7cee1968970532faf246": {
-      "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcTRGZzZLaHJRZ2xveU9UZlF0emNxMlpoeWJjTlpxd0JwNGsxVWdRX3E2dk15U0Raa0xJMVd0dTluNDNxOEw1amxIQ2liR3lYWXlkbUZjd0hERTYzVzdqLVZIU1E1S1Z4SVIyZUxHWVByU1FRbVdUNDJOQ21qWHFOOUlMTEgtUTZCT1U1Z0NKVXpHd1NJQnZ3amNwODlnN0VkRlRDQUtn?oc=5",
-      "published_at": "2026-07-17T17:42:43+00:00",
-      "real_link": "https://www.tikr.com/ko/blog/is-booking-holdings-stock-a-buy-after-its-middle-east-driven-guidance-cut?",
-      "sent_at": "2026-07-17T17:48:26.363445+00:00",
-      "title": "Is Booking Holdings Stock a Buy After Its Middle East-Driven Guidance Cut?"
-    },
     "ca17533b7ffa922f6b1232588a8d1c0ce3b05f28858dd2839f6fe2230057f472": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOMzFoU0hkUWdsakRYcWNtZ3lXYlpfOEt0QlMtZWEtdWU3bzYtWUJFOFVFbmVWMm1CMUxkbk8tZVpmbklwS3NLRW1vQXpGc1dpY29tRFJqcERDcDkwMTBLcS0yYkRUaTRTemc?oc=5",
       "published_at": "2026-07-22T10:42:50+00:00",
@@ -4260,11 +4260,6 @@
       "real_link": "https://news.nate.com/view/20260720n27602?mid=n1101",
       "updated_at": "2026-07-20T07:57:09.777525+00:00"
     },
-    "0c11f7fdc169ce58754170d7b5920e401564dadb5d71d7fa63ed85bc7ec8c479": {
-      "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFa1MwckotclpEd0ZlbmdDUDFjZnd3T3l1TlA5M3BTcDBTTjdFY1NkYXlEM0lXaVJ0dXVlSTRyR1pOWFA5TlpzZVFZYUR0aldUSVREU2RpVmVrT0tE?oc=5",
-      "real_link": "https://www.newspim.com/news/view/20260718000007",
-      "updated_at": "2026-07-17T17:48:27.364401+00:00"
-    },
     "0c46009441bc830f42b47988beb069834f44805facce301d211b1c84bcf7a399": {
       "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wWllReGxENUhkcHlaWEM0M1d3bmxFMkFmNURqbkh6RHhrY0RxWUNyN1R1dWZGdXU5WWx5cjdUZnZ6UFVKVVd0TEdaZTZtdndLRW9XMHVpYmw1bGxjRzFxWGVhWFhRSnlvSjlyaGNoSQ?oc=5",
       "real_link": "https://kr.investing.com/news/transcripts/article-93CH-2037726",
@@ -4625,6 +4620,11 @@
       "real_link": "https://www.sentv.co.kr/article/view/sentv202607200003",
       "updated_at": "2026-07-19T22:28:21.867821+00:00"
     },
+    "2ce635ddc28a59ed04203e28a325a9114cab9b22b585d0e30cd17a9f5cd7d6ae": {
+      "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lMDF5RjI1WjlqZkVVVXo5aWgzQ3BXbjFhVHhoeUZWdWlkMzlEb1NjZ1dZTWVLT1c5dUMwN2FyNHctd21YSHpacHJoX2JSZXdfd1p4bHRhLW90cHlyQ0JidzJvN2hDSmZoSnlqcnFB?oc=5",
+      "real_link": "http://www.iworldtoday.com/news/articleView.html?idxno=424734",
+      "updated_at": "2026-07-31T18:12:17.979790+00:00"
+    },
     "2d945d152d1b4af95931dc38681794c9fbefe90646d9092d8c682034a15bb30f": {
       "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXVPZl9NdU10bmcxcWg2ZmFwWDlsSUpMcUdUNDBzZ2RKenRkNHhCcXdZYThTZms4RlRnUjh0WGpHZlhxUnEtZVd5SmVUY1IxVi1ONjg1bWxaMThFNnZ3a1VDMmtDYnJqRHRYcmJTYUNfdU8zTWlYa3h0OVlaRUhBamhld2o1SjJkYXYyR1BKMGlMSUw3RWdON25LTkFnRkJDVmFSWjln?oc=5",
       "real_link": "https://www.vietnam.vn/ko/dong-nam-a-lap-ky-luc-thu-hut-von-fdi-nho-lan-song-dich-chuyen-chuoi-cung-ung",
@@ -4839,6 +4839,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RZ0E1NFhoQk0yRFNwandncE52YTJhQVRya2s3YUpsWVJxQkhHOUJmMTRqTnNPY1lYZDdYLUI3OU52R21VWTBjMm5PRFI3cDE4anNHTFd2ZC01ekRWZHRyaUpSb0dQc0t2SUd0S2VuTTjSAXRBVV95cUxQLURqbHEwMGZQbHdmVjY0Qlg3ZGFaTkdBbm9HS2JRc2Robks3Q29DTGlvS0kwVjNnYllCRjlrZDJRcEc3TWc5dUxnaDVIQkRiY0ZqV0pPbjBMaWYtMzgzVGVGSUdUZ1dPc2lVUkk5MlctaFkwUw?oc=5",
       "real_link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426312",
       "updated_at": "2026-07-22T22:28:49.020252+00:00"
+    },
+    "3f21ba47749910cf299929d9c59c37b579ce241990c6c621cfb5998e59677107": {
+      "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUJTdGQ3eFBUVmFTSjN0dk5qX3YzYkNaUDJiZFUtWG5OVVFFWUdPQTIxVGh6NHh6MUkyTXdjdlJkN1VxcWhvTFBsZlBSLUlhSGliRGxxZHppbG5nOUwwM2duMU0tYld5Qm9TU2d5WFlZdl9MX1NiUTQ5SXVEeDZiNw?oc=5",
+      "real_link": "https://www.edaily.co.kr/News/Read?newsId=01354646645543056&mediaCodeNo=257",
+      "updated_at": "2026-07-31T18:12:16.253497+00:00"
     },
     "3f37500a1ef1ec6b09386b6dda3db769337d1e36252295f30d0125da6e7a9dd6": {
       "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hUW8wZHB5aWNwV3I4MHJYenBpNi05RlIxc2RncThkTGVaZVNuWEdGZFgwODJ2dHQ0YTZGUm1IRHc3aVE1MzBLN080VHA?oc=5",
@@ -6499,11 +6504,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ubk81QThIclNCTlBqYkNJRFVlT2syRzFhYkx1OEZoS0hDSFoyV3NwNHV1TENQVHFJc2hHVUc2OFpGTmFpWDY1V29HNGRDa3l2Qm5NSVZqQUF6X0tydU9mbk1uYUN1aGswYnp6amFkWQ?oc=5",
       "real_link": "https://kr.investing.com/news/transcripts/article-93CH-2029023",
       "updated_at": "2026-07-24T18:06:10.489958+00:00"
-    },
-    "c9aef58ffb013efd2a9db5146f6c4b4ed1d78d58535d7cee1968970532faf246": {
-      "google_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcTRGZzZLaHJRZ2xveU9UZlF0emNxMlpoeWJjTlpxd0JwNGsxVWdRX3E2dk15U0Raa0xJMVd0dTluNDNxOEw1amxIQ2liR3lYWXlkbUZjd0hERTYzVzdqLVZIU1E1S1Z4SVIyZUxHWVByU1FRbVdUNDJOQ21qWHFOOUlMTEgtUTZCT1U1Z0NKVXpHd1NJQnZ3amNwODlnN0VkRlRDQUtn?oc=5",
-      "real_link": "https://www.tikr.com/ko/blog/is-booking-holdings-stock-a-buy-after-its-middle-east-driven-guidance-cut?",
-      "updated_at": "2026-07-17T17:48:25.635278+00:00"
     },
     "ca17533b7ffa922f6b1232588a8d1c0ce3b05f28858dd2839f6fe2230057f472": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOMzFoU0hkUWdsakRYcWNtZ3lXYlpfOEt0QlMtZWEtdWU3bzYtWUJFOFVFbmVWMm1CMUxkbk8tZVpmbklwS3NLRW1vQXpGc1dpY29tRFJqcERDcDkwMTBLcS0yYkRUaTRTemc?oc=5",
