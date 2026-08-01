@@ -855,13 +855,6 @@
       "sent_at": "2026-07-29T01:11:30.201870+00:00",
       "title": "드디어 나온 ‘저PBR 제재’…상승 가능성 높은 톱10 종목 꼽아보니"
     },
-    "36e1d0930442e8560f6773a15012486fbab55bdbb6e93e7947e49ad6279ba7ed": {
-      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyMmVXRWx4OC02US1VcExqeTZOaTVjcWg5aXM1Mm1lVWhVYmUxYnZlcjI5LUl3ekF0ZFRnQk03ZEplalpZbXJBZXdHMU13SWpWX0M0?oc=5",
-      "published_at": "2026-07-18T10:52:05+00:00",
-      "real_link": "https://news.nate.com/view/20260718n09353",
-      "sent_at": "2026-07-18T11:01:21.440744+00:00",
-      "title": "'물폭탄'에 계곡 고립…하천서 악어 붙잡혀"
-    },
     "36f2a4e717d37a057d2627e2c25f71c188d5a69a4401d4dd48f82f293798b199": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96ZHo4Y1EtaHhkajVBVDczYkU4YV9Cd3lWY0NQMUxwcER6ZURRY2dQSVBINVFzQUJRa24wSDZSZFdGZWlNSjlpRFpuVVNJbVQ1NjFmVHFZZHIxNnJRQmpkMUVnQm9pbEJLelZLd1Y3WlVZUQ?oc=5",
       "published_at": "2026-07-30T12:48:01+00:00",
@@ -2710,6 +2703,13 @@
       "sent_at": "2026-07-23T01:07:57.119059+00:00",
       "title": "2분기 GDP 0.6%·GDI 3.6%↑…한은 \"하반기 성장률 -0.1%여도 연간 3% 성장\"(종합)"
     },
+    "a60182f89885921afba1b4f6963087b24cb886c1682e35b067efb51e86ab1b15": {
+      "google_link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9PbmxYc2FkaG03R3ZCTEFSb3ZiMXRPei1FUG5ZTGRscW5Mbkdwa0dSSHhndEtaaFlwd0hQa2pVRGZleVk?oc=5",
+      "published_at": "2026-08-01T11:38:00+00:00",
+      "real_link": "http://www.jajusibo.com/70632",
+      "sent_at": "2026-08-01T11:41:38.830202+00:00",
+      "title": "“검찰개혁 승리한 기세로 조희대 탄핵하자!”…202차 촛불대행진 열려"
+    },
     "a64a80b1c95205c98afee6963df643691a98a1d1f49e4c4eea5543a34fd019f0": {
       "google_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWa0RBV1locF9zV2k4MGFpTVVIZG1kMlBEeDRKSTNxTGNsUFY1LVY5OVY2bUFOeU5FazlGWkdVeG1VWk1rd2J0dDI1aEhocGhCelI5NXE0NTVEOVQ1TlF0bG16ZEw3UkNMamE1WUNjcUpyakJFWlRr?oc=5",
       "published_at": "2026-07-20T16:34:00+00:00",
@@ -2863,6 +2863,13 @@
       "real_link": "https://kr.investing.com/news/global-filings/article-93CH-2028179",
       "sent_at": "2026-07-24T09:37:39.540710+00:00",
       "title": "윙입푸드, 368억 원 규모 제3자배정 유상증자 정정공시...주당 1,600원"
+    },
+    "b02ca513c26d188b4f9309b561195862fd15e01a4a8dd0670b79325b6f4c16c5": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yZjZtNWoxcnY5VTVhd05ycmJKbFBYYzVzY3dxTmJvYlJnWjRnTlVGRDBxSFFldEt4cVJ5eDhGQi1MdUw2ZkE3d2JpUEtNc0tKMkd3eC1JQTlmRkhsalF3Ulo0UjI4Zw?oc=5",
+      "published_at": "2026-08-01T11:32:58+00:00",
+      "real_link": "https://www.jaturi.kr/news/articleView.html?idxno=27406",
+      "sent_at": "2026-08-01T11:41:37.243287+00:00",
+      "title": "폭락장에서 배운 교훈…'가치 투자'에 주목해야 할 때 [기자수첩]"
     },
     "b0bcb5941d037b4435d5e517d3b69e027bf9c07bae5c4e9a2235d1f44cea8d17": {
       "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TbGctSWNYSXJEWU9xV3dUUU11dm5FRlBEMXp4NUlPeWlnZW5HLTQyZFhZdGRpMGJjUDZEWEx0eWdqekF5dDZkN01OQ05xQ0U?oc=5",
@@ -3255,13 +3262,6 @@
       "real_link": "https://m.news.nate.com/view/20260722n33576?mid=m03&list=recent&cpcd=",
       "sent_at": "2026-07-22T10:53:40.058697+00:00",
       "title": "AI 조작 증거에 뒤바뀐 가해자·피해자…검찰 보완수사로 바로잡아"
-    },
-    "c8d977f4d088c85077c8d9d537fdd74b9a908f6c655716979d95d52df31b041a": {
-      "google_link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQWFp5VXBXZEpKLXludVU5SWhXUEtjUUFldmlpMG0wdVNhdkhLT3hzUFFzTUZfakRQQ2RFdEpxcUJiTENHVDM1eWhvbU9MbFBpcWJFQU14WnNBd3ZrQWlLNGxfa19lLXNYdGNCY3lXSXZPbnRqSS1HRXI4X0tyWmg5UzR3R29MNS1KdUtzM3pJXzBVMS1WcjhTbFVnYlRCeVJMUGhFaFE2MlhZYkZaajZ2WTE2TWRONUpFRWpuWDEzS0dDeWgtVk1SSVNxM0M3amZ0TjAwLVJkUk5VUUc1RzRiVk45SVdOcHUxN1gyS0FjckZBQ2VlWjVSTlJzWGNsbkNfSTdaQ3daYWNHalBhdXoyNnMyaUNyRzBydVpHUFBSbElWZXFOV1dDaHFDZEtJQVUwdXhxdEVzYXd0Zi1BdHB1TlN5bUxKY19DeWZ4bUVxRHlJLUxxeXcxM2RsWWtoWUstYXR4T3d6eHVlazNRYjh4OE5UUm94dzJqMUZRaU1yQUV0c193anB3UjJybkJHNFhWU2F2RXhyLThpbTNOcjk0RmxRcTRrcnFESXA2TUdSM3ZQTUVyQ1lHdzhqWDhxVEpwZTE4WlVqVHJxT1VBVmFldENaYmdRR3dnTkdyLWs2X0hkckd5eUV6cXZncEV2SHNmSl81TXlFTV9kWExxSlNxSjR1R1FTQQ?oc=5",
-      "published_at": "2026-07-18T10:59:52+00:00",
-      "real_link": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98-%EB%86%93%EC%B9%9C-%ED%8F%B4%EB%9E%80%EB%93%9C-%EC%9E%A0%EC%88%98%ED%95%A8-%EC%82%AC%EB%B8%8C-%EC%82%AC%EC%83%81-%EC%B5%9C%EB%8C%80-%EC%88%98%EC%A3%BC-%EB%A1%9C-k-%EB%B0%A9%EC%82%B0%EC%97%90-%EA%B2%BD%EA%B3%A0%EB%93%B1/ar-AA28alq6?cvid=6a5b5c1431c84732ae76fe5f24f103e1&ocid=hpmsn",
-      "sent_at": "2026-07-18T11:01:23.218760+00:00",
-      "title": "한화오션 놓친 폴란드 잠수함, 사브 '사상 최대 수주'로…K-방산에 경고등?"
     },
     "c8e44e31680c928250140a2ff7fe8f28e6235bdf3da518ebde98dfa72db67c94": {
       "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0VkdzNaazRHcjd6SXhHeFVaa1dmY1Y0c1ZfbUJFUkRNQWpEckd0alFaQ1A2cmRhZnNxbTFCNG5lbUtXeE05c25aOFhlaXltXzZIaV9DcXJDd3NNNXdOMFJGd3NqVklSemVzZUpLQVNhbVpMb3JjNnVOM055V2UwZ1F3bE5MN29h0gGcAUFVX3lxTE9ocVprYTQ3bGJQOHQ3LThXQ1RTdFBEVzhSOUdmLWJKQlYzWVhnWENXM2xuM2VBMXpXa1JydWxVdXEteXJDSlRYTnJHbW5rdEc3SHpsd0FtdVpPaEFDcU5RSF9TMG9ObFdtMjBEUjNJUHRaSEV0dGhyZmdmWjZXT1RkQkFacVRqZXF6NlR1ME5iZWtjRU84OFBRMG1ZNw?oc=5",
@@ -4722,11 +4722,6 @@
       "real_link": "https://www.hankyung.com/article/202607292050i",
       "updated_at": "2026-07-29T01:11:29.522380+00:00"
     },
-    "36e1d0930442e8560f6773a15012486fbab55bdbb6e93e7947e49ad6279ba7ed": {
-      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyMmVXRWx4OC02US1VcExqeTZOaTVjcWg5aXM1Mm1lVWhVYmUxYnZlcjI5LUl3ekF0ZFRnQk03ZEplalpZbXJBZXdHMU13SWpWX0M0?oc=5",
-      "real_link": "https://news.nate.com/view/20260718n09353",
-      "updated_at": "2026-07-18T11:01:20.760795+00:00"
-    },
     "36f2a4e717d37a057d2627e2c25f71c188d5a69a4401d4dd48f82f293798b199": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96ZHo4Y1EtaHhkajVBVDczYkU4YV9Cd3lWY0NQMUxwcER6ZURRY2dQSVBINVFzQUJRa24wSDZSZFdGZWlNSjlpRFpuVVNJbVQ1NjFmVHFZZHIxNnJRQmpkMUVnQm9pbEJLelZLd1Y3WlVZUQ?oc=5",
       "real_link": "https://www.datatooza.com/article/20260730214801723cd1e7b5117_80",
@@ -6047,6 +6042,11 @@
       "real_link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426377",
       "updated_at": "2026-07-23T01:07:56.404616+00:00"
     },
+    "a60182f89885921afba1b4f6963087b24cb886c1682e35b067efb51e86ab1b15": {
+      "google_link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9PbmxYc2FkaG03R3ZCTEFSb3ZiMXRPei1FUG5ZTGRscW5Mbkdwa0dSSHhndEtaaFlwd0hQa2pVRGZleVk?oc=5",
+      "real_link": "http://www.jajusibo.com/70632",
+      "updated_at": "2026-08-01T11:41:38.152934+00:00"
+    },
     "a64a80b1c95205c98afee6963df643691a98a1d1f49e4c4eea5543a34fd019f0": {
       "google_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWa0RBV1locF9zV2k4MGFpTVVIZG1kMlBEeDRKSTNxTGNsUFY1LVY5OVY2bUFOeU5FazlGWkdVeG1VWk1rd2J0dDI1aEhocGhCelI5NXE0NTVEOVQ1TlF0bG16ZEw3UkNMamE1WUNjcUpyakJFWlRr?oc=5",
       "real_link": "https://kr.investing.com/news/stock-market-news/article-93CH-2021627",
@@ -6156,6 +6156,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SU0h3a2pKcGpfVmtZOTFwZHFBbHk5SHJuSm1DQzVrSzR5UTVpc2laNmM4cnNKMTlqZ2ttN0pqOVJqWkZfLV9JUmlFd2hqVVJYelhldS11VE14WTMtWThWSWt5RlhOdFNoc2dFM2c1THZyMDA?oc=5",
       "real_link": "https://kr.investing.com/news/global-filings/article-93CH-2028179",
       "updated_at": "2026-07-24T09:37:38.867770+00:00"
+    },
+    "b02ca513c26d188b4f9309b561195862fd15e01a4a8dd0670b79325b6f4c16c5": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yZjZtNWoxcnY5VTVhd05ycmJKbFBYYzVzY3dxTmJvYlJnWjRnTlVGRDBxSFFldEt4cVJ5eDhGQi1MdUw2ZkE3d2JpUEtNc0tKMkd3eC1JQTlmRkhsalF3Ulo0UjI4Zw?oc=5",
+      "real_link": "https://www.jaturi.kr/news/articleView.html?idxno=27406",
+      "updated_at": "2026-08-01T11:41:36.294119+00:00"
     },
     "b0bcb5941d037b4435d5e517d3b69e027bf9c07bae5c4e9a2235d1f44cea8d17": {
       "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TbGctSWNYSXJEWU9xV3dUUU11dm5FRlBEMXp4NUlPeWlnZW5HLTQyZFhZdGRpMGJjUDZEWEx0eWdqekF5dDZkN01OQ05xQ0U?oc=5",
@@ -6436,11 +6441,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuSnR0cXV1dWlkSXRlbkJudnV5VFh0S01ja3UyNGdaSHgtRUQ5NzJHRnJXU0RadjM2ZlVxcGk5aDg3NUh1dWtBM1V0WXJWbC1wR193VzdKZmI1RnFZdjFVeGdmZnludUlldmR0dnVSdDlPZnlkblJRdA?oc=5",
       "real_link": "https://m.news.nate.com/view/20260722n33576?mid=m03&list=recent&cpcd=",
       "updated_at": "2026-07-22T10:53:39.451923+00:00"
-    },
-    "c8d977f4d088c85077c8d9d537fdd74b9a908f6c655716979d95d52df31b041a": {
-      "google_link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQWFp5VXBXZEpKLXludVU5SWhXUEtjUUFldmlpMG0wdVNhdkhLT3hzUFFzTUZfakRQQ2RFdEpxcUJiTENHVDM1eWhvbU9MbFBpcWJFQU14WnNBd3ZrQWlLNGxfa19lLXNYdGNCY3lXSXZPbnRqSS1HRXI4X0tyWmg5UzR3R29MNS1KdUtzM3pJXzBVMS1WcjhTbFVnYlRCeVJMUGhFaFE2MlhZYkZaajZ2WTE2TWRONUpFRWpuWDEzS0dDeWgtVk1SSVNxM0M3amZ0TjAwLVJkUk5VUUc1RzRiVk45SVdOcHUxN1gyS0FjckZBQ2VlWjVSTlJzWGNsbkNfSTdaQ3daYWNHalBhdXoyNnMyaUNyRzBydVpHUFBSbElWZXFOV1dDaHFDZEtJQVUwdXhxdEVzYXd0Zi1BdHB1TlN5bUxKY19DeWZ4bUVxRHlJLUxxeXcxM2RsWWtoWUstYXR4T3d6eHVlazNRYjh4OE5UUm94dzJqMUZRaU1yQUV0c193anB3UjJybkJHNFhWU2F2RXhyLThpbTNOcjk0RmxRcTRrcnFESXA2TUdSM3ZQTUVyQ1lHdzhqWDhxVEpwZTE4WlVqVHJxT1VBVmFldENaYmdRR3dnTkdyLWs2X0hkckd5eUV6cXZncEV2SHNmSl81TXlFTV9kWExxSlNxSjR1R1FTQQ?oc=5",
-      "real_link": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98-%EB%86%93%EC%B9%9C-%ED%8F%B4%EB%9E%80%EB%93%9C-%EC%9E%A0%EC%88%98%ED%95%A8-%EC%82%AC%EB%B8%8C-%EC%82%AC%EC%83%81-%EC%B5%9C%EB%8C%80-%EC%88%98%EC%A3%BC-%EB%A1%9C-k-%EB%B0%A9%EC%82%B0%EC%97%90-%EA%B2%BD%EA%B3%A0%EB%93%B1/ar-AA28alq6?cvid=6a5b5c1431c84732ae76fe5f24f103e1&ocid=hpmsn",
-      "updated_at": "2026-07-18T11:01:22.570421+00:00"
     },
     "c8e44e31680c928250140a2ff7fe8f28e6235bdf3da518ebde98dfa72db67c94": {
       "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0VkdzNaazRHcjd6SXhHeFVaa1dmY1Y0c1ZfbUJFUkRNQWpEckd0alFaQ1A2cmRhZnNxbTFCNG5lbUtXeE05c25aOFhlaXltXzZIaV9DcXJDd3NNNXdOMFJGd3NqVklSemVzZUpLQVNhbVpMb3JjNnVOM055V2UwZ1F3bE5MN29h0gGcAUFVX3lxTE9ocVprYTQ3bGJQOHQ3LThXQ1RTdFBEVzhSOUdmLWJKQlYzWVhnWENXM2xuM2VBMXpXa1JydWxVdXEteXJDSlRYTnJHbW5rdEc3SHpsd0FtdVpPaEFDcU5RSF9TMG9ObFdtMjBEUjNJUHRaSEV0dGhyZmdmWjZXT1RkQkFacVRqZXF6NlR1ME5iZWtjRU84OFBRMG1ZNw?oc=5",
