@@ -85,6 +85,13 @@
       "sent_at": "2026-07-29T22:06:48.942445+00:00",
       "title": "육군, 드론·로봇 결합한 유무인복합분대 첫 실증"
     },
+    "04a72c0eea8b60da0658c3f942059d2c82e22eb79e828feaeb31f82a68f68ddd": {
+      "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CV05wUlR3VHBDN05PcVRKaVFUcWpxNDQtaVlTWEN4dTB4MU15X1R4c19OUk90b2YySU9kT25vY0d1cktJaG5KZ2xHY2g?oc=5",
+      "published_at": "2026-08-09T16:52:16+00:00",
+      "real_link": "https://www.kairnews.com/news/510820",
+      "sent_at": "2026-08-09T16:57:28.334649+00:00",
+      "title": "AI 진단으로 의료격차 좁히나"
+    },
     "04f04a3c9c13f62631ef9fc055313dfc4448dc62501a578b343e6af21b3a9693": {
       "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CNHpOWWFoZFY2Nng0MG1ZbmwyNmJlTHNkWGVkUEV6SVdlVXJkZ1JBMnROMjg0SVVBRkQzX0tOMUdKLXhjN3lnTlRZbG1uR2FJUHc?oc=5",
       "published_at": "2026-08-05T11:55:36+00:00",
@@ -2038,13 +2045,6 @@
       "sent_at": "2026-07-30T09:06:23.071339+00:00",
       "title": "삼성전자, 반도체·DX 스타트업 투자에 8000억원 출자"
     },
-    "70700531b2eee4afd5e6d0905e6ad2bb80a36b3953f4c5e8565d8576a354264e": {
-      "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TaExxSVkzRmxCaTBrXzBzb1pjbERlN19oOWhHUWRYNWhibHZKcjZWVHg1RVl4VFAyay02WG84T2tUZEVrRlVnV1hkY0NhMEZta1l5Mkwtb1J1YWZXYzdSNHQtbUwwVlBV?oc=5",
-      "published_at": "2026-07-26T16:05:49+00:00",
-      "real_link": "https://www.gwnews.org/news/articleView.html?idxno=270306",
-      "sent_at": "2026-07-26T16:16:58.787180+00:00",
-      "title": "AI가 지키고 문화가 키운다… 양구군, '안전·예술 도시'로 미래를 그리다"
-    },
     "71e38a52bf3413cbbc38d2b80f2a684cda2b42fe943f15fad23f018b2aa6c40e": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHQV8tWVNNZnVFMVRNUnJTZnk2OTdldDI5NmMzaUFMSHdRNzgteVlFTU5JVE4tZk94Q1IzWGtUc1FVV0FUcEZJUVlrMmRmNnNoNzdjWWlWdXBsNkgtbndEaUhPcDQ2WUlI0gFuQVVfeXFMUDU1MUNHMTFZaUw4YnhzVll3MDBXTmQxOTl1Vk1reXFxalZVdEhZYkx1Z0xTS0RLUC11d1lzakdiWHZ3TzZabzROWFg4OW5ubjFzUlFvNC1IZjQ0X1ZUT0hhOGh4QXMwcDZKNzBtYUE?oc=5",
       "published_at": "2026-07-28T19:15:00+00:00",
@@ -2212,13 +2212,6 @@
       "real_link": "https://www.blockmedia.co.kr/archives/1124175",
       "sent_at": "2026-08-04T20:13:57.997016+00:00",
       "title": "[뉴욕증시 마감] \"다우 900p 솟구쳤다\"…SK하이닉스 ADR 8% 급등"
-    },
-    "7d3bb4fb3b33c35c30cbe32b696788e384e42525b6427e99435fc1f33393aa64": {
-      "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXRlTTNfZTNFRGM0Z19lZTQzbkdCMTdfa1VidWVkMnA2UlVkNENUSF9ITkpkV2h0ZW5zbUtTZlZ6VzZSWTlvS0M0c3l5Rm9MOHpUTWwxcVdiNlVBZ2NFaWV6RmZpSVRNaEdnUHhENmdRWDdaQ1MweFBRSEFfYkY4RVhCaDBlZw?oc=5",
-      "published_at": "2026-07-26T15:49:00+00:00",
-      "real_link": "https://www.chosun.com/politics/assembly/2026/07/27/M5XHYN2BNNA3HMYWU3BWMNT7NQ/",
-      "sent_at": "2026-07-26T16:16:57.191587+00:00",
-      "title": "조국혁신당 대표 신장식 \"민주당과 통합 열려 있어… 적대적 M&A 방식은 거부\""
     },
     "7ddfb99d3eda35f8c01ac9ec1a8de654b26797e37137dd8ba7a9dc70d12e02fc": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CQ3NHZ2p3bUhGZjJXRm01NjlsR2ZJcnpCU1FpTGg4ZHdoM2FKeF9IejJMVWtqQzZwUzVKVFRXcTdlNUJOQ2gwS3I2bklwOElaV3VEbmRWYzJac3c0TV85WHh1MEJJWDVsUDUzTWhFRWJnQQ?oc=5",
@@ -3536,13 +3529,6 @@
       "sent_at": "2026-07-30T21:06:59.463301+00:00",
       "title": "넥스트파워, 1분기 예상치 상회에도 가이던스 실망에 주가 하락"
     },
-    "c8e44e31680c928250140a2ff7fe8f28e6235bdf3da518ebde98dfa72db67c94": {
-      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0VkdzNaazRHcjd6SXhHeFVaa1dmY1Y0c1ZfbUJFUkRNQWpEckd0alFaQ1A2cmRhZnNxbTFCNG5lbUtXeE05c25aOFhlaXltXzZIaV9DcXJDd3NNNXdOMFJGd3NqVklSemVzZUpLQVNhbVpMb3JjNnVOM055V2UwZ1F3bE5MN29h0gGcAUFVX3lxTE9ocVprYTQ3bGJQOHQ3LThXQ1RTdFBEVzhSOUdmLWJKQlYzWVhnWENXM2xuM2VBMXpXa1JydWxVdXEteXJDSlRYTnJHbW5rdEc3SHpsd0FtdVpPaEFDcU5RSF9TMG9ObFdtMjBEUjNJUHRaSEV0dGhyZmdmWjZXT1RkQkFacVRqZXF6NlR1ME5iZWtjRU84OFBRMG1ZNw?oc=5",
-      "published_at": "2026-07-26T15:51:00+00:00",
-      "real_link": "https://biz.chosun.com/stock/stock_general/2026/07/27/G5RDCZTDMU3TSY3BGI4TGZDDMM/",
-      "sent_at": "2026-07-26T16:17:00.234893+00:00",
-      "title": "[주간경제지표] 2026년 7월 24일자 - 조선비즈"
-    },
     "c947abcbeb75d670a9dd86af855097b513f8b22ac4bed4fbd5c7fc7f472d3d14": {
       "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zNkRSd3E4Uy1mcXZaMlc0OGN1c2RoUjhLZk94Njk2YVNHS1lpNmlYTkNxOWhCSzVBSG1rNGItRnhTdUUzV1gyYkVCcWVjc0JpdGg1d2I5TUU4MGtJWmxQQVhQeFl6QVhqdHJrV2djQQ?oc=5",
       "published_at": "2026-07-28T15:55:00+00:00",
@@ -4612,6 +4598,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhWVNxSGFhLXV1cjJ4QWtpUXFZdm12ZFV0VFA3NGpqVHNOWFNQVmdoNjNraEJoMDlsUTFyTXozZEZtcmpuLW5KY2l3VjJySldmOWNKd1ZWQkdQVWljaEE?oc=5",
       "real_link": "https://bultopnews.com/news/article.html?no=13864",
       "updated_at": "2026-07-29T22:06:48.428388+00:00"
+    },
+    "04a72c0eea8b60da0658c3f942059d2c82e22eb79e828feaeb31f82a68f68ddd": {
+      "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CV05wUlR3VHBDN05PcVRKaVFUcWpxNDQtaVlTWEN4dTB4MU15X1R4c19OUk90b2YySU9kT25vY0d1cktJaG5KZ2xHY2g?oc=5",
+      "real_link": "https://www.kairnews.com/news/510820",
+      "updated_at": "2026-08-09T16:57:27.640532+00:00"
     },
     "04f04a3c9c13f62631ef9fc055313dfc4448dc62501a578b343e6af21b3a9693": {
       "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CNHpOWWFoZFY2Nng0MG1ZbmwyNmJlTHNkWGVkUEV6SVdlVXJkZ1JBMnROMjg0SVVBRkQzX0tOMUdKLXhjN3lnTlRZbG1uR2FJUHc?oc=5",
@@ -6008,11 +5999,6 @@
       "real_link": "https://www.newspim.com/news/view/20260730001426",
       "updated_at": "2026-07-30T09:06:22.217211+00:00"
     },
-    "70700531b2eee4afd5e6d0905e6ad2bb80a36b3953f4c5e8565d8576a354264e": {
-      "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TaExxSVkzRmxCaTBrXzBzb1pjbERlN19oOWhHUWRYNWhibHZKcjZWVHg1RVl4VFAyay02WG84T2tUZEVrRlVnV1hkY0NhMEZta1l5Mkwtb1J1YWZXYzdSNHQtbUwwVlBV?oc=5",
-      "real_link": "https://www.gwnews.org/news/articleView.html?idxno=270306",
-      "updated_at": "2026-07-26T16:16:58.096379+00:00"
-    },
     "71e38a52bf3413cbbc38d2b80f2a684cda2b42fe943f15fad23f018b2aa6c40e": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHQV8tWVNNZnVFMVRNUnJTZnk2OTdldDI5NmMzaUFMSHdRNzgteVlFTU5JVE4tZk94Q1IzWGtUc1FVV0FUcEZJUVlrMmRmNnNoNzdjWWlWdXBsNkgtbndEaUhPcDQ2WUlI0gFuQVVfeXFMUDU1MUNHMTFZaUw4YnhzVll3MDBXTmQxOTl1Vk1reXFxalZVdEhZYkx1Z0xTS0RLUC11d1lzakdiWHZ3TzZabzROWFg4OW5ubjFzUlFvNC1IZjQ0X1ZUT0hhOGh4QXMwcDZKNzBtYUE?oc=5",
       "real_link": "https://www.mt.co.kr/world/2026/07/29/2026072819555563555",
@@ -6132,11 +6118,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HQldESTQ1NjJwUFZ2c05vd1Y4RmxGVmNFOVM5Z0dHQkxWaG1NbU1DblRIWU9yZ2NLaVZfZXZmd3dBcXZPZjB5bm81ZVZhT2Z2WmRYN09LdjA?oc=5",
       "real_link": "https://www.blockmedia.co.kr/archives/1124175",
       "updated_at": "2026-08-04T20:13:57.206228+00:00"
-    },
-    "7d3bb4fb3b33c35c30cbe32b696788e384e42525b6427e99435fc1f33393aa64": {
-      "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXRlTTNfZTNFRGM0Z19lZTQzbkdCMTdfa1VidWVkMnA2UlVkNENUSF9ITkpkV2h0ZW5zbUtTZlZ6VzZSWTlvS0M0c3l5Rm9MOHpUTWwxcVdiNlVBZ2NFaWV6RmZpSVRNaEdnUHhENmdRWDdaQ1MweFBRSEFfYkY4RVhCaDBlZw?oc=5",
-      "real_link": "https://www.chosun.com/politics/assembly/2026/07/27/M5XHYN2BNNA3HMYWU3BWMNT7NQ/",
-      "updated_at": "2026-07-26T16:16:55.958624+00:00"
     },
     "7ddfb99d3eda35f8c01ac9ec1a8de654b26797e37137dd8ba7a9dc70d12e02fc": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CQ3NHZ2p3bUhGZjJXRm01NjlsR2ZJcnpCU1FpTGg4ZHdoM2FKeF9IejJMVWtqQzZwUzVKVFRXcTdlNUJOQ2gwS3I2bklwOElaV3VEbmRWYzJac3c0TV85WHh1MEJJWDVsUDUzTWhFRWJnQQ?oc=5",
@@ -7077,11 +7058,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vOXJGdlJ5WklMbkVXcjhDN1pxaDhRMWEwenFqb3MtTFhPeml6eEhDY2xpNDl4TWdNSWhFdWxYUXVYZ1VDNWJ4MWhTanVzSkEzZjk1c0xjS2g4NDJFdXVwaVBwcURCYk5uUTVR?oc=5",
       "real_link": "https://kr.investing.com/news/earnings/article-93CH-2038479",
       "updated_at": "2026-07-30T21:06:58.464282+00:00"
-    },
-    "c8e44e31680c928250140a2ff7fe8f28e6235bdf3da518ebde98dfa72db67c94": {
-      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0VkdzNaazRHcjd6SXhHeFVaa1dmY1Y0c1ZfbUJFUkRNQWpEckd0alFaQ1A2cmRhZnNxbTFCNG5lbUtXeE05c25aOFhlaXltXzZIaV9DcXJDd3NNNXdOMFJGd3NqVklSemVzZUpLQVNhbVpMb3JjNnVOM055V2UwZ1F3bE5MN29h0gGcAUFVX3lxTE9ocVprYTQ3bGJQOHQ3LThXQ1RTdFBEVzhSOUdmLWJKQlYzWVhnWENXM2xuM2VBMXpXa1JydWxVdXEteXJDSlRYTnJHbW5rdEc3SHpsd0FtdVpPaEFDcU5RSF9TMG9ObFdtMjBEUjNJUHRaSEV0dGhyZmdmWjZXT1RkQkFacVRqZXF6NlR1ME5iZWtjRU84OFBRMG1ZNw?oc=5",
-      "real_link": "https://biz.chosun.com/stock/stock_general/2026/07/27/G5RDCZTDMU3TSY3BGI4TGZDDMM/",
-      "updated_at": "2026-07-26T16:16:59.402449+00:00"
     },
     "c947abcbeb75d670a9dd86af855097b513f8b22ac4bed4fbd5c7fc7f472d3d14": {
       "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zNkRSd3E4Uy1mcXZaMlc0OGN1c2RoUjhLZk94Njk2YVNHS1lpNmlYTkNxOWhCSzVBSG1rNGItRnhTdUUzV1gyYkVCcWVjc0JpdGg1d2I5TUU4MGtJWmxQQVhQeFl6QVhqdHJrV2djQQ?oc=5",
