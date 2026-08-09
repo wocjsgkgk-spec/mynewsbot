@@ -1016,6 +1016,13 @@
       "sent_at": "2026-08-08T09:40:57.992370+00:00",
       "title": "\"SK하이닉스, 中 충칭 후공정 공장 지분 매각 검토…몸값 4조원\""
     },
+    "3a532a5ff83df91bf70d985e589793d192a17cd147a2f0a21356cb2dd974b564": {
+      "google_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NVEpsbHJya2JaYkFHTEpPeDVJRzdtcWw1QTBZaHVDMFdyUGlSV3djWWhEYmtraHl2Uy1oMzhaY3dGT1hEeWtwVzFYNXJzUQ?oc=5",
+      "published_at": "2026-08-09T18:32:18+00:00",
+      "real_link": "https://www.etnews.com/20260810000023",
+      "sent_at": "2026-08-09T18:56:58.497799+00:00",
+      "title": "성수석 이천시장, 반도체 교육센터 찾아 교육생 격려"
+    },
     "3b5bdde8b808c005318bad7db28867643ed4bdde7823938dfa10d19fbea29a2a": {
       "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oMlFOa0EyaUNHWnZ6ZlBIRmpoQVFvUjZySkR3MUR6emc2ZERaN2lKbzVtMHh3Y2Z4MWxpSFAycjE4c3h0VXpWMnJyYm1mMklCckZhQm00d1V0QdIBWEFVX3lxTFBCSmpPd1VXdkFobVRTdXpOUW1tbjMtVWNJdmJWcUhFVk9XS3MtbXRpM3NWMjVwM3RubkxTdnJCYks2R2FLZmFiaEdhQjNvSkZMQmtBM1dzNzM?oc=5",
       "published_at": "2026-07-28T20:33:25+00:00",
@@ -1134,13 +1141,6 @@
       "real_link": "https://www.tokenpost.kr/news/market/382695",
       "sent_at": "2026-07-29T14:34:22.184464+00:00",
       "title": "반도체 급락에 단일종목 레버리지 ETF 40% 이상 폭락"
-    },
-    "401cabd7b6b7a6dec52f3c5c2171b9a40e9ab0c08f5ab5bf166683dbea39a416": {
-      "google_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wQkZ6a25rd2dmZEUzc0tnNUo5ZlhJRWFDV3lUU3pnRWZ5SEttNUZ2WVBCRHQwZHFNYzc4cUxkNW56TDNRc1J2RQ?oc=5",
-      "published_at": "2026-07-26T18:30:00+00:00",
-      "real_link": "http://www.coinreaders.com/249603",
-      "sent_at": "2026-07-26T18:33:47.006035+00:00",
-      "title": "美 암호화폐 법안 표결 카운트다운...고래들은 27만 BTC '싹쓸이'"
     },
     "40330c711eb14b0d14acb3cfb598113356246af3c12cc3142664e6be04c8f06c": {
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OMUQ2VEtRNFMyTm9pVXlnUGZLcFNWQ2wzWE9HRm1wSzdxaGVjR1V3RUpIQkVBOW1qcmtHbkhTVUFidGIyaDJZTk9vdExyazhSQ2tvVmxBZ1owQnpLVXpVSw?oc=5",
@@ -5264,6 +5264,11 @@
       "real_link": "https://www.4th.kr/news/articleView.html?idxno=2116024",
       "updated_at": "2026-08-08T09:40:57.398310+00:00"
     },
+    "3a532a5ff83df91bf70d985e589793d192a17cd147a2f0a21356cb2dd974b564": {
+      "google_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NVEpsbHJya2JaYkFHTEpPeDVJRzdtcWw1QTBZaHVDMFdyUGlSV3djWWhEYmtraHl2Uy1oMzhaY3dGT1hEeWtwVzFYNXJzUQ?oc=5",
+      "real_link": "https://www.etnews.com/20260810000023",
+      "updated_at": "2026-08-09T18:56:57.628663+00:00"
+    },
     "3b5bdde8b808c005318bad7db28867643ed4bdde7823938dfa10d19fbea29a2a": {
       "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oMlFOa0EyaUNHWnZ6ZlBIRmpoQVFvUjZySkR3MUR6emc2ZERaN2lKbzVtMHh3Y2Z4MWxpSFAycjE4c3h0VXpWMnJyYm1mMklCckZhQm00d1V0QdIBWEFVX3lxTFBCSmpPd1VXdkFobVRTdXpOUW1tbjMtVWNJdmJWcUhFVk9XS3MtbXRpM3NWMjVwM3RubkxTdnJCYks2R2FLZmFiaEdhQjNvSkZMQmtBM1dzNzM?oc=5",
       "real_link": "https://www.ajunews.com/view/20260729053124966",
@@ -5348,11 +5353,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FWHk3eDl3OTJDR3B6VlN3eVlhN0VxNTAtcjNoaG1jZnFyYTd5UndQT18yQlhHZ2JIMy1vTm90Vmt6cFE0WU0wR0RWVFhtR3NFTG1DNmdB0gFbQVVfeXFMTzlKUWpRUVAyR2d6bEdvbmJZWHBQcEctMUVIdjRZLVhEeHFNZ0IwSEpnTWllQ3ItbXMtMjhDUmx3el9Tdnl0SVg1Y1dxNTRoV1lsTHJjOFlZMVZHRQ?oc=5",
       "real_link": "https://www.tokenpost.kr/news/market/382695",
       "updated_at": "2026-07-29T14:34:21.508223+00:00"
-    },
-    "401cabd7b6b7a6dec52f3c5c2171b9a40e9ab0c08f5ab5bf166683dbea39a416": {
-      "google_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wQkZ6a25rd2dmZEUzc0tnNUo5ZlhJRWFDV3lUU3pnRWZ5SEttNUZ2WVBCRHQwZHFNYzc4cUxkNW56TDNRc1J2RQ?oc=5",
-      "real_link": "http://www.coinreaders.com/249603",
-      "updated_at": "2026-07-26T18:33:46.321198+00:00"
     },
     "40330c711eb14b0d14acb3cfb598113356246af3c12cc3142664e6be04c8f06c": {
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OMUQ2VEtRNFMyTm9pVXlnUGZLcFNWQ2wzWE9HRm1wSzdxaGVjR1V3RUpIQkVBOW1qcmtHbkhTVUFidGIyaDJZTk9vdExyazhSQ2tvVmxBZ1owQnpLVXpVSw?oc=5",
