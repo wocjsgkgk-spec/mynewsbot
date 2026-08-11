@@ -1,6 +1,13 @@
 {
   "failed": {},
   "sent": {
+    "0008f09d592cda629b05da1d36b54f697f30da851b30288b8884229353aa5cef": {
+      "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd3p3dVp2QV81TlU4czdlOUlFa00zQ3NDUU5NMk0yQ3V2MjgtRUQxWTRNVkl6Q2tNMHM0aUM1QjAtU3NRa053U19DSlk2cW04bDJ2MGxhR09kV3U1NXhIdk1lcGxnTzU5dnRIcGZhbTE3Z0JCVWtBcU1YQ1BETE11c29Qaks0d2hFcjlxQnRhNXdZVFNp?oc=5",
+      "published_at": "2026-08-11T13:35:55+00:00",
+      "real_link": "https://www.tikr.com/ko/blog/riot-platforms-stock-anthropic-nine-billion-data-center-deal?",
+      "sent_at": "2026-08-11T13:40:02.536046+00:00",
+      "title": "Riot Platforms Stock Jumps 18% Following Reported $9 Billion Data Center Lease Deal with Anthropic"
+    },
     "001d150b3b7832de1470b7b3550c7d4e26e20153eba0d82468509190d6f60fb0": {
       "google_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45ZmZrNHMwc0JzQ1drQTRJUWxKVDVQeEc3Wl9EenFqSFRWRmhVcGptTEZSSVRwU0FWZnVZdDRDY0F1VG5rSi1zMkZzTEdjakNReFB3WkNjOGhGSWc?oc=5",
       "published_at": "2026-07-31T19:50:00+00:00",
@@ -2801,6 +2808,13 @@
       "sent_at": "2026-07-30T00:13:35.432431+00:00",
       "title": "우리금융, 외국인투자자 지분율 최저…파격 주주환원 효과 볼까"
     },
+    "9513430304c0bfe6d70a97cfa03ec121282b32efa24fb073d956ac88fe158e75": {
+      "google_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TeXZSeWtEZ25ZMHNoUXJWSEc1VjB1M1BJd1hXNXVNQ2tLcTh2cVByclQ3NHJwRXVnN1Q5ZWgzVm9VdEtzTXFQbl9QbDdUcVliUFgzWk5IZWtiLU0?oc=5",
+      "published_at": "2026-08-11T13:15:18+00:00",
+      "real_link": "https://www.joongang.co.kr/gmc/article/25452557",
+      "sent_at": "2026-08-11T13:40:01.354418+00:00",
+      "title": "美·이란 합의 기대에 유가 하락…증시 랠리, CPI에 달렸다│Global Money Club"
+    },
     "9564f35d32fa5eef1acd66d9741d2619f99837c7761eed058ceb89c6f5620f9b": {
       "google_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DaVpjUEJSREdqMkxwSmtGQ2d5cmZrYXQwcmdHQzBDbzFiZm5yQnhONUcwU0hfaXBlaEdjazJObHJiYjg0MWZkdw?oc=5",
       "published_at": "2026-08-09T17:30:00+00:00",
@@ -2982,6 +2996,13 @@
       "real_link": "https://www.datatooza.com/article/202607310712238071cd1e7ebc3a_80",
       "sent_at": "2026-07-30T22:17:06.368220+00:00",
       "title": "돌비, 3분기 매출 3억 500만 달러 기록…자사주 매입 3억 5000만 달러 증액"
+    },
+    "9d02d0e87241ddaff7fdb8bbfd0bff6f8ab6e6d2d0b6aa488646ddea1e6156b6": {
+      "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JSTZ0MVhOcl9GdEFrWWpIcFExRWtPU0lzS0tGWFZHclc4eWtxeTYtdzA1TUhmZDlzSDF1MUphRU95OC14ZkVmbUtiUExma0hTa3NxUXBEV2c2MmdRakdmVUVLenNiUGFwcDV4LUJYTFQ?oc=5",
+      "published_at": "2026-08-11T13:35:00+00:00",
+      "real_link": "https://kr.investing.com/news/company-news/article-93CH-2056438",
+      "sent_at": "2026-08-11T13:39:59.882644+00:00",
+      "title": "Highpeak Energy 주가, 52주 신고가 8.71달러 기록"
     },
     "9d2048759e255ebd797961e90329b592115fdc90d86f1cbea45eede6d7531945": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vRmVQZWprZThGNU9FRFN5LWJ4TVdhMVdDVnlrejNkZDlXNFM4eDlTTlRGRXJXV08xN3VFc2pnb2t3dXd2b21zRjI5VlpwZ3VSc1NlNTYzdTJ4dmJNNjZ6ZUZsdjZ3YW43YWc?oc=5",
@@ -3983,6 +4004,13 @@
       "real_link": "https://www.news2day.co.kr/article/20260728500282",
       "sent_at": "2026-07-28T22:43:52.523040+00:00",
       "title": "[N2 포커스] 기준금리 상승 전부터 시장금리가 먼저 올랐다"
+    },
+    "ce0fa4cb8e4b11aca0ecdac0d1be5fa20931d6ed94c545c2a561f84c8f80ee72": {
+      "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kUld1c2Q0SzJab095dFcyajVxMndySGN1VUNjTWh4MzVteVlJeXg3YW1XTUEyUzNQaGVlMFlYNHpNbHdYNFpHNWhpdUFqY3NKRWNOa3JlWTdQZWpheHl1U0pSZXg2UFJhTFRlVlo0bw?oc=5",
+      "published_at": "2026-08-11T13:29:00+00:00",
+      "real_link": "https://kr.investing.com/news/transcripts/article-93CH-2056421",
+      "sent_at": "2026-08-11T13:40:03.777995+00:00",
+      "title": "NHI, 2026년 2분기 EPS 예상치 상회... 매출은 미달"
     },
     "ce3b5e9756c1a45d751ca68b5d8c19ec69ccfdcb5608aff5d68e312c0327cd6a": {
       "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96ZVVlcUtnOEZ5NnVIUGVJREtzaXdWTUpyUTI5U0N2cl9NNkUzeTlXejZVbXQ2RG1GZXVRZGRVeWJERkhFc2xGMTZsdEhNczdsSkl5d1MzRm9icE1MV25mU09saGduVE4xUGs2SA?oc=5",
@@ -5008,6 +5036,11 @@
     }
   },
   "url_cache": {
+    "0008f09d592cda629b05da1d36b54f697f30da851b30288b8884229353aa5cef": {
+      "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd3p3dVp2QV81TlU4czdlOUlFa00zQ3NDUU5NMk0yQ3V2MjgtRUQxWTRNVkl6Q2tNMHM0aUM1QjAtU3NRa053U19DSlk2cW04bDJ2MGxhR09kV3U1NXhIdk1lcGxnTzU5dnRIcGZhbTE3Z0JCVWtBcU1YQ1BETE11c29Qaks0d2hFcjlxQnRhNXdZVFNp?oc=5",
+      "real_link": "https://www.tikr.com/ko/blog/riot-platforms-stock-anthropic-nine-billion-data-center-deal?",
+      "updated_at": "2026-08-11T13:40:01.855478+00:00"
+    },
     "001d150b3b7832de1470b7b3550c7d4e26e20153eba0d82468509190d6f60fb0": {
       "google_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45ZmZrNHMwc0JzQ1drQTRJUWxKVDVQeEc3Wl9EenFqSFRWRmhVcGptTEZSSVRwU0FWZnVZdDRDY0F1VG5rSi1zMkZzTEdjakNReFB3WkNjOGhGSWc?oc=5",
       "real_link": "https://news.kbs.co.kr/news/view.do?ncd=8625957",
@@ -7008,6 +7041,11 @@
       "real_link": "https://kbthink.com/news-list/view.html?newsId=20260730090343988",
       "updated_at": "2026-07-30T00:13:34.645921+00:00"
     },
+    "9513430304c0bfe6d70a97cfa03ec121282b32efa24fb073d956ac88fe158e75": {
+      "google_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TeXZSeWtEZ25ZMHNoUXJWSEc1VjB1M1BJd1hXNXVNQ2tLcTh2cVByclQ3NHJwRXVnN1Q5ZWgzVm9VdEtzTXFQbl9QbDdUcVliUFgzWk5IZWtiLU0?oc=5",
+      "real_link": "https://www.joongang.co.kr/gmc/article/25452557",
+      "updated_at": "2026-08-11T13:40:00.510666+00:00"
+    },
     "9564f35d32fa5eef1acd66d9741d2619f99837c7761eed058ceb89c6f5620f9b": {
       "google_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DaVpjUEJSREdqMkxwSmtGQ2d5cmZrYXQwcmdHQzBDbzFiZm5yQnhONUcwU0hfaXBlaEdjazJObHJiYjg0MWZkdw?oc=5",
       "real_link": "http://www.coinreaders.com/251864",
@@ -7137,6 +7175,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xMm5qZTRMU3d2Q09NTjRTaGhORW9tX0tiYlR2WnlZVjFrdUhOblhzOXJmMjg3VDk3RENWVGlmV0lFU05yTXZVTHlMdndOYXQtdVgxdlA2WjIwalR4MEFmQTdPcE40d0JDZzRzTzcwU3RaMUk?oc=5",
       "real_link": "https://www.datatooza.com/article/202607310712238071cd1e7ebc3a_80",
       "updated_at": "2026-07-30T22:17:05.507095+00:00"
+    },
+    "9d02d0e87241ddaff7fdb8bbfd0bff6f8ab6e6d2d0b6aa488646ddea1e6156b6": {
+      "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JSTZ0MVhOcl9GdEFrWWpIcFExRWtPU0lzS0tGWFZHclc4eWtxeTYtdzA1TUhmZDlzSDF1MUphRU95OC14ZkVmbUtiUExma0hTa3NxUXBEV2c2MmdRakdmVUVLenNiUGFwcDV4LUJYTFQ?oc=5",
+      "real_link": "https://kr.investing.com/news/company-news/article-93CH-2056438",
+      "updated_at": "2026-08-11T13:39:59.164516+00:00"
     },
     "9d2048759e255ebd797961e90329b592115fdc90d86f1cbea45eede6d7531945": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vRmVQZWprZThGNU9FRFN5LWJ4TVdhMVdDVnlrejNkZDlXNFM4eDlTTlRGRXJXV08xN3VFc2pnb2t3dXd2b21zRjI5VlpwZ3VSc1NlNTYzdTJ4dmJNNjZ6ZUZsdjZ3YW43YWc?oc=5",
@@ -7852,6 +7895,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4cDctbzVJcW1CVU9ETDRmS29sQ3JsSWZ0dmhQUllSbHFPN2luMTI5aTNYMkpLNi1oX3lmeWxrRUliZ2R0WGhHbmdBUm1CTFY5QmlpUHdqMGttY3RxWHc?oc=5",
       "real_link": "https://www.news2day.co.kr/article/20260728500282",
       "updated_at": "2026-07-28T22:43:51.718844+00:00"
+    },
+    "ce0fa4cb8e4b11aca0ecdac0d1be5fa20931d6ed94c545c2a561f84c8f80ee72": {
+      "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kUld1c2Q0SzJab095dFcyajVxMndySGN1VUNjTWh4MzVteVlJeXg3YW1XTUEyUzNQaGVlMFlYNHpNbHdYNFpHNWhpdUFqY3NKRWNOa3JlWTdQZWpheHl1U0pSZXg2UFJhTFRlVlo0bw?oc=5",
+      "real_link": "https://kr.investing.com/news/transcripts/article-93CH-2056421",
+      "updated_at": "2026-08-11T13:40:03.104754+00:00"
     },
     "ce3b5e9756c1a45d751ca68b5d8c19ec69ccfdcb5608aff5d68e312c0327cd6a": {
       "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96ZVVlcUtnOEZ5NnVIUGVJREtzaXdWTUpyUTI5U0N2cl9NNkUzeTlXejZVbXQ2RG1GZXVRZGRVeWJERkhFc2xGMTZsdEhNczdsSkl5d1MzRm9icE1MV25mU09saGduVE4xUGs2SA?oc=5",
