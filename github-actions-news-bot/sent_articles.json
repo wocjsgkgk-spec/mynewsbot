@@ -2808,13 +2808,6 @@
       "sent_at": "2026-08-14T09:30:34.151043+00:00",
       "title": "삼성SDS, 'AI 성과'에 보상...상반기 보수 1위 이호준 부사장, 상여가 급여 웃돌아"
     },
-    "8215f86c2b755a6631010832bef1b33382f4e344724ed36c6edc42d1a5197bae": {
-      "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjRTeVB3ZEdsRi0yT0tWOWM5ZGhKMDVKcTFVRDJSa2ZkWVhJMG5KVzdOTEJoVS1jRzJ4S1liNGZzV1NkQ2FrblIyenZOZF9RY0hOUm1TNUlDSHYwMzBjS2lHNUl4eDJkSk9ZVW9zVE0tLUZMZmxXRlZEa0xZcmIxMmdvaWFsdjN2OWt6cmlhTQ?oc=5",
-      "published_at": "2026-08-01T18:31:17+00:00",
-      "real_link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224364878606&redirect=Dlog",
-      "sent_at": "2026-08-01T18:38:12.607118+00:00",
-      "title": "광고 한파에 발목 잡힌 SOOP…일회성 비용 겹쳐 수익성 악화 : 네이버 블로그"
-    },
     "8258a505b020f51a18bd8875754e38e09236072fad0984abd584b4495c4ce373": {
       "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80VzQ5Q0UzanRUR2lMOTJlelNVNzl4eU9vS1VEWFBkODdjcVJZZXdjR0I3U2V2aUFrcFZuZDN1a21QZ3BtZ1FDbHlxZGFOZHI3dlYtb3h2RmJkZmVEUXc?oc=5",
       "published_at": "2026-08-12T20:55:38+00:00",
@@ -3507,6 +3500,13 @@
       "real_link": "https://www.thelec.kr/news/articleView.html?idxno=60676",
       "sent_at": "2026-08-07T05:20:16.106972+00:00",
       "title": "HD하이드로젠, 고체산화물연료전지 양산체계 구축"
+    },
+    "a0e2040f08e8366842b1950c89452b1c1678a23f49e8a0040ea86f1bbf71c8db": {
+      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJczlZYzdBdGNVazk0SUlheXk5OGpRNVdhZUoxYWVWLThCN3ozLUhDQlZfQWVNUEFBSE5RN0tpdVpTZWdRc2FBMURKVF9BLVVOVjRB?oc=5",
+      "published_at": "2026-08-15T18:49:00+00:00",
+      "real_link": "https://news.nate.com/view/20260816n00499",
+      "sent_at": "2026-08-15T18:56:12.473533+00:00",
+      "title": "엔비디아, 30조 원어치 스페이스X 지분 보유…'순환 거래' 우려"
     },
     "a197d2ed1ffa628ed32288e3d0d53a9df9d987f3e795cac2e179234c831963ad": {
       "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTXhTOENtc19WYU9MR3lXNmR6empUTm1xODE2d1ZfRmJyMlZLMXU5UWZnOVRBOTlKV3RzQzdQb1htSklKR2NmVEZzOTJOTFJFYXc?oc=5",
@@ -4214,13 +4214,6 @@
       "real_link": "https://dailypharm.com/user/news/341274",
       "sent_at": "2026-08-10T15:06:29.160101+00:00",
       "title": "지씨셀, 롯데바이오로직스 출신 손주희 사업개발실장 영입"
-    },
-    "beda7fea139d962da9ec4fd7759aadc2b833580bcab88df0abe31408a52c3c5e": {
-      "google_link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBaTEJ5dzV5cWYtLWhlR3R3QWx1dUYzcEtVajFBbEhDeExDMThHb2NvMkZZV0U3SWlEQllRZ2p5aE5GeU0?oc=5",
-      "published_at": "2026-08-01T18:25:56+00:00",
-      "real_link": "http://knpp.co.kr/news/528663",
-      "sent_at": "2026-08-01T18:38:14.565314+00:00",
-      "title": "20MW 초대형 터빈으로 해상풍력 시장을 선점하려는 베스타스의 전략"
     },
     "beff8ea4164c365a0e13e2b193bb0e975752d176646055a6dfbb83835c7a3611": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85M01UMVFlN2NWZlU3dzdyVUR2VkVLSEVJR3FLTmxmQ3I4TXJ4NUpTV1BNVXJSY2IwRFVhNnc3Z0hzRHhOZ3Q4cjM3dXJuTFIyUW55NnllNWtEVGFFRVlQNzQ5d0RCa29w?oc=5",
@@ -5502,6 +5495,13 @@
       "real_link": "http://www.coinreaders.com/250754",
       "sent_at": "2026-08-02T11:04:47.662433+00:00",
       "title": "'21% 폭락' 레딧(RDDT), 구글 재계약으로 반전 써낼까?"
+    },
+    "f4abe161bf1eff04ba7be27409869e0c93e69d3b2c983ed265bc1857c28d5d25": {
+      "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOENoeElSYjZlSV81VjctRW1HaHY1TzNNUXBoRXg4VjRkSmpxT1FpaFNKMVRKSFRtN2RQWnQzdEk2OHMtXzNVVFdKZGp3dWJfX21TT1VlTVdybDg4SEJ6eGZmZzhjVmkwazAwdWcyOWpKT3k1YllENDFqVFhxVFJXck9PN1NIcXA4eWpoeWUtWQ?oc=5",
+      "published_at": "2026-08-15T18:38:36+00:00",
+      "real_link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224379742595&redirect=Dlog",
+      "sent_at": "2026-08-15T18:56:10.555112+00:00",
+      "title": "윤상현 부회장, 그룹 재편 속도…콜마비앤에이치 '구강케어' 진출 : 네이버 블로그"
     },
     "f4c00c1ca15436f991a11fde3f5d9a09a480afb2f768d6962e838297f3a7ca36": {
       "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVVVoZjAzQ0t4MVhHeGpwamJQUzliVFNUMC1IZUJ5U1l3V3AwcktGOVplUjVYQnVseTJINzB4dnp6bXRMbmo4TURwX2RERGQ0NVd2NHp5TGNZdGZtUmc?oc=5",
@@ -7776,11 +7776,6 @@
       "real_link": "https://news.mtn.co.kr/news-detail/2026081418022174585",
       "updated_at": "2026-08-14T09:30:33.618841+00:00"
     },
-    "8215f86c2b755a6631010832bef1b33382f4e344724ed36c6edc42d1a5197bae": {
-      "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjRTeVB3ZEdsRi0yT0tWOWM5ZGhKMDVKcTFVRDJSa2ZkWVhJMG5KVzdOTEJoVS1jRzJ4S1liNGZzV1NkQ2FrblIyenZOZF9RY0hOUm1TNUlDSHYwMzBjS2lHNUl4eDJkSk9ZVW9zVE0tLUZMZmxXRlZEa0xZcmIxMmdvaWFsdjN2OWt6cmlhTQ?oc=5",
-      "real_link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224364878606&redirect=Dlog",
-      "updated_at": "2026-08-01T18:38:11.819257+00:00"
-    },
     "8258a505b020f51a18bd8875754e38e09236072fad0984abd584b4495c4ce373": {
       "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80VzQ5Q0UzanRUR2lMOTJlelNVNzl4eU9vS1VEWFBkODdjcVJZZXdjR0I3U2V2aUFrcFZuZDN1a21QZ3BtZ1FDbHlxZGFOZHI3dlYtb3h2RmJkZmVEUXc?oc=5",
       "real_link": "https://www.news2day.co.kr/article/20260812500084",
@@ -8275,6 +8270,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zbzI5dlY1b2tDSVcySm8zUVREdTJlYmNfTXNfWmFMZHYwT1JSYWhNZ1ZYMGdPTFpyLTNnV2Z2cG9DWjl6dVlZMmZNeXFodFNvMExkNVpJOTJCUG4zbHIxWGl2ZjVldw?oc=5",
       "real_link": "https://www.thelec.kr/news/articleView.html?idxno=60676",
       "updated_at": "2026-08-07T05:20:15.431377+00:00"
+    },
+    "a0e2040f08e8366842b1950c89452b1c1678a23f49e8a0040ea86f1bbf71c8db": {
+      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJczlZYzdBdGNVazk0SUlheXk5OGpRNVdhZUoxYWVWLThCN3ozLUhDQlZfQWVNUEFBSE5RN0tpdVpTZWdRc2FBMURKVF9BLVVOVjRB?oc=5",
+      "real_link": "https://news.nate.com/view/20260816n00499",
+      "updated_at": "2026-08-15T18:56:11.912348+00:00"
     },
     "a197d2ed1ffa628ed32288e3d0d53a9df9d987f3e795cac2e179234c831963ad": {
       "google_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTXhTOENtc19WYU9MR3lXNmR6empUTm1xODE2d1ZfRmJyMlZLMXU5UWZnOVRBOTlKV3RzQzdQb1htSklKR2NmVEZzOTJOTFJFYXc?oc=5",
@@ -8780,11 +8780,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDT1o5djgxRVJDMjc2VzMyZlNCTThCdDg3ZnllOG9KbVBKOEV6TG1vQ05pVmNxeWZLUzRMTnlLR1JBMTFiQXpnYTF1Wm81X0w5?oc=5",
       "real_link": "https://dailypharm.com/user/news/341274",
       "updated_at": "2026-08-10T15:06:28.374238+00:00"
-    },
-    "beda7fea139d962da9ec4fd7759aadc2b833580bcab88df0abe31408a52c3c5e": {
-      "google_link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBaTEJ5dzV5cWYtLWhlR3R3QWx1dUYzcEtVajFBbEhDeExDMThHb2NvMkZZV0U3SWlEQllRZ2p5aE5GeU0?oc=5",
-      "real_link": "http://knpp.co.kr/news/528663",
-      "updated_at": "2026-08-01T18:38:13.998345+00:00"
     },
     "beff8ea4164c365a0e13e2b193bb0e975752d176646055a6dfbb83835c7a3611": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85M01UMVFlN2NWZlU3dzdyVUR2VkVLSEVJR3FLTmxmQ3I4TXJ4NUpTV1BNVXJSY2IwRFVhNnc3Z0hzRHhOZ3Q4cjM3dXJuTFIyUW55NnllNWtEVGFFRVlQNzQ5d0RCa29w?oc=5",
@@ -9700,6 +9695,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uLUFKUVJEa3RNOURjV3U5VG5FSHBHekI0S2VnQkdaQkI5aEE4cmhWX1l1bFJBTEFsSDV0Nk85enB5bFNIYUpybA?oc=5",
       "real_link": "http://www.coinreaders.com/250754",
       "updated_at": "2026-08-02T11:04:46.889122+00:00"
+    },
+    "f4abe161bf1eff04ba7be27409869e0c93e69d3b2c983ed265bc1857c28d5d25": {
+      "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOENoeElSYjZlSV81VjctRW1HaHY1TzNNUXBoRXg4VjRkSmpxT1FpaFNKMVRKSFRtN2RQWnQzdEk2OHMtXzNVVFdKZGp3dWJfX21TT1VlTVdybDg4SEJ6eGZmZzhjVmkwazAwdWcyOWpKT3k1YllENDFqVFhxVFJXck9PN1NIcXA4eWpoeWUtWQ?oc=5",
+      "real_link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224379742595&redirect=Dlog",
+      "updated_at": "2026-08-15T18:56:09.932239+00:00"
     },
     "f4c00c1ca15436f991a11fde3f5d9a09a480afb2f768d6962e838297f3a7ca36": {
       "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVVVoZjAzQ0t4MVhHeGpwamJQUzliVFNUMC1IZUJ5U1l3V3AwcktGOVplUjVYQnVseTJINzB4dnp6bXRMbmo4TURwX2RERGQ0NVd2NHp5TGNZdGZtUmc?oc=5",
