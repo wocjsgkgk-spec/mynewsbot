@@ -638,13 +638,6 @@
       "sent_at": "2026-08-12T03:51:15.208959+00:00",
       "title": "12월 8일 주식시장: 상승 전망, VN 지수는 주요 지지선 유지 필요."
     },
-    "1d68a38183b1beec87ff547828814924a9bb6cf12c8e34e29f0fdb25edfbf2b3": {
-      "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4Vkx3Um9mdDNkNS11U3g1dzhKZzB2TElEcnk5cUc2MjNLTUpROG5LdzdMYkxyWjRHMjAtb0ZzZTFCdUZRVndhQndZMFc2SUxLUldaQk9TbTBabGpwXzRtS3RMclg2Q0E?oc=5",
-      "published_at": "2026-08-01T19:49:36+00:00",
-      "real_link": "https://www.geconomy.co.kr/mobile/article.html?no=322432",
-      "sent_at": "2026-08-01T19:52:01.728422+00:00",
-      "title": "반도체 질주에 7월 수출 989억달러…연간 1조달러 목표 '청신호'"
-    },
     "1da14344ee089c5b4f12651062ee0e85d0a765abc51b1da0a826900a01ad05b8": {
       "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tVGhwU1ozSFhOSnlLdkFvVlFUWEhpMHVydWZHa1FyN09Hd19IXzh0MG9jQVlvQ01qMlBEVlFXbF9NUGV4TDJ5NFpUbHNEd2hmb1I0?oc=5",
       "published_at": "2026-08-08T21:05:00+00:00",
@@ -2142,6 +2135,13 @@
       "real_link": "https://www.mydailybyte.com/post/%EC%96%B4%EB%8B%9D-%EC%8B%9C%EC%A6%8C-2609",
       "sent_at": "2026-08-09T15:04:19.179619+00:00",
       "title": "어닝 시즌, 빅테크 업계엔 무슨 일이 있었나?"
+    },
+    "5c7596ecfb69489b60e8dd096297545db8219624acf6d96afa01f8a5b50635f1": {
+      "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVFBVNjRmdk5hZGsyakNKN002RkFxTHJrZ25PU1RTb0Q0emdjNUZzZGJiVFVieTdZaXkyUGFNR1N4NGZtVkVPMzVaalRPRXI5OG1GMlRGSV9BMDJuUk84WG5qZmY4alBna2I4TXV3VzRER2N3eTNLV0R2M2xNSy1XZHBGaldzQWlpU2lEbTlHZw?oc=5",
+      "published_at": "2026-08-15T19:41:59+00:00",
+      "real_link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224379561136&redirect=Dlog",
+      "sent_at": "2026-08-15T19:59:13.066201+00:00",
+      "title": "\"빨리빨리 DNA가 AI도 바꿔\"…현대차 AX의 힘은 '실행력' : 네이버 블로그"
     },
     "5cd115af151c410a050df236a65e3c40673d9140b59103b7acf9d7f55fefcccd": {
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJdHN3U1M4YjI4UE1ueXpHR1lzQ0VzVUtORk1NTmNuNnlYQ2o0dGktOEtSRkljWTZJU2F0WHR5S3hzU0ZVQmJEd1ktQllSQ3JUREowMmxZcVVNaTNRd3doSmQ0Nm5PNU9KRXhwZU0zcVk?oc=5",
@@ -6247,11 +6247,6 @@
       "real_link": "https://www.vietnam.vn/ko/chung-khoan-12-8-duoc-du-bao-tang-diem-vn-index-can-giu-duoc-nguong-quan-trong",
       "updated_at": "2026-08-12T03:51:14.664802+00:00"
     },
-    "1d68a38183b1beec87ff547828814924a9bb6cf12c8e34e29f0fdb25edfbf2b3": {
-      "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4Vkx3Um9mdDNkNS11U3g1dzhKZzB2TElEcnk5cUc2MjNLTUpROG5LdzdMYkxyWjRHMjAtb0ZzZTFCdUZRVndhQndZMFc2SUxLUldaQk9TbTBabGpwXzRtS3RMclg2Q0E?oc=5",
-      "real_link": "https://www.geconomy.co.kr/mobile/article.html?no=322432",
-      "updated_at": "2026-08-01T19:52:01.041874+00:00"
-    },
     "1da14344ee089c5b4f12651062ee0e85d0a765abc51b1da0a826900a01ad05b8": {
       "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tVGhwU1ozSFhOSnlLdkFvVlFUWEhpMHVydWZHa1FyN09Hd19IXzh0MG9jQVlvQ01qMlBEVlFXbF9NUGV4TDJ5NFpUbHNEd2hmb1I0?oc=5",
       "real_link": "https://news.nate.com/view/20260809n01135",
@@ -7321,6 +7316,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeV9BUElweFBubERkR3J4V09kYk1tdkQ2UjdTbWR3RFp6MDBjcl9PVkJQWGlhSUtSU01Tby1XMnUtN2xpSVdZSGl6WW56aGxlcjBQc2pSdG4tYXYtYmRKMmJEX2ZCUnhIOUVPMUtMRGJfNFh1amZFRzREZy1CQ1czbQ?oc=5",
       "real_link": "https://www.mydailybyte.com/post/%EC%96%B4%EB%8B%9D-%EC%8B%9C%EC%A6%8C-2609",
       "updated_at": "2026-08-09T15:04:18.438776+00:00"
+    },
+    "5c7596ecfb69489b60e8dd096297545db8219624acf6d96afa01f8a5b50635f1": {
+      "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVFBVNjRmdk5hZGsyakNKN002RkFxTHJrZ25PU1RTb0Q0emdjNUZzZGJiVFVieTdZaXkyUGFNR1N4NGZtVkVPMzVaalRPRXI5OG1GMlRGSV9BMDJuUk84WG5qZmY4alBna2I4TXV3VzRER2N3eTNLV0R2M2xNSy1XZHBGaldzQWlpU2lEbTlHZw?oc=5",
+      "real_link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224379561136&redirect=Dlog",
+      "updated_at": "2026-08-15T19:59:12.256851+00:00"
     },
     "5cd115af151c410a050df236a65e3c40673d9140b59103b7acf9d7f55fefcccd": {
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJdHN3U1M4YjI4UE1ueXpHR1lzQ0VzVUtORk1NTmNuNnlYQ2o0dGktOEtSRkljWTZJU2F0WHR5S3hzU0ZVQmJEd1ktQllSQ3JUREowMmxZcVVNaTNRd3doSmQ0Nm5PNU9KRXhwZU0zcVk?oc=5",
