@@ -925,6 +925,13 @@
       "sent_at": "2026-08-16T13:47:42.032445+00:00",
       "title": "[Anthropic, 클로드 텍스트 워터마크 작동 방식 상세 공개…\"품질 영향 없어\"] 워터마크 회피 가능성에 대해 Anthropic은 \"가벼운 편집으로는 워터마크가 완전히 사라지지 않을 것\"이라고 설명했다. 다만"
     },
+    "2605826c90b151eb7b1c49caa718e5a60ec0d51c80e712f19bca86bb1219972d": {
+      "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmVjOGdfZV9hQXpyOEJhR1JJejF6NFhvdF90SXRIclRwVll4UF9FbXdOVGYwaHdLYWhOQ3NEMDVjb0lQYlhEZ1RyLVU3VXVsSnJWODAxVWd3MXZsMUE?oc=5",
+      "published_at": "2026-08-16T14:54:00+00:00",
+      "real_link": "https://www.news2day.co.kr/article/20260816500068",
+      "sent_at": "2026-08-16T14:56:03.931166+00:00",
+      "title": "[마켓인사이드] 애플의 중국산 칩 탑재 좌절이 삼성전자·SK하이닉스에 마냥 호재가 아닌 이유"
+    },
     "261c1a26e820a49000252a609f72cb8599db6806a43c9ce5e6737bf1b7041afe": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDamduVHljcWN0dHBJRjg4QVJkdWVBd2Rtc2lYZXNjZHl4eGRPQU9QM0hrMUxMSktiYUpEcGM1bFNQWTEwbkhFREZsNnNYc25yWWZrQ2RqUHhaRFVwVmZ1dHhqX3gwOEcyekYzM3FHTjFxUQ?oc=5",
       "published_at": "2026-08-05T04:25:53+00:00",
@@ -6850,6 +6857,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1MNXBYbHMyWEJ5X1F2UFpHQlYwdU9iU3pVemlwazcwRnV6c285ejZtN1N4aFRyQUxNV0M2MVgwVk8?oc=5",
       "real_link": "http://www.ainet.link/28168",
       "updated_at": "2026-08-16T13:47:41.287730+00:00"
+    },
+    "2605826c90b151eb7b1c49caa718e5a60ec0d51c80e712f19bca86bb1219972d": {
+      "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmVjOGdfZV9hQXpyOEJhR1JJejF6NFhvdF90SXRIclRwVll4UF9FbXdOVGYwaHdLYWhOQ3NEMDVjb0lQYlhEZ1RyLVU3VXVsSnJWODAxVWd3MXZsMUE?oc=5",
+      "real_link": "https://www.news2day.co.kr/article/20260816500068",
+      "updated_at": "2026-08-16T14:56:03.122291+00:00"
     },
     "261c1a26e820a49000252a609f72cb8599db6806a43c9ce5e6737bf1b7041afe": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDamduVHljcWN0dHBJRjg4QVJkdWVBd2Rtc2lYZXNjZHl4eGRPQU9QM0hrMUxMSktiYUpEcGM1bFNQWTEwbkhFREZsNnNYc25yWWZrQ2RqUHhaRFVwVmZ1dHhqX3gwOEcyekYzM3FHTjFxUQ?oc=5",
