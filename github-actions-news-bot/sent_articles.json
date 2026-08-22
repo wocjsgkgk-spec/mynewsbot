@@ -7155,13 +7155,6 @@
       "sent_at": "2026-08-19T07:42:22.596764+00:00",
       "title": "반도체 초호황으로 수출 증가세지만…상위 5대 기업 50.2% 차지"
     },
-    "c2e256dc339a5f313188a05af946496b02bd80f6a5a0c2ad289523c4709f7d26": {
-      "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fZ1VVZWVkSW9pVmxIQ2JfN19PZzdvZzNfRHpUZEc2Vmdra1djblhMZGVOQUxxM1YxcGl1WlBSRVlYMVhDLWJCUXFDc1JpMVg2Z0NUUXY5Tk1KcnJJMDdxTTl3ZnV1dktJVDdV?oc=5",
-      "published_at": "2026-08-08T17:32:05+00:00",
-      "real_link": "https://www.sijung.co.kr/news/articleView.html?idxno=434601",
-      "sent_at": "2026-08-08T17:43:09.636887+00:00",
-      "title": "[인터뷰] 이윤경 강동중앙도서관장 “AI 기기보다 사람과 책”…1년 만에 일으킨 ‘독서의 기적’"
-    },
     "c31027dcb348c6471181d8a1f132da588baee07a15df1668e9b4cd9ddb0eae64": {
       "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PVkk4NUN3SkFCRkxiVThMc2VCSm44emFSdjlaenc3ekNkTTdWT0FZNXN4bWJDR3lOd1A3SWhfRFdXUVlyb0J5V3JMb3hCcVdESnVkclU1Yk1EeTJlRWtLcVVXbDJyRHc?oc=5",
       "published_at": "2026-08-20T08:26:22+00:00",
@@ -7679,6 +7672,13 @@
       "real_link": "https://www.g-enews.com/article/Securities/2026/08/20260821104801479153ddfb15a_1",
       "sent_at": "2026-08-21T01:54:20.083346+00:00",
       "title": "증권사들, 8월 '기준금리 인상' 무게…성장·가계대출에 전망 선회"
+    },
+    "d2041bfab973114ed118ba46eb1fa4da74d911e7d2f0e3699c2215bacb4aede2": {
+      "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0taVlpdjJoX1laVkF2U2R5Y2FFM3d4Z09jeFA2YUVFVkY0VjRxdXc1bU1kOGZabUlNcXZGSGxMS3cyMGdfamJNMURIcEpDZ2VqWjNyT01B?oc=5",
+      "published_at": "2026-08-22T17:36:00+00:00",
+      "real_link": "https://www.wikitree.co.kr/articles/1154187",
+      "sent_at": "2026-08-22T17:54:35.192081+00:00",
+      "title": "Wisr AI, 캐나다 톱100 AI 스타트업 선정…같은 날 RSU 261만주 깜짝 부여"
     },
     "d226c45982b031cb7e389fc2276b936f366026a54df1c438182620566cb70eee": {
       "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QQ2VOSW44UXYyUzc5Zk9jenVwSXRIQUgxZ1VGSzFIU1EyaGZmV0ZyMFpqQUdsa3ZPQkFFQ1NnOTk1Y1d4NmZXenVRY2I0VHRwa09UMThTbkY2LWZPOTBKUi1aem12UmdTa3dZMHdBTUxJTXRJUGhqUGhSTU0?oc=5",
@@ -14521,11 +14521,6 @@
       "real_link": "https://v.daum.net/v/20260819163638757",
       "updated_at": "2026-08-19T07:42:22.083942+00:00"
     },
-    "c2e256dc339a5f313188a05af946496b02bd80f6a5a0c2ad289523c4709f7d26": {
-      "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fZ1VVZWVkSW9pVmxIQ2JfN19PZzdvZzNfRHpUZEc2Vmdra1djblhMZGVOQUxxM1YxcGl1WlBSRVlYMVhDLWJCUXFDc1JpMVg2Z0NUUXY5Tk1KcnJJMDdxTTl3ZnV1dktJVDdV?oc=5",
-      "real_link": "https://www.sijung.co.kr/news/articleView.html?idxno=434601",
-      "updated_at": "2026-08-08T17:43:08.760303+00:00"
-    },
     "c31027dcb348c6471181d8a1f132da588baee07a15df1668e9b4cd9ddb0eae64": {
       "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PVkk4NUN3SkFCRkxiVThMc2VCSm44emFSdjlaenc3ekNkTTdWT0FZNXN4bWJDR3lOd1A3SWhfRFdXUVlyb0J5V3JMb3hCcVdESnVkclU1Yk1EeTJlRWtLcVVXbDJyRHc?oc=5",
       "real_link": "http://www.greened.kr/news/articleView.html?idxno=348104",
@@ -14895,6 +14890,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjNZZkI1SHMwUV9lNEtZNjlxOVdhRF9wZTdfX2NfYTEwWHo2UGJGVWhNcGZPdlVFZUtMSUlzZ3NoMndMazFqVU9KdmxMVnJSVkphb2c1Wkk4QmhwM2lHMlBvd3ZZS1NJSE14cHFfSkJWbTJrZVJFTXZPMHFwdHIxMmVBOVV4LTQ?oc=5",
       "real_link": "https://www.g-enews.com/article/Securities/2026/08/20260821104801479153ddfb15a_1",
       "updated_at": "2026-08-21T01:54:19.508758+00:00"
+    },
+    "d2041bfab973114ed118ba46eb1fa4da74d911e7d2f0e3699c2215bacb4aede2": {
+      "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0taVlpdjJoX1laVkF2U2R5Y2FFM3d4Z09jeFA2YUVFVkY0VjRxdXc1bU1kOGZabUlNcXZGSGxMS3cyMGdfamJNMURIcEpDZ2VqWjNyT01B?oc=5",
+      "real_link": "https://www.wikitree.co.kr/articles/1154187",
+      "updated_at": "2026-08-22T17:54:34.611161+00:00"
     },
     "d226c45982b031cb7e389fc2276b936f366026a54df1c438182620566cb70eee": {
       "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QQ2VOSW44UXYyUzc5Zk9jenVwSXRIQUgxZ1VGSzFIU1EyaGZmV0ZyMFpqQUdsa3ZPQkFFQ1NnOTk1Y1d4NmZXenVRY2I0VHRwa09UMThTbkY2LWZPOTBKUi1aem12UmdTa3dZMHdBTUxJTXRJUGhqUGhSTU0?oc=5",
