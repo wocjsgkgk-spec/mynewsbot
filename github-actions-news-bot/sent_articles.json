@@ -1975,13 +1975,6 @@
       "sent_at": "2026-08-18T22:01:43.376037+00:00",
       "title": "8월 코스피 거래대금 두 달 만에 ‘반토막’…반등장서 사라진 개미들"
     },
-    "32d449de5e34abecd7402c3f633c9666e0833b16d633a3659447b2dfe8a3f931": {
-      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeldOaG5kd1VSc2o1U1o3Y1AwdERxcGlCYU0tR2owYTdrbmJxeXlHdEdJU2VEMTdBS3BIcXI5d1JkYkVUdVlldTNiQlI2Y3ZGQTBieGRkX19NWmpvWkZta2FrMVVnd2RmMXRQQzE4MUtCamdraE9hQ2gxeF9pVzVMc05OcWg0ajdP?oc=5",
-      "published_at": "2026-08-08T19:25:00+00:00",
-      "real_link": "https://www.g-enews.com/article/Global-Biz/2026/08/202608081242246611fbbec65dfb_1",
-      "sent_at": "2026-08-08T19:40:14.360774+00:00",
-      "title": "S&P500, 자사주 매입 재개로 증시 수급 개선 전망"
-    },
     "32eb524173cc2b5d5d7df5b8799e9146cfbfda84fabc87d651b029e051373a13": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43U1V6a2NQVlUwb2JibUhvd2pyQ0tkcVRlUnlHcmw2WkplZmlnbFhyZDByR3lMRjFxdzRIYjhmYUNaaEt4SE5aUEdzQ2V6R0o2MlpJQmNpNHIxcVZTcHhBU2p1YnZrLUViUVZBSFdqcWdRZw?oc=5",
       "published_at": "2026-08-09T04:00:01+00:00",
@@ -2128,6 +2121,13 @@
       "real_link": "https://www.tokenpost.kr/news/market/391793",
       "sent_at": "2026-08-16T22:59:51.462444+00:00",
       "title": "동전주 관리종목 36곳 중 제약·바이오 5곳 나왔다"
+    },
+    "38dde8bee04d72408c5d31f1b101e763c80ea1ed8f73b2845bd2be5cbc1a4394": {
+      "google_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KMHo3cTJGNkt3YzNTbjZHdzZITV9wOWtFN1pWTnotc0RFRHpfTG56M282OUNCTzVVSGtkM3BJaFZTN3hxbkVMblpjSVBLdTJUM2VXOHpYWlI?oc=5",
+      "published_at": "2026-08-22T19:44:00+00:00",
+      "real_link": "https://www.blockmedia.co.kr/archives/1130948",
+      "sent_at": "2026-08-22T19:46:31.875133+00:00",
+      "title": "\"다음 10억 고객은 AI\"…스테이블코인이 판 흔든다"
     },
     "3901c1399de8f515c4871c3043f82088b1fc345de5f04391ec1c4197ecf717d8": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6NWk0OXhQOVhQWUF0UmxBLUFPOXlVQkIzb0U3MjhHTlVoN09XWTRzYUVPUTZXR1AzeFA1b2tkT3oyMkpCRE5KdlMxTzVRZExURUNjaEhJOS1id013YlgwRGVNNHBnSUtEVlZiemNJc1lJMFE?oc=5",
@@ -4809,13 +4809,6 @@
       "real_link": "https://m.news.nate.com/view/20260822n04675?mid=m02&list=recent&cpcd=",
       "sent_at": "2026-08-22T02:19:53.551156+00:00",
       "title": "[주末머니]오픈AI vs 앤트로픽 '쩐의 전쟁'…수혜주는 바로 이 기업"
-    },
-    "84611fcde914b35c5d146ba68aff07e60940793ef6742f492a9929815f5b4146": {
-      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMTF1c0FOVjhFd1dPMm5ya3VpY045ZGJjR0s0VjlmbURmV0I4RGNLSDBRSTB4d3dNbEo0Y1pfcEx4VWhoWFFpbmRNZXVnc1ZrWjhYZjROTUZKUkVJTVdzNkN6aFlZRkZkZ2U3aUNoNlkyYWtRRGFqdlBiSUlFdG81RWNFWWpkUG5E?oc=5",
-      "published_at": "2026-08-08T19:35:00+00:00",
-      "real_link": "https://www.g-enews.com/article/Global-Biz/2026/08/2026080822124790892bd56fbc3c_1",
-      "sent_at": "2026-08-08T19:40:15.824395+00:00",
-      "title": "대만 솔로몬, AI 3D 머신비전 기술 고도화"
     },
     "84a0ac22836964cf5b084df6130e600534109aa4f70724c3d7927bd69cddaedf": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQRlFiUVJfTS1kRHRIVjRTbFFQWEh4ZDFicGdqME9BZFNwTmdHQVMwOTVBU3FoQmducmN0QVVPX3l5N2NNYmtWaWlMeWdJdF8tM3Z1TXhwX3A0dWdIUVE1YmxiLXZ0NG5u?oc=5",
@@ -10821,11 +10814,6 @@
       "real_link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720794",
       "updated_at": "2026-08-18T22:01:42.889700+00:00"
     },
-    "32d449de5e34abecd7402c3f633c9666e0833b16d633a3659447b2dfe8a3f931": {
-      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeldOaG5kd1VSc2o1U1o3Y1AwdERxcGlCYU0tR2owYTdrbmJxeXlHdEdJU2VEMTdBS3BIcXI5d1JkYkVUdVlldTNiQlI2Y3ZGQTBieGRkX19NWmpvWkZta2FrMVVnd2RmMXRQQzE4MUtCamdraE9hQ2gxeF9pVzVMc05OcWg0ajdP?oc=5",
-      "real_link": "https://www.g-enews.com/article/Global-Biz/2026/08/202608081242246611fbbec65dfb_1",
-      "updated_at": "2026-08-08T19:40:13.754557+00:00"
-    },
     "32eb524173cc2b5d5d7df5b8799e9146cfbfda84fabc87d651b029e051373a13": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43U1V6a2NQVlUwb2JibUhvd2pyQ0tkcVRlUnlHcmw2WkplZmlnbFhyZDByR3lMRjFxdzRIYjhmYUNaaEt4SE5aUEdzQ2V6R0o2MlpJQmNpNHIxcVZTcHhBU2p1YnZrLUViUVZBSFdqcWdRZw?oc=5",
       "real_link": "https://kbthink.com/news-list/view.html?newsId=20260809130002319",
@@ -10930,6 +10918,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DTS1ORUZ3RFNzb0Nabm9Tblk5a3F6MXNIQ0ZxeXNyTzZUZFFrOUc3YjdkQVB6UkhVT1I0VE5jTkRoTnIyYTdISlluT0wtS1N2S0xwd3BR0gFbQVVfeXFMT3FEcEdLVUNwVC1lUENoMnhYZzNIVXY2WkM2ekFHeHk1Y204V0ROeTZEY2FCcDYyRDIxQklBMmk2RzRwVXh1YlBtaEFqZl9nRldXcDBPaWtlZkJpQQ?oc=5",
       "real_link": "https://www.tokenpost.kr/news/market/391793",
       "updated_at": "2026-08-16T22:59:50.980670+00:00"
+    },
+    "38dde8bee04d72408c5d31f1b101e763c80ea1ed8f73b2845bd2be5cbc1a4394": {
+      "google_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KMHo3cTJGNkt3YzNTbjZHdzZITV9wOWtFN1pWTnotc0RFRHpfTG56M282OUNCTzVVSGtkM3BJaFZTN3hxbkVMblpjSVBLdTJUM2VXOHpYWlI?oc=5",
+      "real_link": "https://www.blockmedia.co.kr/archives/1130948",
+      "updated_at": "2026-08-22T19:46:31.210759+00:00"
     },
     "3901c1399de8f515c4871c3043f82088b1fc345de5f04391ec1c4197ecf717d8": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6NWk0OXhQOVhQWUF0UmxBLUFPOXlVQkIzb0U3MjhHTlVoN09XWTRzYUVPUTZXR1AzeFA1b2tkT3oyMkpCRE5KdlMxTzVRZExURUNjaEhJOS1id013YlgwRGVNNHBnSUtEVlZiemNJc1lJMFE?oc=5",
@@ -12845,11 +12838,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Mck9rRlY1elZzY19kTVNsYnhfTFZpbVBiMENMTFlRcVBEdlgtTUU5QUlkOTVWbi1tTFB6UTZZYmRIOGNCaHZCOUh2WWlYcWNMTWx6SE5hcktZbkZCbnR5enJnMU9WUUxwaWR4ZFhHSVEwLWo1emhORw?oc=5",
       "real_link": "https://m.news.nate.com/view/20260822n04675?mid=m02&list=recent&cpcd=",
       "updated_at": "2026-08-22T02:19:52.872998+00:00"
-    },
-    "84611fcde914b35c5d146ba68aff07e60940793ef6742f492a9929815f5b4146": {
-      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMTF1c0FOVjhFd1dPMm5ya3VpY045ZGJjR0s0VjlmbURmV0I4RGNLSDBRSTB4d3dNbEo0Y1pfcEx4VWhoWFFpbmRNZXVnc1ZrWjhYZjROTUZKUkVJTVdzNkN6aFlZRkZkZ2U3aUNoNlkyYWtRRGFqdlBiSUlFdG81RWNFWWpkUG5E?oc=5",
-      "real_link": "https://www.g-enews.com/article/Global-Biz/2026/08/2026080822124790892bd56fbc3c_1",
-      "updated_at": "2026-08-08T19:40:15.256737+00:00"
     },
     "84a0ac22836964cf5b084df6130e600534109aa4f70724c3d7927bd69cddaedf": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQRlFiUVJfTS1kRHRIVjRTbFFQWEh4ZDFicGdqME9BZFNwTmdHQVMwOTVBU3FoQmducmN0QVVPX3l5N2NNYmtWaWlMeWdJdF8tM3Z1TXhwX3A0dWdIUVE1YmxiLXZ0NG5u?oc=5",
