@@ -3634,6 +3634,13 @@
       "sent_at": "2026-08-20T00:23:40.540478+00:00",
       "title": "M&A·금융 등 100여명 ‘원팀’… AI데이터센터 ‘원스톱 자문’[대한민국 로펌 리포트]"
     },
+    "6070e1b5af674a04cff28845ae21eae9a2634fdd35fe4750ddffadb7fa3f92ec": {
+      "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3VEtBcmR3VXA0SU8zZEdyenBWcUdEU2hBek1melVjaUptcC12U3UyeEd4RUhpOEZ6b2Z3MllpbTJNNDhPUFlUcW91WXkzcFB0bmJVRGN2MUstRlRHa2ZqdV9rSkgtWFpnb1FYa3dTSnZQckdheUd1ag?oc=5",
+      "published_at": "2026-08-23T19:45:00+00:00",
+      "real_link": "https://m.news.nate.com/view/20260824n01417?mid=m02&list=recent&cpcd=",
+      "sent_at": "2026-08-23T19:52:11.329832+00:00",
+      "title": "엔비디아, AI 모델 개발로 영토 확장…서버 가격 15% 인상 예고"
+    },
     "60849f18a488748cebc6bb762aba927c6e628a071c1d6ef0d9fc7d9042c8eddc": {
       "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxYmpDMFhGSVJWRk9jdmRnOFR6S1lLcnlOWWp5ZTVWMkVZWGJNdUZKZThqYkV2Vmcwb25fX2oxMVNwcU1Pd1oyRWlCY1J1LVV2c0dSYUpB?oc=5",
       "published_at": "2026-08-18T02:53:01+00:00",
@@ -4592,13 +4599,6 @@
       "real_link": "https://www.asiae.co.kr/visual-news/article/2026081009322924120",
       "sent_at": "2026-08-10T04:40:00.049675+00:00",
       "title": "물린 삼전닉스만 쳐다봤는데…10대그룹 시총 1700조 날아갈 때 나 홀로 30% 뛴 '기업'"
-    },
-    "795b1f5163335c0620ea07da41ad153635a754df91f23c6b22f8501d481b8027": {
-      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWM1REpaWWM0MFRjMXZGUWRVYkN4VGQyTGxoSVV4UlNmNlFETy1NUW5SMGItV1lCUHJ3OVY1a2VtRjRGdExGbEphN3pjLXpFd1dHQWF2QVRkdVZtY25FOXNyNDJZc0tlX0J5RnlENnh1VE5UcHA0a3I0dVViSlNTY204LWxmNEFi?oc=5",
-      "published_at": "2026-08-09T19:30:00+00:00",
-      "real_link": "https://www.g-enews.com/article/Global-Biz/2026/08/2026080920132741162bd56fbc3c_1",
-      "sent_at": "2026-08-09T19:35:22.663094+00:00",
-      "title": "카본식스, 피지컬 AI 시그마키트로 공장 자동화 혁신"
     },
     "7a2ebdb3d27f8420e1500f36133d5ccf63f3dd88d46cb8da5c191b691c21462d": {
       "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTcExTXzk0R3hRMG8xMW50dnhOLVBHdGpOTU0zMnFLaEJtTFpwLUdXU3VHT29JS012VGdNX1Q0NTAtb0lBeFZwdmQ0ZE43VjZOLVBTbUp6TFhtaFZDUkp1WkowVEY?oc=5",
@@ -8450,6 +8450,13 @@
       "sent_at": "2026-08-09T23:43:08.529662+00:00",
       "title": "이번 주 글로벌 금융시장의 가장 중요한 일정은 미국 7월 소비자물가지수(CPI)입니다."
     },
+    "e01065279e30daef2160a8a350d94feb41cae92515fe26c1d6c9bf1d7df9ae9c": {
+      "google_link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE00R0tfbkREWjVNYnhTTFhrX0N1a1EtSzJLMVp0Tlh3OGFaM3hMUHd1ZW1BOXd3Y3lmbHhHWnJqS21CTlBQ?oc=5",
+      "published_at": "2026-08-23T19:34:00+00:00",
+      "real_link": "http://www.newszoom.kr/2008839",
+      "sent_at": "2026-08-23T19:52:09.629790+00:00",
+      "title": "한동훈이 찾아낸 ‘잃어버린 30일(장미란件)"
+    },
     "e01b41d46ccc3f0f857f2de296da28e2da0e5d7b4470b1922a0ce8725ba634db": {
       "google_link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOZm5VSHB1V0VObnRGVzdkbGNmRFA5VDJYVVhjakpaVTR0akZLcUhHLXhoN0tTUnFHNlB6Z0FUdzY5SzB4Z21jVUlwZHNRcWNOYkVsV2p1aTFEUk0yMXpvZGVVUzdpZWhQMXR1djdWS0xMYTJrY2VVNnV1WnE3UDBYUjJLSFowTDZyclBjMWNDZ2sxcnJyRXhqaVlsanJKbHZKa0tGdm1EeU02NjBSNW1oeTY5M3pjLUJaWEw1YWUzYjBTOUNha3JJR0lpdzVEeGlienBPTnFqSW5KVWwwbWtrMWg2RG1zU05FR1pYMWFXTHI2Ry10U2ItUjY2eXJ2d256SlBEZ2EyckhoUHdLSHRVc0JGY3hNNm42ODJXWVExUk9OeE5UTE1Lem1odnZ4bllUdEhoUjdyR3hiWnFOaXNYeHVWS1U2Ml9QUjhaQnltVldxR0NtMldNWl82bTFXN210?oc=5",
       "published_at": "2026-08-19T01:47:30+00:00",
@@ -12230,6 +12237,11 @@
       "real_link": "https://www.munhwa.com/article/11610614",
       "updated_at": "2026-08-20T00:23:39.760536+00:00"
     },
+    "6070e1b5af674a04cff28845ae21eae9a2634fdd35fe4750ddffadb7fa3f92ec": {
+      "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3VEtBcmR3VXA0SU8zZEdyenBWcUdEU2hBek1melVjaUptcC12U3UyeEd4RUhpOEZ6b2Z3MllpbTJNNDhPUFlUcW91WXkzcFB0bmJVRGN2MUstRlRHa2ZqdV9rSkgtWFpnb1FYa3dTSnZQckdheUd1ag?oc=5",
+      "real_link": "https://m.news.nate.com/view/20260824n01417?mid=m02&list=recent&cpcd=",
+      "updated_at": "2026-08-23T19:52:10.696885+00:00"
+    },
     "60849f18a488748cebc6bb762aba927c6e628a071c1d6ef0d9fc7d9042c8eddc": {
       "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxYmpDMFhGSVJWRk9jdmRnOFR6S1lLcnlOWWp5ZTVWMkVZWGJNdUZKZThqYkV2Vmcwb25fX2oxMVNwcU1Pd1oyRWlCY1J1LVV2c0dSYUpB?oc=5",
       "real_link": "https://www.dailypharm.com/user/news/341493",
@@ -12914,11 +12926,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mWWNkMU9zYnpFRjJlR09zRDVPc3FVNzl0Z3NzSUlVYml0MFJEdUxydnhwekpCVmZzSUdZMkRhUDRZblFxVHNKUnY1VF8xbVAyWVJneGtaak9FNUpza1QzTGF0XzNzbjFZVDhLclp5UkY?oc=5",
       "real_link": "https://www.asiae.co.kr/visual-news/article/2026081009322924120",
       "updated_at": "2026-08-10T04:39:59.350697+00:00"
-    },
-    "795b1f5163335c0620ea07da41ad153635a754df91f23c6b22f8501d481b8027": {
-      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWM1REpaWWM0MFRjMXZGUWRVYkN4VGQyTGxoSVV4UlNmNlFETy1NUW5SMGItV1lCUHJ3OVY1a2VtRjRGdExGbEphN3pjLXpFd1dHQWF2QVRkdVZtY25FOXNyNDJZc0tlX0J5RnlENnh1VE5UcHA0a3I0dVViSlNTY204LWxmNEFi?oc=5",
-      "real_link": "https://www.g-enews.com/article/Global-Biz/2026/08/2026080920132741162bd56fbc3c_1",
-      "updated_at": "2026-08-09T19:35:21.738994+00:00"
     },
     "7a2ebdb3d27f8420e1500f36133d5ccf63f3dd88d46cb8da5c191b691c21462d": {
       "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTcExTXzk0R3hRMG8xMW50dnhOLVBHdGpOTU0zMnFLaEJtTFpwLUdXU3VHT29JS012VGdNX1Q0NTAtb0lBeFZwdmQ0ZE43VjZOLVBTbUp6TFhtaFZDUkp1WkowVEY?oc=5",
@@ -15669,6 +15676,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45RGlMUDl2dE5MdmJGV295MTBzQWFXdGJ1TVlqd0Fvb2E0ZEF3NkUzTWY4ZEwyWGR2SVUtTlhQTGptNWJoWVMzMk9hS3NJT3BpTGVfUDdrZ0h4aWpQR1VPdU9kTmtTMThveVhlMXlwZTVhczRaSE5hOUdpRkNpdw?oc=5",
       "real_link": "https://contents.premium.naver.com/finlit/wfpm/contents/260810082615455fr",
       "updated_at": "2026-08-09T23:43:07.863395+00:00"
+    },
+    "e01065279e30daef2160a8a350d94feb41cae92515fe26c1d6c9bf1d7df9ae9c": {
+      "google_link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE00R0tfbkREWjVNYnhTTFhrX0N1a1EtSzJLMVp0Tlh3OGFaM3hMUHd1ZW1BOXd3Y3lmbHhHWnJqS21CTlBQ?oc=5",
+      "real_link": "http://www.newszoom.kr/2008839",
+      "updated_at": "2026-08-23T19:52:08.754106+00:00"
     },
     "e01b41d46ccc3f0f857f2de296da28e2da0e5d7b4470b1922a0ce8725ba634db": {
       "google_link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOZm5VSHB1V0VObnRGVzdkbGNmRFA5VDJYVVhjakpaVTR0akZLcUhHLXhoN0tTUnFHNlB6Z0FUdzY5SzB4Z21jVUlwZHNRcWNOYkVsV2p1aTFEUk0yMXpvZGVVUzdpZWhQMXR1djdWS0xMYTJrY2VVNnV1WnE3UDBYUjJLSFowTDZyclBjMWNDZ2sxcnJyRXhqaVlsanJKbHZKa0tGdm1EeU02NjBSNW1oeTY5M3pjLUJaWEw1YWUzYjBTOUNha3JJR0lpdzVEeGlienBPTnFqSW5KVWwwbWtrMWg2RG1zU05FR1pYMWFXTHI2Ry10U2ItUjY2eXJ2d256SlBEZ2EyckhoUHdLSHRVc0JGY3hNNm42ODJXWVExUk9OeE5UTE1Lem1odnZ4bllUdEhoUjdyR3hiWnFOaXNYeHVWS1U2Ml9QUjhaQnltVldxR0NtMldNWl82bTFXN210?oc=5",
