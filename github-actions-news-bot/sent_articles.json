@@ -71,13 +71,6 @@
       "sent_at": "2026-08-18T19:11:44.069435+00:00",
       "title": "삼전닉스 200조원대 주주환원 기대감…주가 재평가 불붙나"
     },
-    "0116bd750d151a1f04015864dc26004e5bfe4d7bdc63f95957f207e06cbf4462": {
-      "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xYkE5ZndELWNCOTZaVEJnalRmbXBlaXl2Zl9wNnVzZmRaRVpkb1dZN09ucWpHR3h1NEhQOGhObmtNQVp3YkdzZUhmT1hTTnF1RUhpcjJzNzkxOFVYbXJnbGhldFgxb1p0bFNNdg?oc=5",
-      "published_at": "2026-08-09T15:03:00+00:00",
-      "real_link": "https://www.econovill.com/news/articleView.html?idxno=747226",
-      "sent_at": "2026-08-09T15:04:20.761932+00:00",
-      "title": "AI 풍요냐 AI 주권이냐…오픈AI vs 팔란티어 [오피니언 리더 메시지]"
-    },
     "012d20d9d2f6d414fa476292eb2c98ba3aacc6fe508d855a40dbc9389197c07d": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HTlBfc1FPUVM3TkRjck4wUTZja3dPWURicjNlRzJqWjZvN3Ywb1BKN1JtdkVwSXdvR2hUUkpuT20zcnBBRGMwVUUxR0JUYjBpSXdmTW1NWjhaaVRnb2NEUmNaeTZLc29N?oc=5",
       "published_at": "2026-08-22T03:49:19+00:00",
@@ -1505,6 +1498,13 @@
       "real_link": "https://www.tikr.com/ko/blog/freeport-mcmoran-stock-gains-earnings-beat-copper-demand?",
       "sent_at": "2026-08-23T14:28:51.172069+00:00",
       "title": "Freeport-McMoRan Stock Gains After Beating Q2 Earnings Estimates on Rising Copper Demand"
+    },
+    "2361df32f63a83fc13396bacde57ba4f58a3a1f53880336944c211fb997f5825": {
+      "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qeDJjTXdQdGV4UU5wRnBFNVY3M2JGeU5LNDFheHZBMk9scUE3cnVkS1JERW1ycWQ1akxJc2VwWnh6OE9TSFdVdFZNckQ4TWpXQk1laFdGVDJFQ3BkVHFIbElvX1VXQ3U5bGlwdHliRlotYUh0VU9mYnRjQkU?oc=5",
+      "published_at": "2026-08-23T15:00:00+00:00",
+      "real_link": "https://www.fntimes.com/html/view.php?ud=202608212354512559dd55077bc2_18",
+      "sent_at": "2026-08-23T15:19:12.205018+00:00",
+      "title": "건설사, 불황에도 ‘자사주 매입’ CEO들 ‘책임경영ʼ 행보 박차"
     },
     "23d5b35598219467b7938541fe5f1484afd35fc88881f6ced2765e6ad28435cb": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrNjNxLTdsY0NqcTUzbmZPbDU2RXhQV0ZocTVTSDdCbXVhR1ZjNTRzdExha2M5dzBUZzREVWM5OEFkR3lKbDJEZExEaDh0TWp2c1hmdVcyRFhRSE1FazdNbWN4N2dMQ1BIRS1pd245Uk1zODQ?oc=5",
@@ -3438,13 +3438,6 @@
       "sent_at": "2026-08-12T09:34:58.893894+00:00",
       "title": "호남 반도체 전력 적기 공급…시·한전·삼성·SK 원팀"
     },
-    "5c706935278f92e42978dbefe41f67160f9488fb7ae75df0abf3edf3bd0fd3e8": {
-      "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeV9BUElweFBubERkR3J4V09kYk1tdkQ2UjdTbWR3RFp6MDBjcl9PVkJQWGlhSUtSU01Tby1XMnUtN2xpSVdZSGl6WW56aGxlcjBQc2pSdG4tYXYtYmRKMmJEX2ZCUnhIOUVPMUtMRGJfNFh1amZFRzREZy1CQ1czbQ?oc=5",
-      "published_at": "2026-08-09T15:02:57+00:00",
-      "real_link": "https://www.mydailybyte.com/post/%EC%96%B4%EB%8B%9D-%EC%8B%9C%EC%A6%8C-2609",
-      "sent_at": "2026-08-09T15:04:19.179619+00:00",
-      "title": "어닝 시즌, 빅테크 업계엔 무슨 일이 있었나?"
-    },
     "5c7596ecfb69489b60e8dd096297545db8219624acf6d96afa01f8a5b50635f1": {
       "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVFBVNjRmdk5hZGsyakNKN002RkFxTHJrZ25PU1RTb0Q0emdjNUZzZGJiVFVieTdZaXkyUGFNR1N4NGZtVkVPMzVaalRPRXI5OG1GMlRGSV9BMDJuUk84WG5qZmY4alBna2I4TXV3VzRER2N3eTNLV0R2M2xNSy1XZHBGaldzQWlpU2lEbTlHZw?oc=5",
       "published_at": "2026-08-15T19:41:59+00:00",
@@ -3885,6 +3878,13 @@
       "real_link": "https://www.edaily.co.kr/News/Read?newsId=02128726645550272&mediaCodeNo=257",
       "sent_at": "2026-08-23T09:03:28.773429+00:00",
       "title": "美보다 센 삼전닉스 150조+α 주주환원…'다음 3년'에 쏠린 눈"
+    },
+    "670734146348ca60f721fd923b5a1a910c1ccec082e78d059688b6929d55639a": {
+      "google_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oYUpBM1VjUzBMRW5IT0tWei0zOGx1U3N0RTd3SFJ1OWZJUkNUbGNxVU9kTHlBUmFDdFlFZktyV0dHRDc1Y3FDNTE1QVh4RENWalhQN1FESQ?oc=5",
+      "published_at": "2026-08-23T15:10:05+00:00",
+      "real_link": "https://technovalue.com/View.aspx?No=4194489",
+      "sent_at": "2026-08-23T15:19:14.226588+00:00",
+      "title": "카카오의 '분할 승부수', AI 시대 생존 전략인가"
     },
     "67099e83f882190d210b8c24436dcc4d7fd6b66b50afacdf34fa0cad90216cb2": {
       "google_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3cHN6aU1HVk1UZ2lTXzl1TV9uUjNrcUtiTHBlc3RaTTFjTVMwY1h5c2poa1BJWVBGVmtBVDlZLVJFLTFXdEdZRFpR?oc=5",
@@ -9608,11 +9608,6 @@
       "real_link": "https://www.edaily.co.kr/News/Read?newsId=01453046645548960&mediaCodeNo=257",
       "updated_at": "2026-08-18T19:11:43.375447+00:00"
     },
-    "0116bd750d151a1f04015864dc26004e5bfe4d7bdc63f95957f207e06cbf4462": {
-      "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xYkE5ZndELWNCOTZaVEJnalRmbXBlaXl2Zl9wNnVzZmRaRVpkb1dZN09ucWpHR3h1NEhQOGhObmtNQVp3YkdzZUhmT1hTTnF1RUhpcjJzNzkxOFVYbXJnbGhldFgxb1p0bFNNdg?oc=5",
-      "real_link": "https://www.econovill.com/news/articleView.html?idxno=747226",
-      "updated_at": "2026-08-09T15:04:20.156057+00:00"
-    },
     "012d20d9d2f6d414fa476292eb2c98ba3aacc6fe508d855a40dbc9389197c07d": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HTlBfc1FPUVM3TkRjck4wUTZja3dPWURicjNlRzJqWjZvN3Ywb1BKN1JtdkVwSXdvR2hUUkpuT20zcnBBRGMwVUUxR0JUYjBpSXdmTW1NWjhaaVRnb2NEUmNaeTZLc29N?oc=5",
       "real_link": "https://www.news33.net/news/articleView.html?idxno=117510",
@@ -10632,6 +10627,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTJzVGFFTDc3VjQ5NUZvQWE5dGFDOHo1Q0FtbVRwUTY1LWZkNzZZX1NkZlpyckRBcmZJdmVOZ3IzNE9HMW81LXR6b1JzUWlXUmVNTVhPTUJQdzRlZ29XdFk3Sm9wOUx5aFZDWFUtaExFc01wQjc2OUp2R0ZZVzlRU083Q0tDUW1JZnI3YXVsOA?oc=5",
       "real_link": "https://www.tikr.com/ko/blog/freeport-mcmoran-stock-gains-earnings-beat-copper-demand?",
       "updated_at": "2026-08-23T14:28:50.500031+00:00"
+    },
+    "2361df32f63a83fc13396bacde57ba4f58a3a1f53880336944c211fb997f5825": {
+      "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qeDJjTXdQdGV4UU5wRnBFNVY3M2JGeU5LNDFheHZBMk9scUE3cnVkS1JERW1ycWQ1akxJc2VwWnh6OE9TSFdVdFZNckQ4TWpXQk1laFdGVDJFQ3BkVHFIbElvX1VXQ3U5bGlwdHliRlotYUh0VU9mYnRjQkU?oc=5",
+      "real_link": "https://www.fntimes.com/html/view.php?ud=202608212354512559dd55077bc2_18",
+      "updated_at": "2026-08-23T15:19:11.151489+00:00"
     },
     "23d5b35598219467b7938541fe5f1484afd35fc88881f6ced2765e6ad28435cb": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrNjNxLTdsY0NqcTUzbmZPbDU2RXhQV0ZocTVTSDdCbXVhR1ZjNTRzdExha2M5dzBUZzREVWM5OEFkR3lKbDJEZExEaDh0TWp2c1hmdVcyRFhRSE1FazdNbWN4N2dMQ1BIRS1pd245Uk1zODQ?oc=5",
@@ -12013,11 +12013,6 @@
       "real_link": "https://www.gjtnews.com/news/articleView.html?idxno=430684",
       "updated_at": "2026-08-12T09:34:58.306248+00:00"
     },
-    "5c706935278f92e42978dbefe41f67160f9488fb7ae75df0abf3edf3bd0fd3e8": {
-      "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeV9BUElweFBubERkR3J4V09kYk1tdkQ2UjdTbWR3RFp6MDBjcl9PVkJQWGlhSUtSU01Tby1XMnUtN2xpSVdZSGl6WW56aGxlcjBQc2pSdG4tYXYtYmRKMmJEX2ZCUnhIOUVPMUtMRGJfNFh1amZFRzREZy1CQ1czbQ?oc=5",
-      "real_link": "https://www.mydailybyte.com/post/%EC%96%B4%EB%8B%9D-%EC%8B%9C%EC%A6%8C-2609",
-      "updated_at": "2026-08-09T15:04:18.438776+00:00"
-    },
     "5c7596ecfb69489b60e8dd096297545db8219624acf6d96afa01f8a5b50635f1": {
       "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVFBVNjRmdk5hZGsyakNKN002RkFxTHJrZ25PU1RTb0Q0emdjNUZzZGJiVFVieTdZaXkyUGFNR1N4NGZtVkVPMzVaalRPRXI5OG1GMlRGSV9BMDJuUk84WG5qZmY4alBna2I4TXV3VzRER2N3eTNLV0R2M2xNSy1XZHBGaldzQWlpU2lEbTlHZw?oc=5",
       "real_link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224379561136&redirect=Dlog",
@@ -12332,6 +12327,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQlRfTy1ZZlRIWWU0WlVSTlZfNk9ybngwb2RkTmZodXg1bUQzSy1sd1otcUg0Qjc4MEM0ZVBxXzkwdlhTdXl6Y2RaUC1aa3BTRlljRTF6MXNmd21ldkdsaEdfX0tMMHotQ0lIRzIwU0oxWnpqNVNxU2J2Yi12OWpxbQ?oc=5",
       "real_link": "https://www.edaily.co.kr/News/Read?newsId=02128726645550272&mediaCodeNo=257",
       "updated_at": "2026-08-23T09:03:27.857834+00:00"
+    },
+    "670734146348ca60f721fd923b5a1a910c1ccec082e78d059688b6929d55639a": {
+      "google_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oYUpBM1VjUzBMRW5IT0tWei0zOGx1U3N0RTd3SFJ1OWZJUkNUbGNxVU9kTHlBUmFDdFlFZktyV0dHRDc1Y3FDNTE1QVh4RENWalhQN1FESQ?oc=5",
+      "real_link": "https://technovalue.com/View.aspx?No=4194489",
+      "updated_at": "2026-08-23T15:19:13.617899+00:00"
     },
     "67099e83f882190d210b8c24436dcc4d7fd6b66b50afacdf34fa0cad90216cb2": {
       "google_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3cHN6aU1HVk1UZ2lTXzl1TV9uUjNrcUtiTHBlc3RaTTFjTVMwY1h5c2poa1BJWVBGVmtBVDlZLVJFLTFXdEdZRFpR?oc=5",
