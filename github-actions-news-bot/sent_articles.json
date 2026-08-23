@@ -246,13 +246,6 @@
       "sent_at": "2026-08-20T19:17:51.336877+00:00",
       "title": "미 국채금리 하루 만에 반등세…재무부 개입 ‘단기 처방’ 그치나"
     },
-    "04a72c0eea8b60da0658c3f942059d2c82e22eb79e828feaeb31f82a68f68ddd": {
-      "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CV05wUlR3VHBDN05PcVRKaVFUcWpxNDQtaVlTWEN4dTB4MU15X1R4c19OUk90b2YySU9kT25vY0d1cktJaG5KZ2xHY2g?oc=5",
-      "published_at": "2026-08-09T16:52:16+00:00",
-      "real_link": "https://www.kairnews.com/news/510820",
-      "sent_at": "2026-08-09T16:57:28.334649+00:00",
-      "title": "AI 진단으로 의료격차 좁히나"
-    },
     "04de29141d809160b3973fc57c490af0d532fe42b1e2293a1bda9c45f4201fbc": {
       "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjZi1iOGhSdWx4V1gyeFVCMHd6MkxTM0puc251NUM5WWhHQ2FETlZJeGF5ZGpzaUpBcklXdi0yVWpvNzdtbHZuc3pBZXFPRGJaNG9TemdtbDJNNW9nQVhqaG1iRjJzNXhmd2JnVkhhajlVMndnS1E?oc=5",
       "published_at": "2026-08-17T05:13:54+00:00",
@@ -5272,6 +5265,13 @@
       "sent_at": "2026-08-21T08:17:49.441798+00:00",
       "title": "노드슨(NDSN), 3분기 역대 최대 매출 달성... 가이던스 상향 조정"
     },
+    "8e0e580ba99d13028bc8cc8a84d3db1f041679ad09585bea65681fc2e5f32734": {
+      "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KZDkxalFMZkQ1TVp6Z0NlNGxjOTFDMDZQZlprTW1SUWJEeVBOLWpmQkJHRXBxV1lJdkM2Und1aTJPcTV1N3VSNzg2d2pjb2prUFhJeHVZUmNiMHlOcm8tSjdvalVtQ0s1czRSag?oc=5",
+      "published_at": "2026-08-23T16:49:49+00:00",
+      "real_link": "https://www.khgames.co.kr/news/articleView.html?idxno=307598",
+      "sent_at": "2026-08-23T16:59:45.966414+00:00",
+      "title": "비트코인 반등에 국내 가상화폐 거래량도 회복"
+    },
     "8e257903e9d53642c7c4649d8d08feda101ca7e1d1cdddee1182ab35feed9264": {
       "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDcWpyQ0U3NlNYMXcwRlk1QkFDX25RNzlzRk9OS1RXdmVjd0RsNUR3VTZnTFk2akRsT1FoTXdXb3pja3hVRENQT1ZhbWNGYzc0X2VCcmxmQTZjRW84SS1PNzFFc0tfT0tnYkY5cDVR0gFyQVVfeXFMTVBVZmcybjVrY1ltUUVZazlscVhsMmpfTlNPQjM1cENRREd5bzBjQUhkR0NvR25mUHk4LU1xTWprQVlxa2RrdTA2ZlFISGZsTmJBX21aNUI5am5rTDJ0NjFFd3pCTnNsV3FoQTlBVUl2SlFB?oc=5",
       "published_at": "2026-08-19T05:27:13+00:00",
@@ -5313,6 +5313,13 @@
       "real_link": "https://m.joongdo.co.kr/view.php?key=20260813010004355",
       "sent_at": "2026-08-13T07:48:16.219480+00:00",
       "title": "인하대, '첨단 반도체 미래 이끌 여성 인재 양성' 맞춤형 취업캠프 운영"
+    },
+    "8f29bea1be382dc9492b21150174351e93f541240ad5b8ebeab69eff4f6d1407": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PaFB4cTU0enNmVkZrR2hOTFUtdFBWM21lcHozeUhCaWk0eGJXcHJBbUphakwwTjlqQmxFa2ZqWi14T1lmdUJDLWxlakRhV2FsMHZrUzhrZDVfcnNCUVN1aFljekZiZw?oc=5",
+      "published_at": "2026-08-23T16:55:21+00:00",
+      "real_link": "https://www.inpnews.kr/news/articleView.html?idxno=7563",
+      "sent_at": "2026-08-23T16:59:44.494458+00:00",
+      "title": "고리본부, 드론ㆍ지상침투 동시다발 상황 ‘통합방호’ 훈련"
     },
     "8f44aedde4e108aeb96af29caa9b080947a6125b5eda9de1a41edb52f23136f2": {
       "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JU0hQTmQtYzZXeFJuYnBmdmpBeWtLdmU0VmE4NkJHX0phRlZ4VEJkY3NBTUtJQTlDNVJUMG5VMG0zUVlPX2ROSlpMWjNEQWNRRVBCeF9WQ0l6X1BadlpNMjQyYlI1QjVHemRJc2NmcFRYOVF4RXM5Vw?oc=5",
@@ -9290,6 +9297,13 @@
       "sent_at": "2026-08-13T11:58:36.215060+00:00",
       "title": "EBS, 영화 '오디세이' 개봉맞이 특급 인문학 큐레이션 공개"
     },
+    "f68a90aaf794f2d5c0485f0918d76050686953220f8db5f5e46f063bef81dfd6": {
+      "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aM2N3NENiemlTQkM2NWdGZkdBWDNnV19LT3ZIX2ZRZVpmbXVrSjJWdXNuRG5xSkZwN3dqZW5neTFBSFNScWtFQWUtbjZ0UElxSU5EVkVuUE0xU3lxc3dwM1loZGFTSUlZTEE?oc=5",
+      "published_at": "2026-08-23T16:37:00+00:00",
+      "real_link": "https://kr.investing.com/news/economy-news/article-2071497",
+      "sent_at": "2026-08-23T16:59:43.209755+00:00",
+      "title": "카시카리 미니애폴리스 연준 총재 \"국채 금리 상승은 우려 사항 아냐\""
+    },
     "f68e60b5a7d5aa72d7816fe86ea2f5e80bbcb531cf2c430c27f1641f07f990bb": {
       "google_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNd29hMW9lU3hQTlpLOWJQcHJnUlFUTm9kYmdWMm9SUm12X1dDWVFKT3JiRVJVV3BqT3YzVFc0R3FzYWxyWUFaNnRiRFNrTlNZTDc1c3AtZUVxeHM?oc=5",
       "published_at": "2026-08-19T02:35:00+00:00",
@@ -9739,11 +9753,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lRFJ2TVhKcHdoV0gyOEJXeFItOXVLdTMwZExGNURQd1JCTDBPeWVrUk1uNDM0ZkRLUGU5OEYwdUZQWVlSeVhFTWh0U1BVdjg?oc=5",
       "real_link": "https://v.daum.net/v/20260821040210483",
       "updated_at": "2026-08-20T19:17:50.758335+00:00"
-    },
-    "04a72c0eea8b60da0658c3f942059d2c82e22eb79e828feaeb31f82a68f68ddd": {
-      "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CV05wUlR3VHBDN05PcVRKaVFUcWpxNDQtaVlTWEN4dTB4MU15X1R4c19OUk90b2YySU9kT25vY0d1cktJaG5KZ2xHY2g?oc=5",
-      "real_link": "https://www.kairnews.com/news/510820",
-      "updated_at": "2026-08-09T16:57:27.640532+00:00"
     },
     "04de29141d809160b3973fc57c490af0d532fe42b1e2293a1bda9c45f4201fbc": {
       "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjZi1iOGhSdWx4V1gyeFVCMHd6MkxTM0puc251NUM5WWhHQ2FETlZJeGF5ZGpzaUpBcklXdi0yVWpvNzdtbHZuc3pBZXFPRGJaNG9TemdtbDJNNW9nQVhqaG1iRjJzNXhmd2JnVkhhajlVMndnS1E?oc=5",
@@ -13330,6 +13339,11 @@
       "real_link": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217562",
       "updated_at": "2026-08-21T08:17:48.571528+00:00"
     },
+    "8e0e580ba99d13028bc8cc8a84d3db1f041679ad09585bea65681fc2e5f32734": {
+      "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KZDkxalFMZkQ1TVp6Z0NlNGxjOTFDMDZQZlprTW1SUWJEeVBOLWpmQkJHRXBxV1lJdkM2Und1aTJPcTV1N3VSNzg2d2pjb2prUFhJeHVZUmNiMHlOcm8tSjdvalVtQ0s1czRSag?oc=5",
+      "real_link": "https://www.khgames.co.kr/news/articleView.html?idxno=307598",
+      "updated_at": "2026-08-23T16:59:45.372424+00:00"
+    },
     "8e257903e9d53642c7c4649d8d08feda101ca7e1d1cdddee1182ab35feed9264": {
       "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDcWpyQ0U3NlNYMXcwRlk1QkFDX25RNzlzRk9OS1RXdmVjd0RsNUR3VTZnTFk2akRsT1FoTXdXb3pja3hVRENQT1ZhbWNGYzc0X2VCcmxmQTZjRW84SS1PNzFFc0tfT0tnYkY5cDVR0gFyQVVfeXFMTVBVZmcybjVrY1ltUUVZazlscVhsMmpfTlNPQjM1cENRREd5bzBjQUhkR0NvR25mUHk4LU1xTWprQVlxa2RrdTA2ZlFISGZsTmJBX21aNUI5am5rTDJ0NjFFd3pCTnNsV3FoQTlBVUl2SlFB?oc=5",
       "real_link": "https://www.aipostkorea.com/news/articleView.html?idxno=12420",
@@ -13359,6 +13373,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BWWpHay1McHJMMGs0SWJzdkZtUlNiaHktTlpKVVFiZ3B4WEZKZzdENncycE1wUmgwMjZiSkgydGthdGdqZXZtLVAwQnRJbDFSNl8yak9JUThfMVpVeTNwb2RqSUk?oc=5",
       "real_link": "https://m.joongdo.co.kr/view.php?key=20260813010004355",
       "updated_at": "2026-08-13T07:48:15.515853+00:00"
+    },
+    "8f29bea1be382dc9492b21150174351e93f541240ad5b8ebeab69eff4f6d1407": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PaFB4cTU0enNmVkZrR2hOTFUtdFBWM21lcHozeUhCaWk0eGJXcHJBbUphakwwTjlqQmxFa2ZqWi14T1lmdUJDLWxlakRhV2FsMHZrUzhrZDVfcnNCUVN1aFljekZiZw?oc=5",
+      "real_link": "https://www.inpnews.kr/news/articleView.html?idxno=7563",
+      "updated_at": "2026-08-23T16:59:43.941425+00:00"
     },
     "8f44aedde4e108aeb96af29caa9b080947a6125b5eda9de1a41edb52f23136f2": {
       "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JU0hQTmQtYzZXeFJuYnBmdmpBeWtLdmU0VmE4NkJHX0phRlZ4VEJkY3NBTUtJQTlDNVJUMG5VMG0zUVlPX2ROSlpMWjNEQWNRRVBCeF9WQ0l6X1BadlpNMjQyYlI1QjVHemRJc2NmcFRYOVF4RXM5Vw?oc=5",
@@ -16199,6 +16218,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTcHNOTmx4b2xfbHF1eXZsanVwR29ESjhjQW5ucFZ2OEZfb3lpcWtoTkd0TndCQnNBZS15OWZxTE1tT3FTWDVPemNjdjc?oc=5",
       "real_link": "https://www.kairnews.com/news/512231",
       "updated_at": "2026-08-13T11:58:35.617869+00:00"
+    },
+    "f68a90aaf794f2d5c0485f0918d76050686953220f8db5f5e46f063bef81dfd6": {
+      "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aM2N3NENiemlTQkM2NWdGZkdBWDNnV19LT3ZIX2ZRZVpmbXVrSjJWdXNuRG5xSkZwN3dqZW5neTFBSFNScWtFQWUtbjZ0UElxSU5EVkVuUE0xU3lxc3dwM1loZGFTSUlZTEE?oc=5",
+      "real_link": "https://kr.investing.com/news/economy-news/article-2071497",
+      "updated_at": "2026-08-23T16:59:42.419758+00:00"
     },
     "f68e60b5a7d5aa72d7816fe86ea2f5e80bbcb531cf2c430c27f1641f07f990bb": {
       "google_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNd29hMW9lU3hQTlpLOWJQcHJnUlFUTm9kYmdWMm9SUm12X1dDWVFKT3JiRVJVV3BqT3YzVFc0R3FzYWxyWUFaNnRiRFNrTlNZTDc1c3AtZUVxeHM?oc=5",
