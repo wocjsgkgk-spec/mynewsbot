@@ -1415,13 +1415,6 @@
       "sent_at": "2026-08-21T22:37:12.044537+00:00",
       "title": "美 국채금리·유가 상승에도 뉴욕증시 반등…다우 0.98%↑"
     },
-    "21c7a5d81fe36f3b9509b34f43fd1dbadd462be80c5efc177a46a9aa3bf785c6": {
-      "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NbEZZempzaVFieExURlI0ODRIQW5kcWhnQ1ZsVlQyWkRrRkJ4cTFoeHQwOEhDM2V2SUN5WExFZjNTODNtOUpsOGpnR1dtNzhSUEF6b2pzUExrYVdHQ09FUVZ3N3l5X2hjNlE?oc=5",
-      "published_at": "2026-08-09T16:00:00+00:00",
-      "real_link": "https://www.gttkorea.com/news/articleView.html?idxno=26628",
-      "sent_at": "2026-08-09T16:14:05.835674+00:00",
-      "title": "AI 생성 글·이미지 API로 자동 탐지...위험 문장은 임계값 따라 재작성"
-    },
     "220a980ef33abd91bdc5b178e6ab8e199a9aa334a17fa7372e240c65100dac95": {
       "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45VFJfOVRIRU83cFdQOGxkYWJIaUd0YkhldlNUUzZienZTRm4yd0V4VVJROXUwNm01WHVSZ2FpVkMwVTdHWl9iWVVFeDdUZEZGemlXNGIzbmdjZG1aVUE2VXhfZWQ?oc=5",
       "published_at": "2026-08-23T02:44:50+00:00",
@@ -4193,6 +4186,13 @@
       "real_link": "https://kr.investing.com/news/transcripts/article-93CH-2056724",
       "sent_at": "2026-08-11T15:43:05.675904+00:00",
       "title": "라이온 파이낸스 그룹, 2026년 2분기 EPS 전망치 상회"
+    },
+    "6fb212afa1bc7af628c11e06329086a9ec727f2e87e456ae4dba543d191e8a9b": {
+      "google_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wSkhIZVNRYS0yNnJTOGhiOXlBSHdHSS1uWTZyeDZJWDF1TzF4WkFlTU1xdVBKYklERXZaS3d0b1lKcFozUVQ1RQ?oc=5",
+      "published_at": "2026-08-23T16:29:34+00:00",
+      "real_link": "https://www.eanews.kr/news/992724",
+      "sent_at": "2026-08-23T16:38:29.086031+00:00",
+      "title": "AI 데이터센터 전력 수요 2030년 945TWh 전망…전력망 노후화와 공급 부족이 최대 변수"
     },
     "6fbd7f26dd609fce6bf6080d459b7d03aa808abdfa1f84404bebe653ff901e45": {
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxSUhCT180cjFMWTlRQmgtX3hHZnBrTzN2Q2dMTlE4b3JzS1JvVzNjcW1ueHhuZ2ZkR1dzakpOcUJzYkhoQ1lCVkV4ekhDNlZEbWhsMjhUNVJtNjFPNE16MQ?oc=5",
@@ -7904,13 +7904,6 @@
       "sent_at": "2026-08-13T16:31:49.328154+00:00",
       "title": "[미국 특징주] \"마이크로소프트, 중국서 '후퇴'...AI 붐 힘입어 발판은 유지\""
     },
-    "d6387ba8ac1e2bc8fbd57f091d2ef0717a9d20aae6653bb0e988168655399925": {
-      "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDMzMHhObkN2clJicURncFI1cWFkclRmNVpRYkxFRWxHckZFYzZBdVhUTGdCTWM1QzRRRXRZTUhqUEItVEMyaGduYWRGanQwbXlDZ2RGcmxCNDlwYzRCTkxCSm1jc01KOF9pWWVBLVYwNlNUTV9UVTdMZmtSVTVveWt6TkJTbWpRMHl0ODZZX2hwTERGaWFQUHBtR2xqV1NNMWZDeGM0cXU?oc=5",
-      "published_at": "2026-08-09T16:08:57+00:00",
-      "real_link": "https://www.tikr.com/ko/blog/musk-just-made-nvidia-his-exclusive-ai-chip-the-q2-report-has-to-back-it-up?",
-      "sent_at": "2026-08-09T16:14:04.262759+00:00",
-      "title": "Musk Just Made NVIDIA His Exclusive AI Chip. The Q2 Report Has to Back It Up"
-    },
     "d68ef12c4f747d5175576782640e446d5292a821b7c532dd65067746d59fab47": {
       "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bGhXNl9TZkNuV2h5UGctWDFYTkdDb0lZZFZZOERxWkt4T0w4Q2xVdnBKSzNIYlBwbDkxM2xIQlJNNXlfc3l3VjhPbml3MjJrM0NZR05ZSWZ0YW1LMGF0RkdsbFRVMGdIdEFpSEJxNlVheFptcW1LZg?oc=5",
       "published_at": "2026-08-21T11:13:00+00:00",
@@ -10582,11 +10575,6 @@
       "real_link": "https://www.news2day.co.kr/article/20260822500005",
       "updated_at": "2026-08-21T22:37:11.324471+00:00"
     },
-    "21c7a5d81fe36f3b9509b34f43fd1dbadd462be80c5efc177a46a9aa3bf785c6": {
-      "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NbEZZempzaVFieExURlI0ODRIQW5kcWhnQ1ZsVlQyWkRrRkJ4cTFoeHQwOEhDM2V2SUN5WExFZjNTODNtOUpsOGpnR1dtNzhSUEF6b2pzUExrYVdHQ09FUVZ3N3l5X2hjNlE?oc=5",
-      "real_link": "https://www.gttkorea.com/news/articleView.html?idxno=26628",
-      "updated_at": "2026-08-09T16:14:05.292777+00:00"
-    },
     "220a980ef33abd91bdc5b178e6ab8e199a9aa334a17fa7372e240c65100dac95": {
       "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45VFJfOVRIRU83cFdQOGxkYWJIaUd0YkhldlNUUzZienZTRm4yd0V4VVJROXUwNm01WHVSZ2FpVkMwVTdHWl9iWVVFeDdUZEZGemlXNGIzbmdjZG1aVUE2VXhfZWQ?oc=5",
       "real_link": "https://www.ddaily.co.kr/page/view/2026082309245288922",
@@ -12566,6 +12554,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DdjJ1RGhtTFlyaG5ublZYRXRFd3ZyUUhSLWZwdEhHalVmMHctY2s5YkxwQVFCTk5naE5WV2phOVB6WXVSUjF0em42aUtRSHFTdnJUUHRsYkhEYjhsZU1SZXdqQjdCTUc2TEhIWUUxYw?oc=5",
       "real_link": "https://kr.investing.com/news/transcripts/article-93CH-2056724",
       "updated_at": "2026-08-11T15:43:05.129347+00:00"
+    },
+    "6fb212afa1bc7af628c11e06329086a9ec727f2e87e456ae4dba543d191e8a9b": {
+      "google_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wSkhIZVNRYS0yNnJTOGhiOXlBSHdHSS1uWTZyeDZJWDF1TzF4WkFlTU1xdVBKYklERXZaS3d0b1lKcFozUVQ1RQ?oc=5",
+      "real_link": "https://www.eanews.kr/news/992724",
+      "updated_at": "2026-08-23T16:38:28.243503+00:00"
     },
     "6fbd7f26dd609fce6bf6080d459b7d03aa808abdfa1f84404bebe653ff901e45": {
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxSUhCT180cjFMWTlRQmgtX3hHZnBrTzN2Q2dMTlE4b3JzS1JvVzNjcW1ueHhuZ2ZkR1dzakpOcUJzYkhoQ1lCVkV4ekhDNlZEbWhsMjhUNVJtNjFPNE16MQ?oc=5",
@@ -15216,11 +15209,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KNjFsZlU2YUhtRmRLdnd5d1g2VXNPX09OOFhiMnhGNjh0Z053MVh1RF9NMlB3d2ljYXpZcEZGOU1YcjJhUm5ScTJMSEpJN2hwcG96MXBsTkpjZUVF?oc=5",
       "real_link": "https://www.newspim.com/news/view/20260814000009",
       "updated_at": "2026-08-13T16:31:48.782193+00:00"
-    },
-    "d6387ba8ac1e2bc8fbd57f091d2ef0717a9d20aae6653bb0e988168655399925": {
-      "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDMzMHhObkN2clJicURncFI1cWFkclRmNVpRYkxFRWxHckZFYzZBdVhUTGdCTWM1QzRRRXRZTUhqUEItVEMyaGduYWRGanQwbXlDZ2RGcmxCNDlwYzRCTkxCSm1jc01KOF9pWWVBLVYwNlNUTV9UVTdMZmtSVTVveWt6TkJTbWpRMHl0ODZZX2hwTERGaWFQUHBtR2xqV1NNMWZDeGM0cXU?oc=5",
-      "real_link": "https://www.tikr.com/ko/blog/musk-just-made-nvidia-his-exclusive-ai-chip-the-q2-report-has-to-back-it-up?",
-      "updated_at": "2026-08-09T16:14:03.553027+00:00"
     },
     "d68ef12c4f747d5175576782640e446d5292a821b7c532dd65067746d59fab47": {
       "google_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bGhXNl9TZkNuV2h5UGctWDFYTkdDb0lZZFZZOERxWkt4T0w4Q2xVdnBKSzNIYlBwbDkxM2xIQlJNNXlfc3l3VjhPbml3MjJrM0NZR05ZSWZ0YW1LMGF0RkdsbFRVMGdIdEFpSEJxNlVheFptcW1LZg?oc=5",
