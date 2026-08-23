@@ -1065,13 +1065,6 @@
       "sent_at": "2026-08-15T05:59:30.960496+00:00",
       "title": "[장창환의 대신 타봤습니다] EV3, 작지만 다 갖춘 '젠Z 겨냥' 전기차"
     },
-    "196b841cc12ed4b7b20c0575b9075492b01577bb6e3bbbca9bfdb9e87cb4e2f0": {
-      "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVRpUFdPVktscVYzLXV3TGRFbnJ1cXhRYVhuai1peURRVTlKNkJ2MDNaaGZFVDNEb2xFVVp1aVdwYmxDMU8xdUEwNlgzV3VLT0hVQkItWkNFbmVvTzY3OGtnVkd4RlZkaEo2cTZyWC1nWUhscXVEY0tOYmYxZlRxb21NbHJCSjUzY082NDYtazJMYUN6LWVRbg?oc=5",
-      "published_at": "2026-08-09T17:14:05+00:00",
-      "real_link": "https://www.tikr.com/ko/blog/coca-cola-is-up-28-in-2026-and-near-highs-is-it-too-late-to-buy?",
-      "sent_at": "2026-08-09T17:34:56.646439+00:00",
-      "title": "Coca-Cola Is Up 28% in 2026 and Near Highs. Is It Too Late to Buy?"
-    },
     "197ae980efd3ed31555f20a0b9d6444f046ffeba53c4606f34471eb6b3a450bf": {
       "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xYnNvWUJrN0dTWVFyRkZoeG5NLVFjbEJRM1A3cjFSd1V1VTZBM3owakZYNVVGT3JpRm5QdkxMclU0QlYwZ1ZpMjRUWHo3eUh1Vk1YN01DV0JTWkV0c29oWE5kak5EWW1NV1RfTk13QQ?oc=5",
       "published_at": "2026-08-21T20:00:00+00:00",
@@ -2324,6 +2317,13 @@
       "real_link": "https://www.hani.co.kr/arti/economy/economy_general/1273575.html",
       "sent_at": "2026-08-19T05:31:05.843327+00:00",
       "title": "[속보] 원-달러 환율 장중 1300원대로…지난해 10월 이후 처음"
+    },
+    "3cb22b2ff63f1c1d5663356e5ef01b2c412a4a9e5b5ebc1a70238905120064d8": {
+      "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nRVpHLU5NVjdsQjdPdDM4STI1OU01UmdQYXJUMERSdzA1VTljUDhQYnAxeHpUVWNsenlkWU4yQ2lQSVZacWVOTURlcHRFX2stMDVfMmRHQ1lETDdDVUVVeDNHaTlXeXpCanFz?oc=5",
+      "published_at": "2026-08-23T17:23:12+00:00",
+      "real_link": "https://www.sanhaknews.kr/news/articleView.html?idxno=21630",
+      "sent_at": "2026-08-23T17:47:32.310484+00:00",
+      "title": "240년 갚아야 끝난다…거북이 수명보다 긴 창업자의 빚"
     },
     "3ccc036c2d66a31161c25a93daeb5238c4f53dcd5e3d524250bd1962b9a9dae0": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90b0dCSGpJR29KWVBRdzBCaDJrMjFKZUkwSG5xeV9DdmRJSER4VWFJcU50aUxlbEpsdGI5SGMwaV9TaXFYeFhfRUUwd1NoWm9hbm9aLUlsVEUxVXBDQ2hyVENwbi0tOVBUOGVEU0xIc2FWUQ?oc=5",
@@ -4859,6 +4859,13 @@
       "sent_at": "2026-08-12T20:59:20.415925+00:00",
       "title": "[N2 모닝 경제 브리핑-8월 13일] 美 증시, CPI 둔화에 안도…S&P500·나스닥 상승"
     },
+    "82623fc25c73b92cfd953be8f5c76fa479fcea56b0059e02fcd9529a4c4b907d": {
+      "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wNnhWanJSS0QtZFNyRHpOdFVYdHEzOG5RTGNxN1Z4SmFGWmpZNUxnemF0WXpkSEtsVktYS0VXUzk4dENmOF92bDVkRkNBV1BteWlmTkE1dll4QXNOY1o5eWdkNlpCamxUQ0ttOEFBWGI4aDVDc1E?oc=5",
+      "published_at": "2026-08-23T17:37:00+00:00",
+      "real_link": "https://m.ytn.co.kr/news_view.php?key=202608240237014148&s_mcd=0105",
+      "sent_at": "2026-08-23T17:47:33.932488+00:00",
+      "title": "소버린 AI 추진할수록 엔비디아 종속 심화...대안은?"
+    },
     "8330cd861eb34e1726c9296b5b6d4bbe25c04c1313cf19e38ea126300fc14b62": {
       "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUlrSEo5Q3JIQ3JkQkRTSi1INmx4bGVMUGpvYXpiUmpyd2JTSlJvSVpKbXVSR1BCVDEtSzhfWjlZWE05QThPb0ZDejREZ0ZlUWg1ejdxQmxrWDJRam93cXBrSFl3eTJqdE53eTRTd2N6VGNncVN3RGlwZ0h5NkdqUWRMTWRjY21NWTd0LVR6ZUpScUdodlZUT05TWWNVcVE?oc=5",
       "published_at": "2026-08-12T16:03:52+00:00",
@@ -5579,13 +5586,6 @@
       "real_link": "https://www.goodmorningvietnam.co.kr/news/article.html?no=83110",
       "sent_at": "2026-08-16T06:14:52.969197+00:00",
       "title": "[환경] 베트남 국내 탄소 거래소, 개장 후 신규 거래 ‘제로’… 유동성 확보 난제"
-    },
-    "9564f35d32fa5eef1acd66d9741d2619f99837c7761eed058ceb89c6f5620f9b": {
-      "google_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DaVpjUEJSREdqMkxwSmtGQ2d5cmZrYXQwcmdHQzBDbzFiZm5yQnhONUcwU0hfaXBlaEdjazJObHJiYjg0MWZkdw?oc=5",
-      "published_at": "2026-08-09T17:30:00+00:00",
-      "real_link": "http://www.coinreaders.com/251864",
-      "sent_at": "2026-08-09T17:34:58.787943+00:00",
-      "title": "모건스탠리, 비트코인 3일 연속 매수...시장 흔들려도 4억달러 베팅"
     },
     "95a6d7a97abb00f38f74ee5c383e625010fcef18e9c2221b813dc9b53cadfc2b": {
       "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLQTFpdVcwZU5BYTc0dU1BOXZZbHZrTTBnc2QwZ1N2ZVdKdDd5Ty1XejNmZ1A5b3hVdEZvZXF4RVBZZUxic2d3bjBEREY3XzdwZXV1dlQ3VlducXh3cGlmTmhzWkFPWW8?oc=5",
@@ -10353,11 +10353,6 @@
       "real_link": "https://www.greened.kr/news/articleView.html?idxno=347768",
       "updated_at": "2026-08-15T05:59:30.415440+00:00"
     },
-    "196b841cc12ed4b7b20c0575b9075492b01577bb6e3bbbca9bfdb9e87cb4e2f0": {
-      "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVRpUFdPVktscVYzLXV3TGRFbnJ1cXhRYVhuai1peURRVTlKNkJ2MDNaaGZFVDNEb2xFVVp1aVdwYmxDMU8xdUEwNlgzV3VLT0hVQkItWkNFbmVvTzY3OGtnVkd4RlZkaEo2cTZyWC1nWUhscXVEY0tOYmYxZlRxb21NbHJCSjUzY082NDYtazJMYUN6LWVRbg?oc=5",
-      "real_link": "https://www.tikr.com/ko/blog/coca-cola-is-up-28-in-2026-and-near-highs-is-it-too-late-to-buy?",
-      "updated_at": "2026-08-09T17:34:55.841935+00:00"
-    },
     "197ae980efd3ed31555f20a0b9d6444f046ffeba53c4606f34471eb6b3a450bf": {
       "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xYnNvWUJrN0dTWVFyRkZoeG5NLVFjbEJRM1A3cjFSd1V1VTZBM3owakZYNVVGT3JpRm5QdkxMclU0QlYwZ1ZpMjRUWHo3eUh1Vk1YN01DV0JTWkV0c29oWE5kak5EWW1NV1RfTk13QQ?oc=5",
       "real_link": "https://www.hani.co.kr/arti/hanihealth/healthlife/1274121.html",
@@ -11252,6 +11247,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zUHdqT3UtTTBsN1dSbnlGMURZdHBXbmJiZjhyTnFKNTJpS3V2c3pDLTR0RmFBd2NGdmQ4Wl8xd0pmZ3UtMkwwUGVuTmNIUFQ4NGFfVF9sQktCWDh1bVY3X3JsOWQxR2wwVXZIZ1Q2cXd4Zw?oc=5",
       "real_link": "https://www.hani.co.kr/arti/economy/economy_general/1273575.html",
       "updated_at": "2026-08-19T05:31:05.263096+00:00"
+    },
+    "3cb22b2ff63f1c1d5663356e5ef01b2c412a4a9e5b5ebc1a70238905120064d8": {
+      "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nRVpHLU5NVjdsQjdPdDM4STI1OU01UmdQYXJUMERSdzA1VTljUDhQYnAxeHpUVWNsenlkWU4yQ2lQSVZacWVOTURlcHRFX2stMDVfMmRHQ1lETDdDVUVVeDNHaTlXeXpCanFz?oc=5",
+      "real_link": "https://www.sanhaknews.kr/news/articleView.html?idxno=21630",
+      "updated_at": "2026-08-23T17:47:31.274900+00:00"
     },
     "3ccc036c2d66a31161c25a93daeb5238c4f53dcd5e3d524250bd1962b9a9dae0": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90b0dCSGpJR29KWVBRdzBCaDJrMjFKZUkwSG5xeV9DdmRJSER4VWFJcU50aUxlbEpsdGI5SGMwaV9TaXFYeFhfRUUwd1NoWm9hbm9aLUlsVEUxVXBDQ2hyVENwbi0tOVBUOGVEU0xIc2FWUQ?oc=5",
@@ -13063,6 +13063,11 @@
       "real_link": "https://www.news2day.co.kr/article/20260812500084",
       "updated_at": "2026-08-12T20:59:19.683829+00:00"
     },
+    "82623fc25c73b92cfd953be8f5c76fa479fcea56b0059e02fcd9529a4c4b907d": {
+      "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wNnhWanJSS0QtZFNyRHpOdFVYdHEzOG5RTGNxN1Z4SmFGWmpZNUxnemF0WXpkSEtsVktYS0VXUzk4dENmOF92bDVkRkNBV1BteWlmTkE1dll4QXNOY1o5eWdkNlpCamxUQ0ttOEFBWGI4aDVDc1E?oc=5",
+      "real_link": "https://m.ytn.co.kr/news_view.php?key=202608240237014148&s_mcd=0105",
+      "updated_at": "2026-08-23T17:47:33.250887+00:00"
+    },
     "8330cd861eb34e1726c9296b5b6d4bbe25c04c1313cf19e38ea126300fc14b62": {
       "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUlrSEo5Q3JIQ3JkQkRTSi1INmx4bGVMUGpvYXpiUmpyd2JTSlJvSVpKbXVSR1BCVDEtSzhfWjlZWE05QThPb0ZDejREZ0ZlUWg1ejdxQmxrWDJRam93cXBrSFl3eTJqdE53eTRTd2N6VGNncVN3RGlwZ0h5NkdqUWRMTWRjY21NWTd0LVR6ZUpScUdodlZUT05TWWNVcVE?oc=5",
       "real_link": "https://www.tikr.com/ko/blog/circle-internet-stock-could-deliver-216-upside-over-the-next-4-years?",
@@ -13577,11 +13582,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JMEw5UXd3TE1SVC1BTHU0RWRmUzFiVmtCYVVSYTVCcmFCeXBFYnpIc3UtQVByM3E3RGVTQU9rbWJ6U0JjLTc4cEhrMkVKZFRXRnRMM0xVczhYM2tmMkRmNldBS1dzMjZOYUxNXzgzV3o?oc=5",
       "real_link": "https://www.goodmorningvietnam.co.kr/news/article.html?no=83110",
       "updated_at": "2026-08-16T06:14:52.323765+00:00"
-    },
-    "9564f35d32fa5eef1acd66d9741d2619f99837c7761eed058ceb89c6f5620f9b": {
-      "google_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DaVpjUEJSREdqMkxwSmtGQ2d5cmZrYXQwcmdHQzBDbzFiZm5yQnhONUcwU0hfaXBlaEdjazJObHJiYjg0MWZkdw?oc=5",
-      "real_link": "http://www.coinreaders.com/251864",
-      "updated_at": "2026-08-09T17:34:58.028385+00:00"
     },
     "95a6d7a97abb00f38f74ee5c383e625010fcef18e9c2221b813dc9b53cadfc2b": {
       "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLQTFpdVcwZU5BYTc0dU1BOXZZbHZrTTBnc2QwZ1N2ZVdKdDd5Ty1XejNmZ1A5b3hVdEZvZXF4RVBZZUxic2d3bjBEREY3XzdwZXV1dlQ3VlducXh3cGlmTmhzWkFPWW8?oc=5",
