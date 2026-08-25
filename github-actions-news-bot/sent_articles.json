@@ -1,13 +1,6 @@
 {
   "failed": {},
   "sent": {
-    "0009c109327acee9acf9f046c4723944846bc08a5f232fa820243f3e0714d50e": {
-      "google_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43RExnX0tWY25pbzcwV0xCX1B2bC1fVHJGNkhvbS1SS2xwSlVfa2lHbkg0MkREN1lEbndzVUtfN250SGJRRDE4Ulh3?oc=5",
-      "published_at": "2026-08-11T17:34:41+00:00",
-      "real_link": "https://newsyonhap.com/news/119013",
-      "sent_at": "2026-08-11T17:43:53.023934+00:00",
-      "title": "패밀리캐피탈의 3륜 전기차 투자가 도시 모빌리티에 던지는 질문"
-    },
     "002f966b929ab961605bce1167cd574ed218cc567fcd9375546ac68965e9231d": {
       "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHhRdkhIaTROSVJ3a0ZEbjRGOTVOazYxUnYxZkdGd2k4VDFzQTUxUXVTMmhmMzJFdWRjQ2t6bXJ4N2lvTGl4RlBTMlhrTm53RGE4UFBEM0tjV3JBRERQdmFhbGN1WkdLNmFpNURJbFJPV1NZSEtDTktSeWxhMXRyVg?oc=5",
       "published_at": "2026-08-18T09:03:19+00:00",
@@ -4187,13 +4180,6 @@
       "sent_at": "2026-08-11T18:39:10.841768+00:00",
       "title": "나스닥 밀리는데 EWY 2%↑·SOXL 1%↑…‘삼전 4% 반등’ 외국인이 이어갈까"
     },
-    "6cfb8c728fbcb225e522328dd7296c7b2becde778a439c21a0dcb38f3088c5f9": {
-      "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGNxSjNYZ25GRWg3cXBPNzZFejBmZWZkTGtKWlQtZ0lwMFFqWVk5WjlxWnNjWVNBcWdZeW43Wnh6N0hxdUxXeG55c09aNjNGQ2NMczJWaFdrTTg1MVRYNExWTVdkdzlEVDNtYjBleVRBWUNSaUdZb244a1lzVEVDNllwWERrYjB2SmZKTm1jOS0zRHhSTTN0WWtsSTBYeTJXUDlV?oc=5",
-      "published_at": "2026-08-11T17:33:11+00:00",
-      "real_link": "https://www.tikr.com/ko/blog/marvell-crashed-nearly-50-then-rebounded-its-next-earnings-are-the-test?",
-      "sent_at": "2026-08-11T17:43:51.216751+00:00",
-      "title": "Marvell Crashed Nearly 50%, Then Rebounded. Its Next Earnings Are the Test"
-    },
     "6d395a928e66ed3dd76c80a597627ccacfdb96edda0154161328859f405ccc72": {
       "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUeTZEMUxoN255Z3lmb29NOE5EendManU4eEdFR19DTnRMT3REQTdiQXZocjcwUXo5a2kyOHVxLUgtZW42aDRDS3BNMy1IQlVTcXkzbjFRcGhsOHhrcEE?oc=5",
       "published_at": "2026-08-23T20:12:00+00:00",
@@ -4655,6 +4641,13 @@
       "real_link": "https://www.chosun.com/national/incident/2026/08/16/PDB7FOGKGRA55MXLPM5UW55XEY/",
       "sent_at": "2026-08-16T10:55:13.086139+00:00",
       "title": "충남 태안 모항항 갯바위서 50대 추락해 숨져"
+    },
+    "782d34dd71799241e04c4ec86cba0d19f5800600e5a611c7837c37ed64114121": {
+      "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45OHpNVjRkYThZR0JoRnE0QlRpT3VwaWc1M0lqZjJyd3FrREhHSlJ1QXFCLXd4MnY0OFVhZWNFeUhHcUFXOVNZM2JSVG11a1dOZlhDQjNYdTA4YXB0?oc=5",
+      "published_at": "2026-08-25T17:26:00+00:00",
+      "real_link": "https://www.newspim.com/news/view/20260826000016",
+      "sent_at": "2026-08-25T17:44:01.418263+00:00",
+      "title": "[미국 특징주] 엔비디아, 루빈 데뷔에 AI 자금조달 논란까지 겹치며 성장세 시험대"
     },
     "7858517cd50221076fc8580e98937b36c9ee527a6519da6a487ef6b0048fc8a8": {
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYZzk1VVdOaEUyNzdyU2FBWWlRdERiaWc5TWRCeV9JMDFVM1NUazhPc1NqWXFnSTVJY2NYbU8xVGtzUFRMRm1kNjhVa3JJc3lWMkxjQUlRTUV4R1ZHY1E1Vw?oc=5",
@@ -9395,6 +9388,13 @@
       "sent_at": "2026-08-12T01:46:11.439529+00:00",
       "title": "“국민연금이 국내 주식 바닥 받치고 환율 방어? 완전히 틀렸다···목적은 국민 노후 보장 딱 하나뿐”"
     },
+    "f1182b53ea01e813bca7727ae3b25601cc94b653fab5161e920800b821c827d3": {
+      "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EcTNlTTM4LXNTR0dMSWd5Z04zdU9iRUFPbktGc3BXWHJ2elZlZGdsd2hkVHhULU9Ib0tiTG12UXA3b3I0MnhJUDQ1S251bkxiNkdxU2ZxMzZRLVBCOGQ2enpPYThiZENmVkx2VW9RUHQ?oc=5",
+      "published_at": "2026-08-25T17:39:00+00:00",
+      "real_link": "https://kr.investing.com/news/company-news/article-93CH-2074207",
+      "sent_at": "2026-08-25T17:43:59.214470+00:00",
+      "title": "레플리뮨 그룹 주식, 15.72달러로 52주 신고가 경신"
+    },
     "f127a8ee732586de3107c74e9c7c7d1016f18263a92d30ea348b89b00e0402ae": {
       "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzltSFFuT0RLclJFdGlwalVNQ1dYcjF0bzNPcGlPb2FhaGs4RTM3NDBUeFBIZGtfZGNOVGI3XzlqUEUwRmgtMlJoYjNLeXhFLWdzMmJza1ZibFUxLWFSc3A2dU0zSTJOVGtTbFlOdFp6ODZtNm1QZXZYUjhRY3pQdEpXTGVhRERPcGdxeXpQLW5KbURtRmxfc0JJOThTZTRGbTc0cjlsSVFKc0FGOUVIbFRFZnNVQUd4VHZPQ3czZEU?oc=5",
       "published_at": "2026-08-13T19:32:54+00:00",
@@ -9936,11 +9936,6 @@
     }
   },
   "url_cache": {
-    "0009c109327acee9acf9f046c4723944846bc08a5f232fa820243f3e0714d50e": {
-      "google_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43RExnX0tWY25pbzcwV0xCX1B2bC1fVHJGNkhvbS1SS2xwSlVfa2lHbkg0MkREN1lEbndzVUtfN250SGJRRDE4Ulh3?oc=5",
-      "real_link": "https://newsyonhap.com/news/119013",
-      "updated_at": "2026-08-11T17:43:52.326202+00:00"
-    },
     "002f966b929ab961605bce1167cd574ed218cc567fcd9375546ac68965e9231d": {
       "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHhRdkhIaTROSVJ3a0ZEbjRGOTVOazYxUnYxZkdGd2k4VDFzQTUxUXVTMmhmMzJFdWRjQ2t6bXJ4N2lvTGl4RlBTMlhrTm53RGE4UFBEM0tjV3JBRERQdmFhbGN1WkdLNmFpNURJbFJPV1NZSEtDTktSeWxhMXRyVg?oc=5",
       "real_link": "https://www.edaily.co.kr/News/Read?newsId=04693686645548632&mediaCodeNo=257",
@@ -12926,11 +12921,6 @@
       "real_link": "http://www.greened.kr/news/articleView.html?idxno=347432",
       "updated_at": "2026-08-11T18:39:10.103558+00:00"
     },
-    "6cfb8c728fbcb225e522328dd7296c7b2becde778a439c21a0dcb38f3088c5f9": {
-      "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGNxSjNYZ25GRWg3cXBPNzZFejBmZWZkTGtKWlQtZ0lwMFFqWVk5WjlxWnNjWVNBcWdZeW43Wnh6N0hxdUxXeG55c09aNjNGQ2NMczJWaFdrTTg1MVRYNExWTVdkdzlEVDNtYjBleVRBWUNSaUdZb244a1lzVEVDNllwWERrYjB2SmZKTm1jOS0zRHhSTTN0WWtsSTBYeTJXUDlV?oc=5",
-      "real_link": "https://www.tikr.com/ko/blog/marvell-crashed-nearly-50-then-rebounded-its-next-earnings-are-the-test?",
-      "updated_at": "2026-08-11T17:43:50.634372+00:00"
-    },
     "6d395a928e66ed3dd76c80a597627ccacfdb96edda0154161328859f405ccc72": {
       "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUeTZEMUxoN255Z3lmb29NOE5EendManU4eEdFR19DTnRMT3REQTdiQXZocjcwUXo5a2kyOHVxLUgtZW42aDRDS3BNMy1IQlVTcXkzbjFRcGhsOHhrcEE?oc=5",
       "real_link": "https://www.news2day.co.kr/article/20260824500003",
@@ -13260,6 +13250,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUplLXFvNTMxY3dSVnI3eVJuOUg2ZUJaaXpGcjY2cXFmNHdzVjZTMlFsVHRRRmlTem9NNjhtOWVEQmhTTFVyWHNDQ1l4WVBVTGpMb2FVcG1CbHMycmxWcERKNUJlRHUtVFNqbUt2blFGckl3Q2ZPekdhVUxOS0dOOXl6UHZSUQ?oc=5",
       "real_link": "https://www.chosun.com/national/incident/2026/08/16/PDB7FOGKGRA55MXLPM5UW55XEY/",
       "updated_at": "2026-08-16T10:55:12.325371+00:00"
+    },
+    "782d34dd71799241e04c4ec86cba0d19f5800600e5a611c7837c37ed64114121": {
+      "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45OHpNVjRkYThZR0JoRnE0QlRpT3VwaWc1M0lqZjJyd3FrREhHSlJ1QXFCLXd4MnY0OFVhZWNFeUhHcUFXOVNZM2JSVG11a1dOZlhDQjNYdTA4YXB0?oc=5",
+      "real_link": "https://www.newspim.com/news/view/20260826000016",
+      "updated_at": "2026-08-25T17:44:00.662117+00:00"
     },
     "7858517cd50221076fc8580e98937b36c9ee527a6519da6a487ef6b0048fc8a8": {
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYZzk1VVdOaEUyNzdyU2FBWWlRdERiaWc5TWRCeV9JMDFVM1NUazhPc1NqWXFnSTVJY2NYbU8xVGtzUFRMRm1kNjhVa3JJc3lWMkxjQUlRTUV4R1ZHY1E1Vw?oc=5",
@@ -16645,6 +16640,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MVzY1bmxuVUlPRXliT3pPaTBGNXJkRWY1b19veHlyZzR3OTJGWEJvZ3ZXeUhJUkdOeERpZTc5aGdQVDJjT2RpcVBCTDdKdjkxSV9zdG82UHg5Z9IBX0FVX3lxTFBDUHozdkkyQnFfRGtEbjAzRW84eU5KRFRYRjdLT1pfYXp3dXRkOWNrSXRCcGcwVklVU1lMalNEUXhmWGplNDRFWmpocUhjRFZPNGdReThjdDduRmFKQWxR?oc=5",
       "real_link": "https://www.khan.co.kr/article/202608120600131",
       "updated_at": "2026-08-12T01:46:10.676513+00:00"
+    },
+    "f1182b53ea01e813bca7727ae3b25601cc94b653fab5161e920800b821c827d3": {
+      "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EcTNlTTM4LXNTR0dMSWd5Z04zdU9iRUFPbktGc3BXWHJ2elZlZGdsd2hkVHhULU9Ib0tiTG12UXA3b3I0MnhJUDQ1S251bkxiNkdxU2ZxMzZRLVBCOGQ2enpPYThiZENmVkx2VW9RUHQ?oc=5",
+      "real_link": "https://kr.investing.com/news/company-news/article-93CH-2074207",
+      "updated_at": "2026-08-25T17:43:58.586045+00:00"
     },
     "f127a8ee732586de3107c74e9c7c7d1016f18263a92d30ea348b89b00e0402ae": {
       "google_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzltSFFuT0RLclJFdGlwalVNQ1dYcjF0bzNPcGlPb2FhaGs4RTM3NDBUeFBIZGtfZGNOVGI3XzlqUEUwRmgtMlJoYjNLeXhFLWdzMmJza1ZibFUxLWFSc3A2dU0zSTJOVGtTbFlOdFp6ODZtNm1QZXZYUjhRY3pQdEpXTGVhRERPcGdxeXpQLW5KbURtRmxfc0JJOThTZTRGbTc0cjlsSVFKc0FGOUVIbFRFZnNVQUd4VHZPQ3czZEU?oc=5",
