@@ -50,13 +50,6 @@
       "sent_at": "2026-09-07T23:02:24.532296+00:00",
       "title": "[환율] 유로-달러 0.8597유로 … 0.10%↓"
     },
-    "0676e581c1b617c7650350eaebfa90985239aec5dadc18a9127f729b8b0327cb": {
-      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvRWY5bGlQaHQzU1hDRHJ5ZzZkTlBxNFYxd0dlTEpZYU5xTm5sRVlheXpiU1hKNl81NUtYb1hvUUtTMkhOaXAxQVRscE1GV0lDV3d3?oc=5",
-      "published_at": "2026-09-05T14:06:00+00:00",
-      "real_link": "https://news.nate.com/view/20260905n13146",
-      "sent_at": "2026-09-05T14:35:59.762548+00:00",
-      "title": "'그알' 11살 주검에 남은 수상한 흔적…'천사 목사'는 억울하다?"
-    },
     "07aa6dea4a68e51d499b8e812fe8794325da417d7e13fdc656748b33205424ac": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mbGhESUhESzI1Y2Y4YmJBbUlmVHp0OTBtZ3dDYW9ZcFJFdWZTUFU4SXdHRzJSdGczbHRNdHZXQXA1X2tBNU9taXExQnBiQURFNG9sZ3Y1RUZLRTE3T05MS29Qc1NaNmFQ0gFuQVVfeXFMTlBrVGpTcGZxeU9TSU4tSEhud19jTWdRN3B2UHF6dzBNN1NtbmxlYUJyekhpYkRtQUNldGk3ZU8zZzNYeVdlZEJKUV9RblpjQVEySWttX3ctVnhNT1FLbGZFOEE4T1Y1cnlDTUtvY2c?oc=5",
       "published_at": "2026-09-07T00:44:24+00:00",
@@ -483,6 +476,13 @@
       "real_link": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217948",
       "sent_at": "2026-09-14T07:04:42.622008+00:00",
       "title": "오늘부터 퇴근길에도 주식 거래… 거래시간 확대에 유동성 분산 우려도"
+    },
+    "469fe65a97981b035ad7b8f724c07af11d55cdb5dc740e2728c91ebb762585a2": {
+      "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXpQdFc0cm13MGlwaUVmRkFOLWZsM0JwM1p6QURSRnRxSEprV0JQZGN3Q2N3bWJXek1iYlRQeUxQY0szcW9zQkJkalBaSHVFcHBhNUIyd3JTS0hnNmdUQVBtV01fZnpYUDVuLVdlVlA1RUU1RTk5MG44ck1VNFphUkNvRnZvN2c4VEoxY1ZBN2dPQk9jWjNRSHBwdnE?oc=5",
+      "published_at": "2026-09-19T16:23:53+00:00",
+      "real_link": "https://www.vietnam.vn/ko/ai-trong-giao-duc-pho-thong-tu-su-dung-cong-cu-den-phat-trien-nang-luc",
+      "sent_at": "2026-09-19T16:39:07.405241+00:00",
+      "title": "일반 교육에서의 인공지능: 도구 활용에서 역량 개발까지."
     },
     "46f149fab6cfadc16646d90b6f2e59dc1c1a413c66866eb3f283ad7714f09387": {
       "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGUEk2YnlnYUJTR3RmOVhmN2dBWFFWbTQ3TzFEUEhMaU9jQVFhWGdsa2ZnSUs1aEQxMUloQzJZVmhSOXQxeFd2MFJ5RnVzdVhZVGtCSG9YUG1ZeVZt?oc=5",
@@ -1793,13 +1793,6 @@
       "sent_at": "2026-09-07T23:02:25.988068+00:00",
       "title": "구자균 LS일렉트릭 회장, 내주 美 출장…AI 전력 수요 대응 논의"
     },
-    "e3093fbb284bad7cea69300191b5bc5d798accbc48fd9c7799230174b362def2": {
-      "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sYzlaWmFTM3J1TjJpbzJ6VU9rU3RPRktqYUpxV0dIMTAzNnRDamt4Z3VVb1piMGxpT0x2TG5Ca01HNkgxdmVQV25vdU1DcWx6N0NGQXVB?oc=5",
-      "published_at": "2026-09-05T14:26:02+00:00",
-      "real_link": "https://zdnet.co.kr/view/?no=20260905133554",
-      "sent_at": "2026-09-05T14:36:01.390126+00:00",
-      "title": "미국 저탄소 제철소 첫삽…정의선 \"아틀라스·로켓에도 강재 공급했으면\""
-    },
     "e3d93e6d273ef999c18228fc23e420019650bed2c076425bde64b80330421411": {
       "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUW5fU0ZZNEVpTklHckFHOFFzc2NCbGM0MHdyUzRQUFQ3LUJxUkVWSUpIUjhxX0ViUlV2cWdnMWMxYzFsdjlWVi1KRE8wdl9ralRQenkyQ2tuSlJCNkhleVc3WXZvYTR4WjQzRnV2WldLZ0dya29EU1daOVVzSE4xTg?oc=5",
       "published_at": "2026-09-14T13:55:26+00:00",
@@ -2039,11 +2032,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44ZnZsSi0wbGdtX3NYQ2kzSm9WVVE5dllWd2R6aHVsbnc3bmY4T2wyenZ4U2J5YXBmWkd1ZzRacDU3OGJDYkZldjczcGJlb1huZDFEMi1XVkU2Tm5CWmtadXRR?oc=5",
       "real_link": "https://www.buffettlab.co.kr/news/view.php?idx=56607",
       "updated_at": "2026-09-07T23:02:23.988356+00:00"
-    },
-    "0676e581c1b617c7650350eaebfa90985239aec5dadc18a9127f729b8b0327cb": {
-      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvRWY5bGlQaHQzU1hDRHJ5ZzZkTlBxNFYxd0dlTEpZYU5xTm5sRVlheXpiU1hKNl81NUtYb1hvUUtTMkhOaXAxQVRscE1GV0lDV3d3?oc=5",
-      "real_link": "https://news.nate.com/view/20260905n13146",
-      "updated_at": "2026-09-05T14:35:58.807186+00:00"
     },
     "07aa6dea4a68e51d499b8e812fe8794325da417d7e13fdc656748b33205424ac": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mbGhESUhESzI1Y2Y4YmJBbUlmVHp0OTBtZ3dDYW9ZcFJFdWZTUFU4SXdHRzJSdGczbHRNdHZXQXA1X2tBNU9taXExQnBiQURFNG9sZ3Y1RUZLRTE3T05MS29Qc1NaNmFQ0gFuQVVfeXFMTlBrVGpTcGZxeU9TSU4tSEhud19jTWdRN3B2UHF6dzBNN1NtbmxlYUJyekhpYkRtQUNldGk3ZU8zZzNYeVdlZEJKUV9RblpjQVEySWttX3ctVnhNT1FLbGZFOEE4T1Y1cnlDTUtvY2c?oc=5",
@@ -2349,6 +2337,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zM2YwanQxc2kwM2tfeGkwYV9XTXdXU0pLY0NScUdPZTUzcGo4UzB6TFA0V2lCcWhvSVZhaGNuWXRfQUlpRlVmZXMyczc1N2lITGJlUjhtNTJMS0RzSUVhNF9vbXhXdjdkM3lwQ29aUGtHSTFyaEE?oc=5",
       "real_link": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217948",
       "updated_at": "2026-09-14T07:04:42.076786+00:00"
+    },
+    "469fe65a97981b035ad7b8f724c07af11d55cdb5dc740e2728c91ebb762585a2": {
+      "google_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXpQdFc0cm13MGlwaUVmRkFOLWZsM0JwM1p6QURSRnRxSEprV0JQZGN3Q2N3bWJXek1iYlRQeUxQY0szcW9zQkJkalBaSHVFcHBhNUIyd3JTS0hnNmdUQVBtV01fZnpYUDVuLVdlVlA1RUU1RTk5MG44ck1VNFphUkNvRnZvN2c4VEoxY1ZBN2dPQk9jWjNRSHBwdnE?oc=5",
+      "real_link": "https://www.vietnam.vn/ko/ai-trong-giao-duc-pho-thong-tu-su-dung-cong-cu-den-phat-trien-nang-luc",
+      "updated_at": "2026-09-19T16:39:06.528219+00:00"
     },
     "46f149fab6cfadc16646d90b6f2e59dc1c1a413c66866eb3f283ad7714f09387": {
       "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGUEk2YnlnYUJTR3RmOVhmN2dBWFFWbTQ3TzFEUEhMaU9jQVFhWGdsa2ZnSUs1aEQxMUloQzJZVmhSOXQxeFd2MFJ5RnVzdVhZVGtCSG9YUG1ZeVZt?oc=5",
@@ -3284,11 +3277,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xc3NnRDZwUTRKcGhmUkV1X19zYUpkbUV5TE1BT2VhcXdpbFVLSFRMWFNqNDZtV2w2MkhCTVozR1pwMENsNy1YQ2lyNTFjVzB2eTFkQmFyME1QekVfc25GVg?oc=5",
       "real_link": "https://www.asiae.co.kr/article/2026090808000558304",
       "updated_at": "2026-09-07T23:02:25.404240+00:00"
-    },
-    "e3093fbb284bad7cea69300191b5bc5d798accbc48fd9c7799230174b362def2": {
-      "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sYzlaWmFTM3J1TjJpbzJ6VU9rU3RPRktqYUpxV0dIMTAzNnRDamt4Z3VVb1piMGxpT0x2TG5Ca01HNkgxdmVQV25vdU1DcWx6N0NGQXVB?oc=5",
-      "real_link": "https://zdnet.co.kr/view/?no=20260905133554",
-      "updated_at": "2026-09-05T14:36:00.645989+00:00"
     },
     "e3d93e6d273ef999c18228fc23e420019650bed2c076425bde64b80330421411": {
       "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUW5fU0ZZNEVpTklHckFHOFFzc2NCbGM0MHdyUzRQUFQ3LUJxUkVWSUpIUjhxX0ViUlV2cWdnMWMxYzFsdjlWVi1KRE8wdl9ralRQenkyQ2tuSlJCNkhleVc3WXZvYTR4WjQzRnV2WldLZ0dya29EU1daOVVzSE4xTg?oc=5",
