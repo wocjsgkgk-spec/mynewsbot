@@ -309,6 +309,13 @@
       "sent_at": "2026-09-18T01:01:18.072076+00:00",
       "title": "[MK 골든크로스 돌파종목 : 프로이천(321260) & 코오롱인더(120110)]"
     },
+    "2b87cf7072226269db4be48e02f9d675c32cba26f7dd8c329c55607c98260f03": {
+      "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52WVZEQXJvR195LWVwZU1PS3RfQ2lOekYzOFNmWWZ0Wkpid2hmNmpPc2VXN2tnYS1XZVUzTUk0RlJmRjNBSkFIV2t4c1hvaEVMT2VIeFZVTkdnVXhJcWVIY0ZVZHNzZGkzS2Q3cUxnenBzSlhucGc?oc=5",
+      "published_at": "2026-09-20T14:50:57+00:00",
+      "real_link": "https://kr.beincrypto.com/ai-chatbots-wrong-financial-advice-study/",
+      "sent_at": "2026-09-20T14:54:17.182823+00:00",
+      "title": "챗봇에 돈 맡겨도 될까…1만개 답변 실험 결과"
+    },
     "2b95c98d6c5add2f7b521ee8449f004e0e895452364904b4f0c98b8ed58ad14e": {
       "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsbG11TmR2ekhsOXlyd2NkaXE3dDRBc2lHUzBTUXdoV3pQVmxvRFFwTGtIXzlDc1BMam9hVWg2TFpHNEh2WXN4NHlpZ0ZsMXMxVWRKaTd2alFMcFhSWl9aLXd1QnFuQ29XUVBiQktnTnFRdV95SThRTWVvazc?oc=5",
       "published_at": "2026-09-15T10:25:00+00:00",
@@ -525,13 +532,6 @@
       "real_link": "https://www.buffettlab.co.kr/news/view.php?idx=56789",
       "sent_at": "2026-09-16T04:58:35.079351+00:00",
       "title": "베뉴지, 호텔,레스토랑,레저주 저PER 1위... 0.68배"
-    },
-    "491c164f973419b9c1e748cf8054cc2cc408769a20c5fc01536b2be05690b8a0": {
-      "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFVHa1JxNlJNSTJSX0lGcEY1UERqY1ZqOUh6R2plYXFfMlVoaEJFTE1zdFBYaDJYbTZLcTVJMnhhdE1QTUtTbGxFUEVQTVFORjZjVnl2RTJvYlZENFRNbTFvU3NxakFuUElUVTNSdzA4OEhwbHZzVzB1MUJRYWZBUw?oc=5",
-      "published_at": "2026-09-06T12:32:05+00:00",
-      "real_link": "https://www.edaily.co.kr/News/Read?newsId=02053286645577496&mediaCodeNo=257",
-      "sent_at": "2026-09-06T12:36:50.853133+00:00",
-      "title": "AI가 메모리까지 빨아들였다…스마트폰·PC 덮친 ‘램 대란’"
     },
     "4a69ad73ca2d2f7aac257477ebb40b39558683acb6f37af07f20222c780dfbcf": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlUldaSlV1TTlBMXh5c3Q2S25laTBvSmp4NVNDWXI5T0oxOTZPeHZld29qNXBCRTEydnZGb1BhZ01TclZHVEdmSXp0aGR3b0NiLW5OT25jbnBYZWtKQ1ozUjBIQkNINVNTR29TT2VOWi1aQ00?oc=5",
@@ -904,13 +904,6 @@
       "sent_at": "2026-09-19T21:17:43.178228+00:00",
       "title": "(주간증시전망)FOMC 넘긴 코스피…다음 고비는 유가·연준"
     },
-    "7d15ee2525c5d63a5204d12faf5c803c04ae2f9dd3f9714b8dcfcfd18b0943d5": {
-      "google_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVb0NSTklUQTJDOWlJN1JlTUtyQldqbDFoaUx3QW5UTFVDSzQwWkRzcG0tZzF1VVA0cG5yYUNqUHc1YS1ZT1BodlpQSWVsNWR0?oc=5",
-      "published_at": "2026-09-06T12:17:00+00:00",
-      "real_link": "https://economybloc.com/article/114760/",
-      "sent_at": "2026-09-06T12:36:49.485507+00:00",
-      "title": "주간경제일정…미 8월 소비자물가지수, 애플 신제품 발표 등"
-    },
     "7d68e47ded5bdd53553e5c3b9c9d92a39aeb51b3c18a394908a98eebbc072db1": {
       "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qSHNGLVNWZEdjeTd3aHhrb2lIS3ZSSlBIUzl2Ymc1MDAxa0ZGb3NDQmJlTU9OUjNiUHVUOFcwVXoyN1k1a2xjVm5YRTdDaDdTRlhrUkJkODcyT3VJQjc0V0k4OWFLRHPSAWxBVV95cUxQbFphNzZfSEdDQk12bHhXTjlJZTYwWVlXMC02TUNJdmlZTzcyaExRX2VoOTNUSU5Zbmh2ZVpZcWVQU2NkZWxKOEFDeWg1VXUtQ05zVDdnNWNUOGdXWldUQWxneDRYNlFKRWdlN0Y?oc=5",
       "published_at": "2026-09-16T04:33:50+00:00",
@@ -1008,6 +1001,13 @@
       "real_link": "https://www.asiae.co.kr/article/2026090710014255119",
       "sent_at": "2026-09-07T01:04:26.716580+00:00",
       "title": "KB금융, '2026 그룹 통합 AI 에이전트 경진대회' 개최"
+    },
+    "8ccf6a4e8ebecdeb092bb0fb9f9f48be8d5b9e8341de729d128dcf78e1de1bb9": {
+      "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOampRQmUzUmh3UDN3c0F3UUJHWW1fbTVHU3Z5TXVfNklxM0s3ZXQyaGliZWpCbzVNNVBlQXNMSWNyU29fQkNvbzVLZnJkMzhvNldheVhxbkM2ejRCSVVDZE1sSEJGclpvZzVVU2NoWm9OQm40SjlhM1BwZnBVRjdjbEV6d0JydXlzdzZXb2tLV0dtNnp1MEJWdA?oc=5",
+      "published_at": "2026-09-20T14:28:19+00:00",
+      "real_link": "https://www.tikr.com/ko/blog/okta-stock-is-up-132-since-march-is-the-stock-already-priced-in?",
+      "sent_at": "2026-09-20T14:54:14.778388+00:00",
+      "title": "Okta Stock Is Up 132% Since March. Is the Stock Already Priced In?"
     },
     "8cf358f25d601506e32909cb67d4816b56cdee45a6c0037ca448e5de4334da32": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FRDVSWHd2b2RocEN6amVaM2YzWlNudXhZS014c2J0T1R3QVFkTDlEQ29HZ0t4eEp3V0d2Q1BMSmt1RFJhc2g5a0ZsODZtaWhtWEd2Z2tKQ05TVl9WOFdDMGx2cXQ2V0NLNWc?oc=5",
@@ -2197,6 +2197,11 @@
       "real_link": "https://stock.mk.co.kr/news/view/1161799",
       "updated_at": "2026-09-18T01:01:17.397613+00:00"
     },
+    "2b87cf7072226269db4be48e02f9d675c32cba26f7dd8c329c55607c98260f03": {
+      "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52WVZEQXJvR195LWVwZU1PS3RfQ2lOekYzOFNmWWZ0Wkpid2hmNmpPc2VXN2tnYS1XZVUzTUk0RlJmRjNBSkFIV2t4c1hvaEVMT2VIeFZVTkdnVXhJcWVIY0ZVZHNzZGkzS2Q3cUxnenBzSlhucGc?oc=5",
+      "real_link": "https://kr.beincrypto.com/ai-chatbots-wrong-financial-advice-study/",
+      "updated_at": "2026-09-20T14:54:16.300173+00:00"
+    },
     "2b95c98d6c5add2f7b521ee8449f004e0e895452364904b4f0c98b8ed58ad14e": {
       "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsbG11TmR2ekhsOXlyd2NkaXE3dDRBc2lHUzBTUXdoV3pQVmxvRFFwTGtIXzlDc1BMam9hVWg2TFpHNEh2WXN4NHlpZ0ZsMXMxVWRKaTd2alFMcFhSWl9aLXd1QnFuQ29XUVBiQktnTnFRdV95SThRTWVvazc?oc=5",
       "real_link": "https://www.dizzotv.com/site/data/html_dir/2026/09/15/2026091580203.html",
@@ -2351,11 +2356,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05aGRRS1NaMGZwNzUyTUpadThoUXg3WjU4X21YdkxRb3ZmR0pMd0FtZG5GQ19wRFJmXzNZVFNSV0d3WWEtZTBMbXBmYl9qMnB5X19SS2ZnTExtX1ZiR2xiZzBB?oc=5",
       "real_link": "https://www.buffettlab.co.kr/news/view.php?idx=56789",
       "updated_at": "2026-09-16T04:58:34.270556+00:00"
-    },
-    "491c164f973419b9c1e748cf8054cc2cc408769a20c5fc01536b2be05690b8a0": {
-      "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFVHa1JxNlJNSTJSX0lGcEY1UERqY1ZqOUh6R2plYXFfMlVoaEJFTE1zdFBYaDJYbTZLcTVJMnhhdE1QTUtTbGxFUEVQTVFORjZjVnl2RTJvYlZENFRNbTFvU3NxakFuUElUVTNSdzA4OEhwbHZzVzB1MUJRYWZBUw?oc=5",
-      "real_link": "https://www.edaily.co.kr/News/Read?newsId=02053286645577496&mediaCodeNo=257",
-      "updated_at": "2026-09-06T12:36:50.366083+00:00"
     },
     "4a69ad73ca2d2f7aac257477ebb40b39558683acb6f37af07f20222c780dfbcf": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlUldaSlV1TTlBMXh5c3Q2S25laTBvSmp4NVNDWXI5T0oxOTZPeHZld29qNXBCRTEydnZGb1BhZ01TclZHVEdmSXp0aGR3b0NiLW5OT25jbnBYZWtKQ1ozUjBIQkNINVNTR29TT2VOWi1aQ00?oc=5",
@@ -2622,11 +2622,6 @@
       "real_link": "https://www.newstomato.com/ReadNews.aspx?no=1314202",
       "updated_at": "2026-09-19T21:17:42.562735+00:00"
     },
-    "7d15ee2525c5d63a5204d12faf5c803c04ae2f9dd3f9714b8dcfcfd18b0943d5": {
-      "google_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVb0NSTklUQTJDOWlJN1JlTUtyQldqbDFoaUx3QW5UTFVDSzQwWkRzcG0tZzF1VVA0cG5yYUNqUHc1YS1ZT1BodlpQSWVsNWR0?oc=5",
-      "real_link": "https://economybloc.com/article/114760/",
-      "updated_at": "2026-09-06T12:36:48.760499+00:00"
-    },
     "7d68e47ded5bdd53553e5c3b9c9d92a39aeb51b3c18a394908a98eebbc072db1": {
       "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qSHNGLVNWZEdjeTd3aHhrb2lIS3ZSSlBIUzl2Ymc1MDAxa0ZGb3NDQmJlTU9OUjNiUHVUOFcwVXoyN1k1a2xjVm5YRTdDaDdTRlhrUkJkODcyT3VJQjc0V0k4OWFLRHPSAWxBVV95cUxQbFphNzZfSEdDQk12bHhXTjlJZTYwWVlXMC02TUNJdmlZTzcyaExRX2VoOTNUSU5Zbmh2ZVpZcWVQU2NkZWxKOEFDeWg1VXUtQ05zVDdnNWNUOGdXWldUQWxneDRYNlFKRWdlN0Y?oc=5",
       "real_link": "https://www.news1.kr/world/international-economy/6292421",
@@ -2696,6 +2691,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxUHozLWhicFc5WXpfYTFLN2g5MG1hQzJUdWwxRmpOVTVtNkhLaGxmdjU2Smp3ekRYMml0QVRsa0t1OGNlZF9zTGtjbFBuakVrYXlpSU5idHZQeEw5YTRXTA?oc=5",
       "real_link": "https://www.asiae.co.kr/article/2026090710014255119",
       "updated_at": "2026-09-07T01:04:26.224376+00:00"
+    },
+    "8ccf6a4e8ebecdeb092bb0fb9f9f48be8d5b9e8341de729d128dcf78e1de1bb9": {
+      "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOampRQmUzUmh3UDN3c0F3UUJHWW1fbTVHU3Z5TXVfNklxM0s3ZXQyaGliZWpCbzVNNVBlQXNMSWNyU29fQkNvbzVLZnJkMzhvNldheVhxbkM2ejRCSVVDZE1sSEJGclpvZzVVU2NoWm9OQm40SjlhM1BwZnBVRjdjbEV6d0JydXlzdzZXb2tLV0dtNnp1MEJWdA?oc=5",
+      "real_link": "https://www.tikr.com/ko/blog/okta-stock-is-up-132-since-march-is-the-stock-already-priced-in?",
+      "updated_at": "2026-09-20T14:54:13.961581+00:00"
     },
     "8cf358f25d601506e32909cb67d4816b56cdee45a6c0037ca448e5de4334da32": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FRDVSWHd2b2RocEN6amVaM2YzWlNudXhZS014c2J0T1R3QVFkTDlEQ29HZ0t4eEp3V0d2Q1BMSmt1RFJhc2g5a0ZsODZtaWhtWEd2Z2tKQ05TVl9WOFdDMGx2cXQ2V0NLNWc?oc=5",
