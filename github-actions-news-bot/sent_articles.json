@@ -92,13 +92,6 @@
       "sent_at": "2026-09-23T06:19:52.319656+00:00",
       "title": "AI PICK 전체 하이라이트 [대한민국 vs 태국]"
     },
-    "1acb1d3f026d2a127021f59696731aa43fb2d9b919e88f66709718a41df21378": {
-      "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51REpHdEsta2FTQ3NUY1JyVDJ6WGo3c2FYRWN5S1lXajdEWElLclVOTVF0a0xuMGdta3lQUG5xcE5RZ0xSY3JGZVJyT2t1bGlrbmxtelR0S3F2YWhMV3BaVFhUUFI?oc=5",
-      "published_at": "2026-09-21T05:18:42+00:00",
-      "real_link": "https://www.taxtimes.co.kr/news/article.html?no=276970",
-      "sent_at": "2026-09-21T05:21:30.176216+00:00",
-      "title": "더존비즈온, 국제표준 기반 'AI 거버넌스 사무국' 공식 출범"
-    },
     "1b00652958a355440ff29627cc348905ea20900d7f4391b542796fd76c6b5589": {
       "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4MHE5ZXptaGx3b1IwVjQwNEs3c194ZXpiS3pSR2RTb3dJbDhOS3ZDN0pSRm1yV3diaTg2NkY4MGptWXB2UHVCSjRzWGFGSU9tWENrV1BUODZhQdIBX0FVX3lxTE8zYTZUV09CbnRGd3BBLVlrSFROeGNXNlNDQWF3YUNsTmFBOTQ5SzZKQVJzYy0yRjFiVU9SM04xa3Jva1N5N0MxUzMxZ0FJYU1SbjFEdXZPVUlFRGRlb0Fn?oc=5",
       "published_at": "2026-09-28T01:33:00+00:00",
@@ -260,13 +253,6 @@
       "sent_at": "2026-10-02T00:54:20.508429+00:00",
       "title": "K배터리, 1~8월 美 전기차 공급분 전년비 40% ↓"
     },
-    "367d388818a0008f59e6d6d79c2bca4507d85ddcb7526f5db109d1c569591c32": {
-      "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjY1FUUUxPak1FbW9seHdsOTB5alZUUXdKdXV0aGlzSUd1VVhiQ3lZOWNoVzFROExwNkFRQ05zV0FXTHlWcUhoTWlvcHNzazVHVzB4M3B3cjQtdjZybWE5c3JfaUQ?oc=5",
-      "published_at": "2026-09-21T05:16:53+00:00",
-      "real_link": "https://www.sentv.co.kr/article/view/sentv202609210134",
-      "sent_at": "2026-09-21T05:21:27.994762+00:00",
-      "title": "기보, 수도권 中企 기업승계 M&A 지원 나서…제도·세제 변화 안내"
-    },
     "3738834b4828c0b210fd5ff5c3336669cf44855f67008ffe6fdb55543305d68e": {
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DTzcwUkNoWmdRMkdKdktzcWVsTkhoSXphUFNPenlTbXZIWlhzdnBXVzlpRWFFczJrM3h6ODF6TFZOTm1za2s2S1hzY2tsLUtiMV9BTlVyUmVwYlpLYzUyUg?oc=5",
       "published_at": "2026-09-23T19:31:08+00:00",
@@ -315,6 +301,13 @@
       "real_link": "https://www.aitimes.kr/news/articleView.html?idxno=42143",
       "sent_at": "2026-10-01T02:25:35.918169+00:00",
       "title": "LG CNS, 글로벌 투자사 ‘제너럴 애틀랜틱’과 엔터프라이즈 SW, AI 기업 투자 나선다"
+    },
+    "3ec3112292568fdaa2213a604d48861d88b203ca94f78c4056982adb7e677eb0": {
+      "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zQm9DUGdjcGlDNFltM1FHWHNmMDdVc196VWNvNnNfVFBrd2N1TlRNanBMQXZYYWozRXZtLUx0TUNCWmFQb1p3Y3RmTC1pOXJsTk9OWWRyRnQ2UQ?oc=5",
+      "published_at": "2026-10-05T08:00:01+00:00",
+      "real_link": "https://www.hankyung.com/article/2026100203776",
+      "sent_at": "2026-10-05T08:20:33.467352+00:00",
+      "title": "1년 성과 정하는 4분기…기관 '북클로징' 수혜 종목은? [한경우의 케이스스터디]"
     },
     "3f4e29ef361af582989087855348c481559c4dbe28d59054f49059764fc27610": {
       "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGhQR1VJclh5a21ndzIwM21HeTJOSUtqVUJabmFsTUZ4ak5La0RrTFhhS1ZXNTJYelQxcWFpVXczeDcxdW04N3UyVFlqYUxOb2VZR1Z4VGFKQ2dBV1U5emQ5MFYtNHhzNzBHbjFib3UxdXFrYmIzQzZtcjNrNUswSEF0bWpVRkNxWjdpUlB5MWYweVJyYUMwRDNYZHBBRWs?oc=5",
@@ -624,19 +617,26 @@
       "sent_at": "2026-09-21T20:46:42.034469+00:00",
       "title": "이저벨라 뱅크, 그랜드 리버 인수 주주총회 승인 획득"
     },
-    "6b2c79c4c2c26b7fbef5a73884dad4d1519077fd2b1fa899d0b7920dc0d0b256": {
-      "google_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sbThpMFNfMHlfbndfT2VXRklzNTJuM01UT2UySDZ4QkVYNU8wUHF4b21iMXlyams0VUJUMS1Ja1E2cTZjS0Y1STVYOEFWSHZt?oc=5",
-      "published_at": "2026-09-21T05:07:49+00:00",
-      "real_link": "https://bloomingbit.io/feed/news/120713",
-      "sent_at": "2026-09-21T05:21:31.454409+00:00",
-      "title": "비트코인, 45주 만에 50주 이동평균선 돌파…\"약세장 종료 신호\""
-    },
     "6c5c5c80197b290302f913956399c36bdb4b491f541084b8c8076a2e487eded8": {
       "google_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wZDhBdnA1d2JaLWY0MHM2MjBvMm1NREZqZnpvZVIxZXExYUU2MVU3cXhmUFV1MFYxNzFicy03eE1qWEJnWThTMVhEanhMN3dDbU0zRlJ0MThBeWPSAWBBVV95cUxPcmxNTHNWYlpuMmhUTnBuSmt5cXpnQ21wYnl0RFJBQmIySEl1UHg5MDdKVUFNTWlEUkh1Rjd1MWFmcUpPeVlmSmpVWjhSYkY0WEQ4YjFBdTg5aUN5QkdwdGI?oc=5",
       "published_at": "2026-09-23T11:38:37+00:00",
       "real_link": "https://www.yna.co.kr/view/AKR20260923193800062",
       "sent_at": "2026-09-23T11:51:35.189350+00:00",
       "title": "삼척서 버섯 채취 간 2명 실종 신고 2시간만 무사 귀환(종합)"
+    },
+    "6d6bfa061a1d8a43fb67a1d5d41edfd1f44e0ce63a9d683f1202e1e2c507786d": {
+      "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MWm80cHREb1ZNOVduNUlrOENsaGEtaFBJNzgxVzE5alpuZTZzbDZnaUtJT2kzaFFfdGNEX2dCa0VCT01RZTlfTUtzNHJRTjRrREM2V1YzZEJPS0EtVUhFVWJIMjBEdDFKX3c?oc=5",
+      "published_at": "2026-10-05T08:00:00+00:00",
+      "real_link": "https://www.seoulfn.com/news/articleView.html?idxno=639330",
+      "sent_at": "2026-10-05T08:20:31.149084+00:00",
+      "title": "[주간환율전망] 장기금리·네고물량 '힘겨루기'···1340~1350원대 공방"
+    },
+    "6e16be2c212d637f76d2ddaed522346fbb2c27d4669518d3c076b8b399c38c6e": {
+      "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMMWMzOTFkOFhMbENCSzlpZ1ktRmJmaVk3R3pGVVdMRHdJSVZlaUxXVzg1c210ZVEyVVk0d1NDSnVLbXd6cWFLdER3SHBtQUM4Ul9iNHV1MV8xVXVaU2NMMFZFUDZWQm5Iam1rRW5oZEppWDh2V2c?oc=5",
+      "published_at": "2026-10-05T08:02:12+00:00",
+      "real_link": "https://www.tradingkey.com/kr/news/transcripts/262199735-tradingkey",
+      "sent_at": "2026-10-05T08:20:29.966333+00:00",
+      "title": "매코믹(MKC) 2026 회계연도 3분기 실적 발표 콜: 매출 17% 증가, 마진 확대"
     },
     "6e7b4ac5f689fd597f2392919fa85afa5c189513637b2125b9a21de2b3df1416": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sSUxkVVFVRXhDcVlKMmJfYUNnd0Rqazg5M1RkeWNtdkcxaTdEYmFIci1qTFp5MU4tREZ2NEFXR2IzbEhGR0dDRVBVSHZQTXZwUW9uZHd0ekpRRDdWZUcxS3ljTlhCOE5LN0E?oc=5",
@@ -665,6 +665,13 @@
       "real_link": "https://m.pressian.com/m/pages/articles/2026100318482879165",
       "sent_at": "2026-10-04T00:46:58.983342+00:00",
       "title": "낚시 중 20대 남성 갑판으로 추락… 군산해경, 신고 즉시 출동해 신속 구조"
+    },
+    "71e9da6349ba801a67b877e014a1d03d328715640734a3d24f471f6181b78aa9": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rZHA0dndiSkotWG5pLVhFNENQRm5mWGwxcUpPSUswVGwyRFRDU2Y4ME9ITjhVQ0hyQkZUOWwzd0t0Q1RxUVB4cmVpUkg5cDRjQWxDYThaTTNOaTJpaWdwMHI5QzRybXM?oc=5",
+      "published_at": "2026-10-05T08:16:55+00:00",
+      "real_link": "https://kr.beincrypto.com/us-ai-lead-over-china-shrinks/",
+      "sent_at": "2026-10-05T08:20:32.375111+00:00",
+      "title": "미국, AI 주도권 중국에 내주나…격차 3%"
     },
     "71f7e038fe64382fe019bac2685d803e40e035eadd1fcb4e4003c7df61f4781b": {
       "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GMzlNNWJNTGs2Wk9NQ2I4Z1RKYlFrdE5tRlBEUUtTRXB5S3pVT1dXMzVEQzJGTFVuTlJfU0VVbkROQkw1V2NubWpDS0JnRE0?oc=5",
@@ -1492,13 +1499,6 @@
       "sent_at": "2026-09-22T12:44:56.524985+00:00",
       "title": "재경부 예산 속 '경제 치트키' 4가지"
     },
-    "f968deb43917cc46d1aa8b05f12358a6481bf023c99308bee1cc63020f4d8313": {
-      "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94UjNWb0ZIOGVfdFZNaTBscC1WeXVNbThHZFlWZzVrZm5uY3lyMWVMaDdhZWJEN25wQ0FpeWhNdVpRTWZ6a1VWQmNDMjNHTjgtY1JkUER2MXl5NjVQVFdSS2YyS2HSAWhBVV95cUxOSEtQUm95bTFqSFV2U2w3djJ0bWsteEpiQlNsdktzbTF4SVlsV1U5LVVaM0JrcGFQVEM3cG5Gb1ZkZjRKcmd5TXo2RENDVGtzTFRyNlVOX3Fmc3lCU05iekpBbHNZRHVCdw?oc=5",
-      "published_at": "2026-09-21T05:07:34+00:00",
-      "real_link": "https://www.m-i.kr/news/articleView.html?idxno=1416560",
-      "sent_at": "2026-09-21T05:21:29.116888+00:00",
-      "title": "[기획] 처참한 지방 건설경기 침체, 건설 일자리 삼켰다"
-    },
     "f991400d99a8e47209a55219cf5a5519adcd4b1a36b8c0cccca37bd35d211028": {
       "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTNU4yUklxZW1nN1JhOTdWX25TUS1IOG0tYlpkaVpFUWZNdmtjMlptZk5WNmFhNTEzd0Vxcl9VMktjWFc2TnhiUGYyTnR2ZkRHeDV2dVln?oc=5",
       "published_at": "2026-09-28T01:42:13+00:00",
@@ -1615,11 +1615,6 @@
       "real_link": "https://programs.sbs.co.kr/sports/ag2026/clip/90286/22000636661",
       "updated_at": "2026-09-23T06:19:51.808962+00:00"
     },
-    "1acb1d3f026d2a127021f59696731aa43fb2d9b919e88f66709718a41df21378": {
-      "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51REpHdEsta2FTQ3NUY1JyVDJ6WGo3c2FYRWN5S1lXajdEWElLclVOTVF0a0xuMGdta3lQUG5xcE5RZ0xSY3JGZVJyT2t1bGlrbmxtelR0S3F2YWhMV3BaVFhUUFI?oc=5",
-      "real_link": "https://www.taxtimes.co.kr/news/article.html?no=276970",
-      "updated_at": "2026-09-21T05:21:29.648653+00:00"
-    },
     "1b00652958a355440ff29627cc348905ea20900d7f4391b542796fd76c6b5589": {
       "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4MHE5ZXptaGx3b1IwVjQwNEs3c194ZXpiS3pSR2RTb3dJbDhOS3ZDN0pSRm1yV3diaTg2NkY4MGptWXB2UHVCSjRzWGFGSU9tWENrV1BUODZhQdIBX0FVX3lxTE8zYTZUV09CbnRGd3BBLVlrSFROeGNXNlNDQWF3YUNsTmFBOTQ5SzZKQVJzYy0yRjFiVU9SM04xa3Jva1N5N0MxUzMxZ0FJYU1SbjFEdXZPVUlFRGRlb0Fn?oc=5",
       "real_link": "https://www.khan.co.kr/article/202609281033001",
@@ -1735,11 +1730,6 @@
       "real_link": "https://zdnet.co.kr/view/?no=20261002092940",
       "updated_at": "2026-10-02T00:54:19.935797+00:00"
     },
-    "367d388818a0008f59e6d6d79c2bca4507d85ddcb7526f5db109d1c569591c32": {
-      "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjY1FUUUxPak1FbW9seHdsOTB5alZUUXdKdXV0aGlzSUd1VVhiQ3lZOWNoVzFROExwNkFRQ05zV0FXTHlWcUhoTWlvcHNzazVHVzB4M3B3cjQtdjZybWE5c3JfaUQ?oc=5",
-      "real_link": "https://www.sentv.co.kr/article/view/sentv202609210134",
-      "updated_at": "2026-09-21T05:21:27.466764+00:00"
-    },
     "3738834b4828c0b210fd5ff5c3336669cf44855f67008ffe6fdb55543305d68e": {
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DTzcwUkNoWmdRMkdKdktzcWVsTkhoSXphUFNPenlTbXZIWlhzdnBXVzlpRWFFczJrM3h6ODF6TFZOTm1za2s2S1hzY2tsLUtiMV9BTlVyUmVwYlpLYzUyUg?oc=5",
       "real_link": "https://www.newsis.com/view/ALSX20260924_0000007641",
@@ -1774,6 +1764,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xVUVkU0ZwVVZVeWs3XzdUN0FLTmxpY3NSVE9RcWxWcjR1c3RCbm9FREVtanBUZlVsNjFaeThjdlJpc3hOZnllMG5rcWo5eWdrQUdldFRVZTA3OThCeFVaOHAwSVRxN1U?oc=5",
       "real_link": "https://www.aitimes.kr/news/articleView.html?idxno=42143",
       "updated_at": "2026-10-01T02:25:35.117382+00:00"
+    },
+    "3ec3112292568fdaa2213a604d48861d88b203ca94f78c4056982adb7e677eb0": {
+      "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zQm9DUGdjcGlDNFltM1FHWHNmMDdVc196VWNvNnNfVFBrd2N1TlRNanBMQXZYYWozRXZtLUx0TUNCWmFQb1p3Y3RmTC1pOXJsTk9OWWRyRnQ2UQ?oc=5",
+      "real_link": "https://www.hankyung.com/article/2026100203776",
+      "updated_at": "2026-10-05T08:20:32.955292+00:00"
     },
     "3f4e29ef361af582989087855348c481559c4dbe28d59054f49059764fc27610": {
       "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGhQR1VJclh5a21ndzIwM21HeTJOSUtqVUJabmFsTUZ4ak5La0RrTFhhS1ZXNTJYelQxcWFpVXczeDcxdW04N3UyVFlqYUxOb2VZR1Z4VGFKQ2dBV1U5emQ5MFYtNHhzNzBHbjFib3UxdXFrYmIzQzZtcjNrNUswSEF0bWpVRkNxWjdpUlB5MWYweVJyYUMwRDNYZHBBRWs?oc=5",
@@ -1995,15 +1990,20 @@
       "real_link": "https://www.datatooza.com/article/202609220533513953cd1e7b6f33_80",
       "updated_at": "2026-09-21T20:46:41.296016+00:00"
     },
-    "6b2c79c4c2c26b7fbef5a73884dad4d1519077fd2b1fa899d0b7920dc0d0b256": {
-      "google_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sbThpMFNfMHlfbndfT2VXRklzNTJuM01UT2UySDZ4QkVYNU8wUHF4b21iMXlyams0VUJUMS1Ja1E2cTZjS0Y1STVYOEFWSHZt?oc=5",
-      "real_link": "https://bloomingbit.io/feed/news/120713",
-      "updated_at": "2026-09-21T05:21:30.804506+00:00"
-    },
     "6c5c5c80197b290302f913956399c36bdb4b491f541084b8c8076a2e487eded8": {
       "google_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wZDhBdnA1d2JaLWY0MHM2MjBvMm1NREZqZnpvZVIxZXExYUU2MVU3cXhmUFV1MFYxNzFicy03eE1qWEJnWThTMVhEanhMN3dDbU0zRlJ0MThBeWPSAWBBVV95cUxPcmxNTHNWYlpuMmhUTnBuSmt5cXpnQ21wYnl0RFJBQmIySEl1UHg5MDdKVUFNTWlEUkh1Rjd1MWFmcUpPeVlmSmpVWjhSYkY0WEQ4YjFBdTg5aUN5QkdwdGI?oc=5",
       "real_link": "https://www.yna.co.kr/view/AKR20260923193800062",
       "updated_at": "2026-09-23T11:51:34.486269+00:00"
+    },
+    "6d6bfa061a1d8a43fb67a1d5d41edfd1f44e0ce63a9d683f1202e1e2c507786d": {
+      "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MWm80cHREb1ZNOVduNUlrOENsaGEtaFBJNzgxVzE5alpuZTZzbDZnaUtJT2kzaFFfdGNEX2dCa0VCT01RZTlfTUtzNHJRTjRrREM2V1YzZEJPS0EtVUhFVWJIMjBEdDFKX3c?oc=5",
+      "real_link": "https://www.seoulfn.com/news/articleView.html?idxno=639330",
+      "updated_at": "2026-10-05T08:20:30.615998+00:00"
+    },
+    "6e16be2c212d637f76d2ddaed522346fbb2c27d4669518d3c076b8b399c38c6e": {
+      "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMMWMzOTFkOFhMbENCSzlpZ1ktRmJmaVk3R3pGVVdMRHdJSVZlaUxXVzg1c210ZVEyVVk0d1NDSnVLbXd6cWFLdER3SHBtQUM4Ul9iNHV1MV8xVXVaU2NMMFZFUDZWQm5Iam1rRW5oZEppWDh2V2c?oc=5",
+      "real_link": "https://www.tradingkey.com/kr/news/transcripts/262199735-tradingkey",
+      "updated_at": "2026-10-05T08:20:29.257988+00:00"
     },
     "6e7b4ac5f689fd597f2392919fa85afa5c189513637b2125b9a21de2b3df1416": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sSUxkVVFVRXhDcVlKMmJfYUNnd0Rqazg5M1RkeWNtdkcxaTdEYmFIci1qTFp5MU4tREZ2NEFXR2IzbEhGR0dDRVBVSHZQTXZwUW9uZHd0ekpRRDdWZUcxS3ljTlhCOE5LN0E?oc=5",
@@ -2024,6 +2024,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pMk80NFRJbFMxUS04ZnhpMFlFeVBEY0xKcTVWdzdxNTRzMEczdTZyUU5wRDlDZDZEbFVKaWQxOGJzYjBSeTd5alM2ak54MlhFOUpNWGFsRWtLQ0ZlS3VGQkdKVkhkODZyNDE0?oc=5",
       "real_link": "https://m.pressian.com/m/pages/articles/2026100318482879165",
       "updated_at": "2026-10-04T00:46:58.282396+00:00"
+    },
+    "71e9da6349ba801a67b877e014a1d03d328715640734a3d24f471f6181b78aa9": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rZHA0dndiSkotWG5pLVhFNENQRm5mWGwxcUpPSUswVGwyRFRDU2Y4ME9ITjhVQ0hyQkZUOWwzd0t0Q1RxUVB4cmVpUkg5cDRjQWxDYThaTTNOaTJpaWdwMHI5QzRybXM?oc=5",
+      "real_link": "https://kr.beincrypto.com/us-ai-lead-over-china-shrinks/",
+      "updated_at": "2026-10-05T08:20:31.630770+00:00"
     },
     "71f7e038fe64382fe019bac2685d803e40e035eadd1fcb4e4003c7df61f4781b": {
       "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GMzlNNWJNTGs2Wk9NQ2I4Z1RKYlFrdE5tRlBEUUtTRXB5S3pVT1dXMzVEQzJGTFVuTlJfU0VVbkROQkw1V2NubWpDS0JnRE0?oc=5",
@@ -2614,11 +2619,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WS0FXbnRqeURSWDUtSzktLWRaQjdvUWRGZUN3al9hVEtPN3B6X19YZXRhTzJDTkstQW5zQVlZZGkwYlFXbmU0N1MwbGlkWERVVy1hWFRCR09fZw?oc=5",
       "real_link": "https://ghnews.net/news/article.html?no=243876",
       "updated_at": "2026-09-22T12:44:55.865723+00:00"
-    },
-    "f968deb43917cc46d1aa8b05f12358a6481bf023c99308bee1cc63020f4d8313": {
-      "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94UjNWb0ZIOGVfdFZNaTBscC1WeXVNbThHZFlWZzVrZm5uY3lyMWVMaDdhZWJEN25wQ0FpeWhNdVpRTWZ6a1VWQmNDMjNHTjgtY1JkUER2MXl5NjVQVFdSS2YyS2HSAWhBVV95cUxOSEtQUm95bTFqSFV2U2w3djJ0bWsteEpiQlNsdktzbTF4SVlsV1U5LVVaM0JrcGFQVEM3cG5Gb1ZkZjRKcmd5TXo2RENDVGtzTFRyNlVOX3Fmc3lCU05iekpBbHNZRHVCdw?oc=5",
-      "real_link": "https://www.m-i.kr/news/articleView.html?idxno=1416560",
-      "updated_at": "2026-09-21T05:21:28.627903+00:00"
     },
     "f991400d99a8e47209a55219cf5a5519adcd4b1a36b8c0cccca37bd35d211028": {
       "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTNU4yUklxZW1nN1JhOTdWX25TUS1IOG0tYlpkaVpFUWZNdmtjMlptZk5WNmFhNTEzd0Vxcl9VMktjWFc2TnhiUGYyTnR2ZkRHeDV2dVln?oc=5",
