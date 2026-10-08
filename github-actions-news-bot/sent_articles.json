@@ -407,13 +407,6 @@
       "sent_at": "2026-10-01T21:18:12.052075+00:00",
       "title": "지수는 버티는데 돈이 안 돈다…거래대금 반토막·증시자금도 ‘멈춤’"
     },
-    "57b0e1dd34d785deaadb2148a7618e9490b45d9bc0fffb0e57b3d960ada952d0": {
-      "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NczZOWGJQVkQwOUhGanhOamJ1c2x6SlJNZXFnNmZsM0RNYTFVbTJZM3dQRG1oVF9fSmZLWmFmUUx0ZGRjMFEtLVJUb1JRSUh0dkRQMEdCMEtyTkJaM3VYelEya3NVbE1k?oc=5",
-      "published_at": "2026-09-24T15:00:00+00:00",
-      "real_link": "https://www.cbci.co.kr/news/articleView.html?idxno=609680",
-      "sent_at": "2026-09-24T15:27:20.097599+00:00",
-      "title": "금(금값, 금시세) '美 국채금리 및 경제지표 살펴야'"
-    },
     "58251d5d2b79b32936c7690e221ae66bfedf3612aa1c1c3117bb6bbf98d83d23": {
       "google_link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1GdzFscGNWd0dVc3VvZzlUc2tQRE5EUHhVdVBfcDc1VDNQVmZ2ak0yM05VYkowMHpLd3JUQlQyUEU?oc=5",
       "published_at": "2026-10-02T13:12:21+00:00",
@@ -511,6 +504,13 @@
       "real_link": "https://www.kwnews.co.kr/article/20260930501371",
       "sent_at": "2026-09-30T15:06:56.055982+00:00",
       "title": "기준금리·대출금리 상승에도 가계대출 증가세 여전"
+    },
+    "674a688d7b548f6303883e169a4cc2075d0455a33d0573dfd44ada59bf835a8c": {
+      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Wc2d6S09MMGFxdXd4R01kV1RMWjFWSlVBRXpXR2Jza0UzQU1fVGJYUC1icFhUc0M3T1hBVlZydWk2MjI5aVlpZ2xWenlNdkZqcEU0?oc=5",
+      "published_at": "2026-10-08T17:39:30+00:00",
+      "real_link": "https://www.youthassembly.kr/news/1009765",
+      "sent_at": "2026-10-08T17:59:02.393580+00:00",
+      "title": "AI 에이전트 스웜으로 40일 모기지를 단축한다—Vesta, 3천만 달러 추가 유치 배경과 국내 금융권 과제"
     },
     "67cc14fb043b32c36c3b76ce0166fe829d6773e3b56c7f0c22f7cd2a35cc45f1": {
       "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NOUJHelN4R2FtOFlyZ1U3bmMwME1JQUhEeUpuUEliOWpCVk9iT3A1T0I4QzExY1hqenlDNlY4bHBxcm8ycGF5RXhiSlkxWE0?oc=5",
@@ -777,13 +777,6 @@
       "real_link": "https://v.daum.net/v/20260925094212539",
       "sent_at": "2026-09-25T00:49:20.626968+00:00",
       "title": "딜 가뭄에도 웃었다…IMM PE, ‘정공법’으로 채운 한 해 [하우스리뷰]"
-    },
-    "9a85fc701e1f3507f46911da7ad6b25fed54d42ff99e74751f8f7602d41f610a": {
-      "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRkx1UTJJcjVSREdsejhfcUVxNmNyZkZYUXlUYVR3UUdFbTBnUmZTbDhQbFg4dV9JbW91Q0JwT3dPUlkzZ1ZrYW80d2ZSVjBiaXBidzJqRW5pOG1OUkxsUUFjRktGQ3JNRWd4eXBlYmVMZzR4a19iampWT19KdkJtWVdGbVRzQm91U1JEaS1udnRtQzg?oc=5",
-      "published_at": "2026-09-24T15:24:43+00:00",
-      "real_link": "https://www.vietnam.vn/ko/my-trung-quoc-han-quoc-dan-dau-cuoc-dua-bang-sang-che-ai-vat-ly",
-      "sent_at": "2026-09-24T15:27:21.131255+00:00",
-      "title": "미국, 중국, 한국이 인공지능 물리학 특허 경쟁에서 선두를 달리고 있다."
     },
     "9aee7b118ee69c59ba98643b04845601b8ddf5ea83332dad18bac42d25eedf0f": {
       "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wQ0lMNFFXZUZlT1lPd3RhVThYaXlTdGR5dWNMTE9yS2V0TDU5ZWRUUUR5bFJXbkVLUUpMQWRFMlJfTV9MdHdaU21JczlqRlRNanVWYWFKT3p5aXVBRFhKc050TDVvRWlmVVhRQg?oc=5",
@@ -1170,6 +1163,13 @@
       "sent_at": "2026-10-07T00:48:57.578007+00:00",
       "title": "동원, '참존'으로 K뷰티 도전…김남정 회장 첫 M&A 승부수"
     },
+    "d87430effc797ee6b17be705e5bea97521053e9381b3b6ff17b72cc1855c2ead": {
+      "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TRnpCQ1d2dTM3cjg2MTAwSWQ5bzI4ZGx4YjUtcEFIc2kxWUZwOWNHRG9EM1lrTmdoTE1JUW9IZHVsUFpxTXhGc2xGWjI?oc=5",
+      "published_at": "2026-10-08T17:30:00+00:00",
+      "real_link": "https://economybloc.com/news/118592/",
+      "sent_at": "2026-10-08T17:59:00.865023+00:00",
+      "title": "트럼프 “11월 3일 중간선거 전 이란 공격 안 해”…봉쇄는 유지"
+    },
     "d9547243ed93d9e82ef346bd1dd98226752356b0c4bde5f44aa206f93b191423": {
       "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kaEhmd0ZRdkJpdGNmQ29tSGpXQlUxdnByV05GUGRNUzcyN2ZDQWRRcHVyTzVGdUctN3FxOGdOek1HNHhxRnFQdU5TbkhSNm5xT0pvWFNqYjhtQQ?oc=5",
       "published_at": "2026-09-30T02:00:19+00:00",
@@ -1218,13 +1218,6 @@
       "real_link": "https://www.gtimes.co.kr/news/articleView.html?idxno=21989",
       "sent_at": "2026-09-30T08:26:33.933647+00:00",
       "title": "공매도 중앙점검시스템 가동 1년 5개월, 혐의 건 74% ‘금감원 조사 미착수’"
-    },
-    "e2d1d7594a15a41e4f7ddc8a4dad3e7d2a67e53ceb3e3a81c4e1280fa352b415": {
-      "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OaENUQ1otUTJYV0RKN1I5XzQ1RV92SWRKdllxWnlGR3RZTFdVOEdMZjBFTXJhYnBzUGk0YktrdlpjWFVYS1BicXVTNmVXREpwYy1ieC04T0QxbEF1?oc=5",
-      "published_at": "2026-09-24T15:18:40+00:00",
-      "real_link": "https://vod.newspim.com/news/view/20260925000003",
-      "sent_at": "2026-09-24T15:27:18.661074+00:00",
-      "title": "[GAM] 오토존 ② 월가 목표가 낮추고 '매수는' 유지…관건은 DIY 수요 회복"
     },
     "e3bd63d4c264edc4f18f6675409365777edd883addafc1dd8c0dab4c407a4a3b": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4OXU3WWRBZmEzSTk1UDJWZGtzb3BJOHVKZE8wemFYdWFQU3NIazlBQzNqb0JtNjhwQnYxdEQwaDY3eU1hb2ZQY0NHdHJva3Y0X21jRklpNUNscS1qRTVCOU1RVTVyN1Vxdk1NWGVhTlRnM3c?oc=5",
@@ -1693,11 +1686,6 @@
       "real_link": "https://www.etoday.co.kr/news/view/2631591?trc=right_categori_news",
       "updated_at": "2026-10-01T21:18:11.222736+00:00"
     },
-    "57b0e1dd34d785deaadb2148a7618e9490b45d9bc0fffb0e57b3d960ada952d0": {
-      "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NczZOWGJQVkQwOUhGanhOamJ1c2x6SlJNZXFnNmZsM0RNYTFVbTJZM3dQRG1oVF9fSmZLWmFmUUx0ZGRjMFEtLVJUb1JRSUh0dkRQMEdCMEtyTkJaM3VYelEya3NVbE1k?oc=5",
-      "real_link": "https://www.cbci.co.kr/news/articleView.html?idxno=609680",
-      "updated_at": "2026-09-24T15:27:19.326659+00:00"
-    },
     "58251d5d2b79b32936c7690e221ae66bfedf3612aa1c1c3117bb6bbf98d83d23": {
       "google_link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1GdzFscGNWd0dVc3VvZzlUc2tQRE5EUHhVdVBfcDc1VDNQVmZ2ak0yM05VYkowMHpLd3JUQlQyUEU?oc=5",
       "real_link": "http://www.ainet.link/29042",
@@ -1767,6 +1755,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNFgwSmhySEF2c043UU52SVJESzRyYnFJVjJmbDl4N0VSX3NXUFlHcVdZU0hDY3VjMkNpNzR1eUVEbXpsYWtFMDNQYUNrZWRKOERrX09uTW9mdTQ?oc=5",
       "real_link": "https://www.kwnews.co.kr/article/20260930501371",
       "updated_at": "2026-09-30T15:06:55.416830+00:00"
+    },
+    "674a688d7b548f6303883e169a4cc2075d0455a33d0573dfd44ada59bf835a8c": {
+      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Wc2d6S09MMGFxdXd4R01kV1RMWjFWSlVBRXpXR2Jza0UzQU1fVGJYUC1icFhUc0M3T1hBVlZydWk2MjI5aVlpZ2xWenlNdkZqcEU0?oc=5",
+      "real_link": "https://www.youthassembly.kr/news/1009765",
+      "updated_at": "2026-10-08T17:59:01.893374+00:00"
     },
     "67cc14fb043b32c36c3b76ce0166fe829d6773e3b56c7f0c22f7cd2a35cc45f1": {
       "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NOUJHelN4R2FtOFlyZ1U3bmMwME1JQUhEeUpuUEliOWpCVk9iT3A1T0I4QzExY1hqenlDNlY4bHBxcm8ycGF5RXhiSlkxWE0?oc=5",
@@ -1957,11 +1950,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VVHNLVUxuQzdiUUN4TEl0WjZERmR0UUpfajYzS0V3c2w2VkNXWm40NHhvZ09kNklFd2lNWGJuVEc5NDNOeU9xVFZsZEtHak0?oc=5",
       "real_link": "https://v.daum.net/v/20260925094212539",
       "updated_at": "2026-09-25T00:49:19.730874+00:00"
-    },
-    "9a85fc701e1f3507f46911da7ad6b25fed54d42ff99e74751f8f7602d41f610a": {
-      "google_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRkx1UTJJcjVSREdsejhfcUVxNmNyZkZYUXlUYVR3UUdFbTBnUmZTbDhQbFg4dV9JbW91Q0JwT3dPUlkzZ1ZrYW80d2ZSVjBiaXBidzJqRW5pOG1OUkxsUUFjRktGQ3JNRWd4eXBlYmVMZzR4a19iampWT19KdkJtWVdGbVRzQm91U1JEaS1udnRtQzg?oc=5",
-      "real_link": "https://www.vietnam.vn/ko/my-trung-quoc-han-quoc-dan-dau-cuoc-dua-bang-sang-che-ai-vat-ly",
-      "updated_at": "2026-09-24T15:27:20.593154+00:00"
     },
     "9aee7b118ee69c59ba98643b04845601b8ddf5ea83332dad18bac42d25eedf0f": {
       "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wQ0lMNFFXZUZlT1lPd3RhVThYaXlTdGR5dWNMTE9yS2V0TDU5ZWRUUUR5bFJXbkVLUUpMQWRFMlJfTV9MdHdaU21JczlqRlRNanVWYWFKT3p5aXVBRFhKc050TDVvRWlmVVhRQg?oc=5",
@@ -2238,6 +2226,11 @@
       "real_link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=192908",
       "updated_at": "2026-10-07T00:48:56.961851+00:00"
     },
+    "d87430effc797ee6b17be705e5bea97521053e9381b3b6ff17b72cc1855c2ead": {
+      "google_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TRnpCQ1d2dTM3cjg2MTAwSWQ5bzI4ZGx4YjUtcEFIc2kxWUZwOWNHRG9EM1lrTmdoTE1JUW9IZHVsUFpxTXhGc2xGWjI?oc=5",
+      "real_link": "https://economybloc.com/news/118592/",
+      "updated_at": "2026-10-08T17:59:00.287379+00:00"
+    },
     "d9547243ed93d9e82ef346bd1dd98226752356b0c4bde5f44aa206f93b191423": {
       "google_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kaEhmd0ZRdkJpdGNmQ29tSGpXQlUxdnByV05GUGRNUzcyN2ZDQWRRcHVyTzVGdUctN3FxOGdOek1HNHhxRnFQdU5TbkhSNm5xT0pvWFNqYjhtQQ?oc=5",
       "real_link": "https://www.hankyung.com/article/2026092894266",
@@ -2272,11 +2265,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nV0Q0VkgyeHRwVnlwNWQydTF0dXFuUWxHbFplU0Z6WThzUFhna1RfTTI1ZjFJVnZoakFFNGFzV3JxSkVmOGh1WUhDbTNNbk5fellMejY4VDVqYVljY0FVcVFOWG9kcDRYd2c?oc=5",
       "real_link": "https://www.gtimes.co.kr/news/articleView.html?idxno=21989",
       "updated_at": "2026-09-30T08:26:33.202248+00:00"
-    },
-    "e2d1d7594a15a41e4f7ddc8a4dad3e7d2a67e53ceb3e3a81c4e1280fa352b415": {
-      "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OaENUQ1otUTJYV0RKN1I5XzQ1RV92SWRKdllxWnlGR3RZTFdVOEdMZjBFTXJhYnBzUGk0YktrdlpjWFVYS1BicXVTNmVXREpwYy1ieC04T0QxbEF1?oc=5",
-      "real_link": "https://vod.newspim.com/news/view/20260925000003",
-      "updated_at": "2026-09-24T15:27:17.857702+00:00"
     },
     "e3bd63d4c264edc4f18f6675409365777edd883addafc1dd8c0dab4c407a4a3b": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4OXU3WWRBZmEzSTk1UDJWZGtzb3BJOHVKZE8wemFYdWFQU3NIazlBQzNqb0JtNjhwQnYxdEQwaDY3eU1hb2ZQY0NHdHJva3Y0X21jRklpNUNscS1qRTVCOU1RVTVyN1Vxdk1NWGVhTlRnM3c?oc=5",
