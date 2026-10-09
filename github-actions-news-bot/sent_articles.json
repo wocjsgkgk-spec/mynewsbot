@@ -295,13 +295,6 @@
       "sent_at": "2026-09-27T07:11:42.932355+00:00",
       "title": "베트남에서 렉서스 ES 500e 전기차의 제원이 공개되었으며, 예상 가격은 약 30억 VND입니다."
     },
-    "3f6f223ff7be4a935301359b2485c2bdcd92962a1bf73b3f76f3879df58f5041": {
-      "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PWlRXNExyVWRRb0dOR3BfU285NWhlS1pMNVNERlh0U1lRZ1phdUpqc1BuT1lkUHhBRHVfM004ZkY0NUIxdndxV3IyYUIzWHRFMzNWOWFDeHZ1MkRTY0o1Zk5aaDlNa3oxNHJ1ejQ0WGZ1OHfSAXdBVV95cUxOUGY1eEppZ1pNa0VEc2lIOFNFU3psdmNNYjY1Ung2S0huYWw4eVQwMjd4OXJ4TkFZcWlYTDZyN0FrNGhoNFZPUmhoelV4M2NBaGZDWlozLXpiM1pUclFhMnNPNXZQX2hmSmY4S0lCRDExNkhjaWFjbw?oc=5",
-      "published_at": "2026-09-25T05:06:59+00:00",
-      "real_link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490298",
-      "sent_at": "2026-09-25T05:30:17.714216+00:00",
-      "title": "저항선 무너지면 순식간에 수직 하락?... 이더리움 투자자들 잠 못 이루는 밤"
-    },
     "40bb52d0dcf291a187f21d994306234f1eef5863d3c99342b63837990ef32cff": {
       "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMEJqdVU3VS1pWTUyeVJ5YzdWLW5TeTM2OUdXM0NoOV8wRTA0a3RBM0RyNDBZZmdJTFJzNHlkVE51RndaXzVPOUtpYlJSczdYZzhpZk1UNTNQNzhKc2l5bnI1WWZXUmVxN0JvY0FPYzh4MTIwa3NVbGFNeTZjNjNFQw?oc=5",
       "published_at": "2026-09-27T23:07:42+00:00",
@@ -427,6 +420,13 @@
       "real_link": "https://www.newsfun.kr/news/articleView.html?idxno=221586",
       "sent_at": "2026-10-08T23:14:44.151203+00:00",
       "title": "대전시의회, ‘AI 042 LAB 연구회’ AI로 정책과제 발굴한다"
+    },
+    "581e1d1dd2cd03baefcb283f2b42413299493267ade21d53915caf28c245b770": {
+      "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iV0lueTlYUHVtNVhmRlV6MzdZVXNiMHpBSUhHUncybTZpcUFkWXFOcVFYM01KYUFIYW41TmdfRV96LUxQb3ZzNlZfb2l3NG1reDVDY0xvMkpCNjR3U0thVnVIZ0xJMVppblR3VQ?oc=5",
+      "published_at": "2026-10-09T10:11:50+00:00",
+      "real_link": "http://www.honamtimes.com/news/articleView.html?idxno=298332",
+      "sent_at": "2026-10-09T10:18:37.375022+00:00",
+      "title": "순천시, 이차전지 특화단지 품고 방산까지… 미래 첨단산업 생태계 확장"
     },
     "58251d5d2b79b32936c7690e221ae66bfedf3612aa1c1c3117bb6bbf98d83d23": {
       "google_link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1GdzFscGNWd0dVc3VvZzlUc2tQRE5EUHhVdVBfcDc1VDNQVmZ2ak0yM05VYkowMHpLd3JUQlQyUEU?oc=5",
@@ -603,13 +603,6 @@
       "sent_at": "2026-10-03T12:13:36.487799+00:00",
       "title": "경기교육청-에스토니아, AI 교육 ‘교류’ 넘어 실무협력 가동"
     },
-    "7105d9bfe9c6f180728b13e23e07f47569e4a608541089b58f9dfa42df5aa52b": {
-      "google_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhQzlBckl3Tmh5QldLeDJhcVA5VndZMk9SSl9KcFQ0VnpNLVBwd0R4dVVXWHluOTZyckptaFhqZW0xS3JMT190UXRXeFZXRkxhbFk4cmoyMXNRMVJsSlZoNi1R?oc=5",
-      "published_at": "2026-09-25T05:26:00+00:00",
-      "real_link": "http://isplus.joins.com/article/view/isp202609250029",
-      "sent_at": "2026-09-25T05:30:13.989115+00:00",
-      "title": "‘다운증후군 작가’ 서은혜, 엄마 되나…초음파 사진 확산 [왓IS]"
-    },
     "717d2c5d06174bc38e94613f6363b72698ad7447b0e0cb36df55180fcc0d69cc": {
       "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pMk80NFRJbFMxUS04ZnhpMFlFeVBEY0xKcTVWdzdxNTRzMEczdTZyUU5wRDlDZDZEbFVKaWQxOGJzYjBSeTd5alM2ak54MlhFOUpNWGFsRWtLQ0ZlS3VGQkdKVkhkODZyNDE0?oc=5",
       "published_at": "2026-10-04T00:30:28+00:00",
@@ -651,6 +644,13 @@
       "real_link": "http://www.nanews.co.kr/news/articleView.html?idxno=52608",
       "sent_at": "2026-10-07T00:49:00.695239+00:00",
       "title": "롯데하이마트, 산업 특화 ‘휴머노이드 로봇’ 실증 추진"
+    },
+    "7b316fc93c345f589e41050ba7b68d40b890ee5fa298e9628b06d9d9531357fb": {
+      "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fWUFFZU95WGZrOUNGdWVHaUZHaFJ0cEpsY2NlemZpTVE2clRMdW9BU25NdE0zREtGUW8zSXpaS2pSX29MZG9GXzduQjVPdnlCUGpyWjFFRGVSV0tS?oc=5",
+      "published_at": "2026-10-09T10:16:00+00:00",
+      "real_link": "https://www.newspim.com/news/view/20261009000166",
+      "sent_at": "2026-10-09T10:18:35.298561+00:00",
+      "title": "[베트남 증시] 유동성 급증했지만 매도세 강력, 혼조 마감...NVL·PNJ, 약세 끊고 '상한가'"
     },
     "7dcbb38a46c56d405d57169690e72e7f9f67210a783939cbdef0f874a8f7378d": {
       "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04ZkVwSWh6bUc5ano4RnphdUJqWWg3Mllpc3gxdDZ5QUpucUVMV2VWSXpHOUFSSEhxdlFZd0hhQXF0MVRpX0JyQmprYUppcy05WGN6LTdIUW9xODhVNXhmQVNIX2ppYzA?oc=5",
@@ -770,13 +770,6 @@
       "real_link": "https://kr.investing.com/news/company-news/article-93CH-2110337",
       "sent_at": "2026-09-29T14:13:48.497786+00:00",
       "title": "스콧츠 미라클-그로 주가 52주 신저가 48.02달러 기록"
-    },
-    "9aee7b118ee69c59ba98643b04845601b8ddf5ea83332dad18bac42d25eedf0f": {
-      "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wQ0lMNFFXZUZlT1lPd3RhVThYaXlTdGR5dWNMTE9yS2V0TDU5ZWRUUUR5bFJXbkVLUUpMQWRFMlJfTV9MdHdaU21JczlqRlRNanVWYWFKT3p5aXVBRFhKc050TDVvRWlmVVhRQg?oc=5",
-      "published_at": "2026-09-25T05:02:28+00:00",
-      "real_link": "http://www.gnsiminsori.com/news/articleView.html?idxno=46101",
-      "sent_at": "2026-09-25T05:30:15.340266+00:00",
-      "title": "[주간 미국 금리와 서민경제] 미국 국채금리 5.2% 충격…한국 증시·부동산·가계대출까지 흔든다"
     },
     "9dac10c477d12577c460fa2b18a9639c75f4d5ae685fce301bcad4247c331f8b": {
       "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa3hZNUVPNlhnQUdtR0pFclNjWWdZbGhmRTM1eWN0V0I1RS1IaUVIaW5fR1N2TVY1U0hrMFFKUy11NkthMi1qbGg2aF9zQUgzX0dEV2tHUXBqWWp6cEFyRUNqelNLUWFNYVZPNzBqMUZrdkNWelhnNmRKNGNVdTNYS1E4UjlheTlORXR4ZDFR?oc=5",
@@ -1254,13 +1247,6 @@
       "sent_at": "2026-10-05T17:17:04.879343+00:00",
       "title": "약한 지표에도 거꾸로 가는 美 국채…\"금리가 금리를 올린다\""
     },
-    "ec2456d0d03bbd38e481a8ade7df0256922a8dc49008564e725d1ed2ffdb7f29": {
-      "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZdW5RRnNyWTVUM1NXOUc4RTVseEs4SjAyTVBGUVVaR2JOa1hPdFMxclpuRlZicDZvRTJNNmFZOWNvSktVVV8yaUhDVVFFT28?oc=5",
-      "published_at": "2026-09-25T05:25:13+00:00",
-      "real_link": "http://m.ipcs21.com/view.php?idx=86401",
-      "sent_at": "2026-09-25T05:30:16.380355+00:00",
-      "title": "경기도·경기도의회, 피지컬 AI 현장 도입부터 수요·공급 연결까지 논의"
-    },
     "ed5fa217e2e6834adfbd9a021568485f417c8d1715d6c3b6cd155dcc36145285": {
       "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GTlJCX0F5TUxhUnhOOGVoSzFuaGpTQTE1UElNN1VfbGNtWGZfVHB3bmU5WW80bjhtOU40Ry00d2xhNWU0TjZoVU9BcDNRSkU?oc=5",
       "published_at": "2026-10-02T06:36:50+00:00",
@@ -1592,11 +1578,6 @@
       "real_link": "https://www.vietnam.vn/ko/xe-dien-lexus-es-500e-lo-thong-so-tai-viet-nam-gia-du-kien-gan-3-ty-dong",
       "updated_at": "2026-09-27T07:11:42.382257+00:00"
     },
-    "3f6f223ff7be4a935301359b2485c2bdcd92962a1bf73b3f76f3879df58f5041": {
-      "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PWlRXNExyVWRRb0dOR3BfU285NWhlS1pMNVNERlh0U1lRZ1phdUpqc1BuT1lkUHhBRHVfM004ZkY0NUIxdndxV3IyYUIzWHRFMzNWOWFDeHZ1MkRTY0o1Zk5aaDlNa3oxNHJ1ejQ0WGZ1OHfSAXdBVV95cUxOUGY1eEppZ1pNa0VEc2lIOFNFU3psdmNNYjY1Ung2S0huYWw4eVQwMjd4OXJ4TkFZcWlYTDZyN0FrNGhoNFZPUmhoelV4M2NBaGZDWlozLXpiM1pUclFhMnNPNXZQX2hmSmY4S0lCRDExNkhjaWFjbw?oc=5",
-      "real_link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490298",
-      "updated_at": "2026-09-25T05:30:17.048449+00:00"
-    },
     "40bb52d0dcf291a187f21d994306234f1eef5863d3c99342b63837990ef32cff": {
       "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMEJqdVU3VS1pWTUyeVJ5YzdWLW5TeTM2OUdXM0NoOV8wRTA0a3RBM0RyNDBZZmdJTFJzNHlkVE51RndaXzVPOUtpYlJSczdYZzhpZk1UNTNQNzhKc2l5bnI1WWZXUmVxN0JvY0FPYzh4MTIwa3NVbGFNeTZjNjNFQw?oc=5",
       "real_link": "https://www.edaily.co.kr/News/Read?newsId=02020486645584712&mediaCodeNo=257",
@@ -1686,6 +1667,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zTU5SSlBMaHFvelprNi1xbW8zSXNCT0Vqc203R21fOEhUak81UlAxNk9GYnhKdkFKVkV5cUR6UWxFV25tdjBTX01GMFd6UngzY3RNQzdxNWh6ajR1YkpTVGQzblkwTE9x?oc=5",
       "real_link": "https://www.newsfun.kr/news/articleView.html?idxno=221586",
       "updated_at": "2026-10-08T23:14:43.650049+00:00"
+    },
+    "581e1d1dd2cd03baefcb283f2b42413299493267ade21d53915caf28c245b770": {
+      "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iV0lueTlYUHVtNVhmRlV6MzdZVXNiMHpBSUhHUncybTZpcUFkWXFOcVFYM01KYUFIYW41TmdfRV96LUxQb3ZzNlZfb2l3NG1reDVDY0xvMkpCNjR3U0thVnVIZ0xJMVppblR3VQ?oc=5",
+      "real_link": "http://www.honamtimes.com/news/articleView.html?idxno=298332",
+      "updated_at": "2026-10-09T10:18:36.761632+00:00"
     },
     "58251d5d2b79b32936c7690e221ae66bfedf3612aa1c1c3117bb6bbf98d83d23": {
       "google_link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1GdzFscGNWd0dVc3VvZzlUc2tQRE5EUHhVdVBfcDc1VDNQVmZ2ak0yM05VYkowMHpLd3JUQlQyUEU?oc=5",
@@ -1812,11 +1798,6 @@
       "real_link": "https://www.newscj.com/news/articleView.html?idxno=3437673",
       "updated_at": "2026-10-03T12:13:35.980613+00:00"
     },
-    "7105d9bfe9c6f180728b13e23e07f47569e4a608541089b58f9dfa42df5aa52b": {
-      "google_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhQzlBckl3Tmh5QldLeDJhcVA5VndZMk9SSl9KcFQ0VnpNLVBwd0R4dVVXWHluOTZyckptaFhqZW0xS3JMT190UXRXeFZXRkxhbFk4cmoyMXNRMVJsSlZoNi1R?oc=5",
-      "real_link": "http://isplus.joins.com/article/view/isp202609250029",
-      "updated_at": "2026-09-25T05:30:13.030104+00:00"
-    },
     "717d2c5d06174bc38e94613f6363b72698ad7447b0e0cb36df55180fcc0d69cc": {
       "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pMk80NFRJbFMxUS04ZnhpMFlFeVBEY0xKcTVWdzdxNTRzMEczdTZyUU5wRDlDZDZEbFVKaWQxOGJzYjBSeTd5alM2ak54MlhFOUpNWGFsRWtLQ0ZlS3VGQkdKVkhkODZyNDE0?oc=5",
       "real_link": "https://m.pressian.com/m/pages/articles/2026100318482879165",
@@ -1846,6 +1827,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94SFNKMF8zV2tmQXVJWHRnb3hTT00tOVNQUWFqdVFtNTkxTFV3NXFzdkhlb3dNN2ZpcTc3MklrUndPWGlOdTNUdk5GNFVRM2NEQVo0MHR5SllQSlR0MzlUZDJIb2hZa0Ni?oc=5",
       "real_link": "http://www.nanews.co.kr/news/articleView.html?idxno=52608",
       "updated_at": "2026-10-07T00:49:00.138245+00:00"
+    },
+    "7b316fc93c345f589e41050ba7b68d40b890ee5fa298e9628b06d9d9531357fb": {
+      "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fWUFFZU95WGZrOUNGdWVHaUZHaFJ0cEpsY2NlemZpTVE2clRMdW9BU25NdE0zREtGUW8zSXpaS2pSX29MZG9GXzduQjVPdnlCUGpyWjFFRGVSV0tS?oc=5",
+      "real_link": "https://www.newspim.com/news/view/20261009000166",
+      "updated_at": "2026-10-09T10:18:34.568702+00:00"
     },
     "7dcbb38a46c56d405d57169690e72e7f9f67210a783939cbdef0f874a8f7378d": {
       "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04ZkVwSWh6bUc5ano4RnphdUJqWWg3Mllpc3gxdDZ5QUpucUVMV2VWSXpHOUFSSEhxdlFZd0hhQXF0MVRpX0JyQmprYUppcy05WGN6LTdIUW9xODhVNXhmQVNIX2ppYzA?oc=5",
@@ -1931,11 +1917,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhaHIwUWltdGNmTU1YZFl3RDFuQWE1emNXNndfekdvSWVCeUk0akczMW9lYThhYTZmVWdfOVBuNy1fTWM1VklBOFdnSTJTWktVMWZmdTNDZjdtR0xNdmh5NElJU0xtbGNxU0JQaFJOckc?oc=5",
       "real_link": "https://kr.investing.com/news/company-news/article-93CH-2110337",
       "updated_at": "2026-09-29T14:13:47.533414+00:00"
-    },
-    "9aee7b118ee69c59ba98643b04845601b8ddf5ea83332dad18bac42d25eedf0f": {
-      "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wQ0lMNFFXZUZlT1lPd3RhVThYaXlTdGR5dWNMTE9yS2V0TDU5ZWRUUUR5bFJXbkVLUUpMQWRFMlJfTV9MdHdaU21JczlqRlRNanVWYWFKT3p5aXVBRFhKc050TDVvRWlmVVhRQg?oc=5",
-      "real_link": "http://www.gnsiminsori.com/news/articleView.html?idxno=46101",
-      "updated_at": "2026-09-25T05:30:14.634122+00:00"
     },
     "9dac10c477d12577c460fa2b18a9639c75f4d5ae685fce301bcad4247c331f8b": {
       "google_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa3hZNUVPNlhnQUdtR0pFclNjWWdZbGhmRTM1eWN0V0I1RS1IaUVIaW5fR1N2TVY1U0hrMFFKUy11NkthMi1qbGg2aF9zQUgzX0dEV2tHUXBqWWp6cEFyRUNqelNLUWFNYVZPNzBqMUZrdkNWelhnNmRKNGNVdTNYS1E4UjlheTlORXR4ZDFR?oc=5",
@@ -2276,11 +2257,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ySHJRUkJYSnh1VXlmLVVnejFkckk1MkdGa0prX2NCeTdHbTNzaUlOeGZfYzc2LWh0a0VrT0ZDWl9DZFhqUjZxdGFlbElTSlBIUXhKNHh0blFaT1JN?oc=5",
       "real_link": "https://www.newspim.com/news/view/20261006000013",
       "updated_at": "2026-10-05T17:17:04.381412+00:00"
-    },
-    "ec2456d0d03bbd38e481a8ade7df0256922a8dc49008564e725d1ed2ffdb7f29": {
-      "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZdW5RRnNyWTVUM1NXOUc4RTVseEs4SjAyTVBGUVVaR2JOa1hPdFMxclpuRlZicDZvRTJNNmFZOWNvSktVVV8yaUhDVVFFT28?oc=5",
-      "real_link": "http://m.ipcs21.com/view.php?idx=86401",
-      "updated_at": "2026-09-25T05:30:15.744905+00:00"
     },
     "ed5fa217e2e6834adfbd9a021568485f417c8d1715d6c3b6cd155dcc36145285": {
       "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GTlJCX0F5TUxhUnhOOGVoSzFuaGpTQTE1UElNN1VfbGNtWGZfVHB3bmU5WW80bjhtOU40Ry00d2xhNWU0TjZoVU9BcDNRSkU?oc=5",
