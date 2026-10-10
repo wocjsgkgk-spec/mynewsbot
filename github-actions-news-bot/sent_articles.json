@@ -386,6 +386,13 @@
       "sent_at": "2026-10-07T23:52:24.905874+00:00",
       "title": "[해외시황] 뉴욕증시, 국채금리 24년 만에 최고치에 '하락'…나스닥 0.22%↓"
     },
+    "50cc43ff9396ea93e91e70400a25a20b50a0adca39712af2969714cae98930da": {
+      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2tlemxyOTFTMWhydUtaZ2F1NmZIOVpTMzJOaXNPQ0hNY1R6NlRGQmt1cmgtakl5aEFsMzZiZ3NPZjFRaDZvcXR1NTY0YWNvUVZSejFiWmhxakIxSGJrTXBrTlJOdnktX2IxR0c4WDBUV3hfU0RwQ0Z1dUZCVjdnMEFHZkRHV0RJ?oc=5",
+      "published_at": "2026-10-10T18:00:00+00:00",
+      "real_link": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101022383153189a1f309431_1",
+      "sent_at": "2026-10-10T18:04:16.287000+00:00",
+      "title": "美 밤부사, 아토피 치료제 개발 위해 나스닥 상장 추진"
+    },
     "50dd89fc1b779511c6c0b55cee568fac909410913811573f1cec225c4b565739": {
       "google_link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBLSHl0ek5HZ2VqNW1oQWxfekNRbHphTlJfZGNUemFuWVNTX2lUTEVKLTVTQlBzdnhISTBYdEpCajE2RkU?oc=5",
       "published_at": "2026-10-10T01:06:59+00:00",
@@ -1135,13 +1142,6 @@
       "sent_at": "2026-10-03T19:20:39.373130+00:00",
       "title": "AI가 돈을 쓸 때 필요한 것...스테이블코인이 '기계의 화폐'로 주목받는 이유 | 엠블록"
     },
-    "df86b424c90e21b488bbc5dd0f78155a14e3018ee60f6cd7a99484374a9bea15": {
-      "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS2pVakRxRUVzSm1URy1oblk3UXM5Z2NBZ1JZYlNOYXlkeDN2RVA5bW1kRG0tcElEWG5oSEdBQzExTGpMVzUyX1R0RUtyLXhYMjdLLXc4UFpFclRUZDNUd3c1bkN2UEF0S0lWb3E5d21HTGVpajEwVG9GOTN6ZldJb292MXhLQ3g3SFVIOWNmYXY5X2g4bkZVdHln?oc=5",
-      "published_at": "2026-09-26T14:26:33+00:00",
-      "real_link": "https://www.vietnam.vn/ko/giao-dien-thoai-cho-con-cha-me-giat-minh-voi-de-xuat-phim-ai-tho-tuc",
-      "sent_at": "2026-09-26T14:54:50.116999+00:00",
-      "title": "부모들이 자녀에게 휴대전화를 사줬는데, 인공지능이 생성한 저속한 영화 추천 영상에 충격을 받았다."
-    },
     "dfe42a427ecc56d753b577a0949f1c039d4c66355e0031a3768cc3281b7c3c7b": {
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85T25IbUVmZUN2Xzh5Q1I3U1B5MzFOWkZzTXRLbk51ckVXSU5jNEF2WTJCdVFrNlN0aUp3aFY4TjQyTlladThVUzgtamJfci1VbjhGTzR3Y1Q2dEdycXJIWVR0dHBOdW5lT0FmSjJSaDQ?oc=5",
       "published_at": "2026-10-09T02:37:08+00:00",
@@ -1628,6 +1628,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5MDgtX3hPZ21yWjBjREhEVko5Vml6cUljN0htZUYzbEx1bGFxS3IxNW95dDN5V1FQVkUxTThVdVh1aHgtT2hlU1phM3F5bE1xQkFiejNuVDRsMHMxUEhaeg?oc=5",
       "real_link": "https://www.newsprime.co.kr/news/article/?no=750259",
       "updated_at": "2026-10-07T23:52:24.250969+00:00"
+    },
+    "50cc43ff9396ea93e91e70400a25a20b50a0adca39712af2969714cae98930da": {
+      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2tlemxyOTFTMWhydUtaZ2F1NmZIOVpTMzJOaXNPQ0hNY1R6NlRGQmt1cmgtakl5aEFsMzZiZ3NPZjFRaDZvcXR1NTY0YWNvUVZSejFiWmhxakIxSGJrTXBrTlJOdnktX2IxR0c4WDBUV3hfU0RwQ0Z1dUZCVjdnMEFHZkRHV0RJ?oc=5",
+      "real_link": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101022383153189a1f309431_1",
+      "updated_at": "2026-10-10T18:04:15.333654+00:00"
     },
     "50dd89fc1b779511c6c0b55cee568fac909410913811573f1cec225c4b565739": {
       "google_link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBLSHl0ek5HZ2VqNW1oQWxfekNRbHphTlJfZGNUemFuWVNTX2lUTEVKLTVTQlBzdnhISTBYdEpCajE2RkU?oc=5",
@@ -2163,11 +2168,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tb1hacDZvUjZIcG1QSDBwZTh5NTgzTHhpMWtGMVZISWoxelRhYTRvYkNFMWJGWU91SWdpX3Zwa204bVZQU180Yks3TWZGZ2s5WXhv?oc=5",
       "real_link": "https://www.mk.co.kr/newsletter/page/3483",
       "updated_at": "2026-10-03T19:20:38.855802+00:00"
-    },
-    "df86b424c90e21b488bbc5dd0f78155a14e3018ee60f6cd7a99484374a9bea15": {
-      "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS2pVakRxRUVzSm1URy1oblk3UXM5Z2NBZ1JZYlNOYXlkeDN2RVA5bW1kRG0tcElEWG5oSEdBQzExTGpMVzUyX1R0RUtyLXhYMjdLLXc4UFpFclRUZDNUd3c1bkN2UEF0S0lWb3E5d21HTGVpajEwVG9GOTN6ZldJb292MXhLQ3g3SFVIOWNmYXY5X2g4bkZVdHln?oc=5",
-      "real_link": "https://www.vietnam.vn/ko/giao-dien-thoai-cho-con-cha-me-giat-minh-voi-de-xuat-phim-ai-tho-tuc",
-      "updated_at": "2026-09-26T14:54:49.399645+00:00"
     },
     "dfe42a427ecc56d753b577a0949f1c039d4c66355e0031a3768cc3281b7c3c7b": {
       "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85T25IbUVmZUN2Xzh5Q1I3U1B5MzFOWkZzTXRLbk51ckVXSU5jNEF2WTJCdVFrNlN0aUp3aFY4TjQyTlladThVUzgtamJfci1VbjhGTzR3Y1Q2dEdycXJIWVR0dHBOdW5lT0FmSjJSaDQ?oc=5",
