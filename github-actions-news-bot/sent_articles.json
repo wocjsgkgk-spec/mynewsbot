@@ -568,13 +568,6 @@
       "sent_at": "2026-10-15T20:24:25.310230+00:00",
       "title": "PNC 파이낸셜 서비시스, 올해 매출·순이자이익 가이던스 상향…총매출 약 13.7% 증가 전망"
     },
-    "6933d340cec4c690839387c0406e94a8d68a5948aa580ebccb27ccd4e85c79d0": {
-      "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0QxRjhzVTBBTzZ6ZHVJZ0hqMnZ1ek5mcnVpanNKbXNINHBnaVpqZ1RiVV9ja2xkdXZUUThQUldVTGxZaGM4RnRqX0NIQnlqZW1PZWUtMVJ1RDN6QldZNFBoYmplUVZiaVZoZ3RXX25UZHdkMHJMcXA0SF9pcFRkTzFnSTFmSGNxVVlvcw?oc=5",
-      "published_at": "2026-10-02T18:25:43+00:00",
-      "real_link": "https://www.tikr.com/ko/blog/jim-cramer-microns-boom-and-bust-cycle-is-gone-at-last?",
-      "sent_at": "2026-10-02T18:29:28.828956+00:00",
-      "title": "Jim Cramer: Micron’s Boom and Bust Cycle Is Gone “At Last”"
-    },
     "69e0942acd6e31b2d9bed73fe8f94081de75a36a4ba962cd48fa4da133fc3e61": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yV1lJNzZySGhJNFpjcl8xQWFEOG1oYURMQy01NG1kZWxPYTdXYU9jbXJQa0stMk9tYnA5T1N3S3F3c3FjZGsyR3BWbW0wdEFfVjJ5UjEtNGxQQUNQaHVfMTh6UjVkcnE5NnluRU9YUDhIQQ?oc=5",
       "published_at": "2026-10-05T23:08:53+00:00",
@@ -840,6 +833,13 @@
       "real_link": "https://www.vietnam.vn/ko/phia-sau-dong-tien-giai-cuu-gia-co-phieu",
       "sent_at": "2026-10-05T17:17:07.372660+00:00",
       "title": "주가 상승을 위한 \"구제\" 자금 흐름의 이면에는 무엇이 있을까요?"
+    },
+    "97d282387d7035d5d8b839db62a3cd719bbf19c07b67f65348082080216f0146": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vWEFEakZ1LW9sMVNGUlM3d1JkakQ4bnZlWTBFOGFGUnB3djVpNENRTjRVSXRCajY0ZWVwckwxV2tIWUJBYzB6eUZJQVJvb2w1Tjl5cmpIdEZzMUxaVk1GUVpwMV8?oc=5",
+      "published_at": "2026-10-16T18:48:05+00:00",
+      "real_link": "https://www.sentv.co.kr/article/view/sentv202610170003",
+      "sent_at": "2026-10-16T18:59:31.682698+00:00",
+      "title": "경기 광주시, 도시가스 공급망 넓힌다…도척 융복합 협력지구 에너지 기반 확충"
     },
     "9bd7198fdbf39e719f08e354dd86e91a3f87c40a9cee771eb1bd44c64b1d7a2c": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GSUtBX3JaeUFxbk93SjhIZ0RpY1J2T1RXalFlMER1bDBJSndVUEJORm9vR2x0eDVlOW5HNUMtWEJkQUprZ1lQMzlsMzVPZElQWW1wSndNRElCOHFheElIT1lWZWdQMF9rRlE?oc=5",
@@ -1331,13 +1331,6 @@
       "sent_at": "2026-10-05T23:12:23.222012+00:00",
       "title": "美 국채금리 급등에도 나스닥 사상 최고치…AI 실적 기대가 부담 상쇄[뉴스새벽배송]"
     },
-    "f510aa03294490354bc4002c78fffdf171adf4d8d88df7468672a07169515a6d": {
-      "google_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ocWFSckc2WkJ4XzlQTWVrMC1wT3dWaDNOMnE4aW1DZTEtX0g5N2ZTVzc1UTZZaEFqOTM5RG93ejdWMGpwZG8tSElURTE3ckFMVnExdGVqeEc?oc=5",
-      "published_at": "2026-10-02T18:18:07+00:00",
-      "real_link": "https://www.blockmedia.co.kr/archives/1147302",
-      "sent_at": "2026-10-02T18:29:30.657802+00:00",
-      "title": "AOC \"AI가 일자리·부 독점\" 지적에 블룸버그 \"과도한 공포 정치\" 비판"
-    },
     "f79690a551d3d8adeebeb71b53aea30bfbc4e08c7a77a42ad1d41b85ae37de32": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBab04wVTlQTGpweW14S1Y1TkJkNmFYUWViYW5BeHRMcmh0QlA1ZlJCMEVibDhKSkR4aHN1QjdwTFRaYmZ1S1FmN0F4TXJzcVFVdmoxcTZEclpMa19SQnVVZW8xUGxicnVqXzloR3RMY1NBdUXSAXdBVV95cUxObko2Q09HRlMtbW9fVHFjd0xPQjFMZ3Y2ZWpvUFh4b0NpM0pSUHFJMF9XZlBxN19Cdms0eERGV2E4UzZfeVhIN0gwRjAxbXlFcktsZ1FXSlFYVVBzMDJzdmx6dmNSckZCem1sQXBwc1Z2VnVGMnRfaw?oc=5",
       "published_at": "2026-10-10T21:18:28+00:00",
@@ -1801,11 +1794,6 @@
       "real_link": "https://www.datatooza.com/article/202610160519189233cd1e7fe141_80",
       "updated_at": "2026-10-15T20:24:24.750732+00:00"
     },
-    "6933d340cec4c690839387c0406e94a8d68a5948aa580ebccb27ccd4e85c79d0": {
-      "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0QxRjhzVTBBTzZ6ZHVJZ0hqMnZ1ek5mcnVpanNKbXNINHBnaVpqZ1RiVV9ja2xkdXZUUThQUldVTGxZaGM4RnRqX0NIQnlqZW1PZWUtMVJ1RDN6QldZNFBoYmplUVZiaVZoZ3RXX25UZHdkMHJMcXA0SF9pcFRkTzFnSTFmSGNxVVlvcw?oc=5",
-      "real_link": "https://www.tikr.com/ko/blog/jim-cramer-microns-boom-and-bust-cycle-is-gone-at-last?",
-      "updated_at": "2026-10-02T18:29:27.838436+00:00"
-    },
     "69e0942acd6e31b2d9bed73fe8f94081de75a36a4ba962cd48fa4da133fc3e61": {
       "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yV1lJNzZySGhJNFpjcl8xQWFEOG1oYURMQy01NG1kZWxPYTdXYU9jbXJQa0stMk9tYnA5T1N3S3F3c3FjZGsyR3BWbW0wdEFfVjJ5UjEtNGxQQUNQaHVfMTh6UjVkcnE5NnluRU9YUDhIQQ?oc=5",
       "real_link": "http://www.specialtimes.co.kr/news/articleView.html?idxno=470782",
@@ -1995,6 +1983,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PYVUwbDNYSTY0M1FoaTN2QWp2d1ZsZm1SbGkzUkZ5c0dPMFFpWlhpUXdkdEhaT1NMZDBQTW14NVdQVnJPbnJwaUlkaHR2dGNnT1hVSlhZQXFadjhTWG9EbHZWZ1hkb1A0U0RGekFIMThycWFX?oc=5",
       "real_link": "https://www.vietnam.vn/ko/phia-sau-dong-tien-giai-cuu-gia-co-phieu",
       "updated_at": "2026-10-05T17:17:06.685065+00:00"
+    },
+    "97d282387d7035d5d8b839db62a3cd719bbf19c07b67f65348082080216f0146": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vWEFEakZ1LW9sMVNGUlM3d1JkakQ4bnZlWTBFOGFGUnB3djVpNENRTjRVSXRCajY0ZWVwckwxV2tIWUJBYzB6eUZJQVJvb2w1Tjl5cmpIdEZzMUxaVk1GUVpwMV8?oc=5",
+      "real_link": "https://www.sentv.co.kr/article/view/sentv202610170003",
+      "updated_at": "2026-10-16T18:59:30.910330+00:00"
     },
     "9bd7198fdbf39e719f08e354dd86e91a3f87c40a9cee771eb1bd44c64b1d7a2c": {
       "google_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GSUtBX3JaeUFxbk93SjhIZ0RpY1J2T1RXalFlMER1bDBJSndVUEJORm9vR2x0eDVlOW5HNUMtWEJkQUprZ1lQMzlsMzVPZElQWW1wSndNRElCOHFheElIT1lWZWdQMF9rRlE?oc=5",
@@ -2345,11 +2338,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWmNsSmlHek5tT3VOU2ppZVFNVFJ4LWUxUlNsajlTTVpZYzREd04wa0g4TUhCemRKNXBOQ2lUbndfZ2JTVHRsSzQ1WGtaZ2pKYlV1ejhwN0x3N2pTTXB4ZVl6QmwyVjFRTGpmQ0lqdUJhcHdvdm5jazRJY2VFVjBBcA?oc=5",
       "real_link": "https://www.edaily.co.kr/News/Read?newsId=02528886645610296&mediaCodeNo=257",
       "updated_at": "2026-10-05T23:12:22.720902+00:00"
-    },
-    "f510aa03294490354bc4002c78fffdf171adf4d8d88df7468672a07169515a6d": {
-      "google_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ocWFSckc2WkJ4XzlQTWVrMC1wT3dWaDNOMnE4aW1DZTEtX0g5N2ZTVzc1UTZZaEFqOTM5RG93ejdWMGpwZG8tSElURTE3ckFMVnExdGVqeEc?oc=5",
-      "real_link": "https://www.blockmedia.co.kr/archives/1147302",
-      "updated_at": "2026-10-02T18:29:29.818790+00:00"
     },
     "f79690a551d3d8adeebeb71b53aea30bfbc4e08c7a77a42ad1d41b85ae37de32": {
       "google_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBab04wVTlQTGpweW14S1Y1TkJkNmFYUWViYW5BeHRMcmh0QlA1ZlJCMEVibDhKSkR4aHN1QjdwTFRaYmZ1S1FmN0F4TXJzcVFVdmoxcTZEclpMa19SQnVVZW8xUGxicnVqXzloR3RMY1NBdUXSAXdBVV95cUxObko2Q09HRlMtbW9fVHFjd0xPQjFMZ3Y2ZWpvUFh4b0NpM0pSUHFJMF9XZlBxN19Cdms0eERGV2E4UzZfeVhIN0gwRjAxbXlFcktsZ1FXSlFYVVBzMDJzdmx6dmNSckZCem1sQXBwc1Z2VnVGMnRfaw?oc=5",
