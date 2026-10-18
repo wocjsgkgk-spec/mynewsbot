@@ -652,6 +652,13 @@
       "sent_at": "2026-10-05T08:20:29.966333+00:00",
       "title": "매코믹(MKC) 2026 회계연도 3분기 실적 발표 콜: 매출 17% 증가, 마진 확대"
     },
+    "6eb4356f5248711a19a86e6100cc8fb7d561d9acd90ef332682a2a9f05d642d7": {
+      "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5taUJVUGtfbl8wOHZLVHkyaHBxTHFjVjVyNF9iN0lpd3F3R3hudDZMdlJ0Y0VHeVRNSUtLbGdtT1lxZW5BRncyOVE3dGdPb1pUX0U0cHFaYmNhSV9La1lzRFpsLUJEclJM?oc=5",
+      "published_at": "2026-10-18T18:50:00+00:00",
+      "real_link": "http://www.ggilbo.com/news/articleView.html?idxno=1186834",
+      "sent_at": "2026-10-18T18:53:19.580310+00:00",
+      "title": "걷고 뛰고 물건 잡는 동작까지… 사람 움직임 배우는 AI 로봇"
+    },
     "6ebc49e3c48870301dd5eae9d233e6935c79acc12a5f91041d0794955071183e": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBENWxVQkM1TlNqOHRWVWxXdWw2dVhpX1NuVTBSWHBDY0V1ajdCX1cxUHhxY3hLSWFUWmlfUWZaSjV2VzIyR2RrQzRuVW8zQWJ0ZVRfYU1ERkZHWWlQZjFPaFBpeUw2LTRO?oc=5",
       "published_at": "2026-10-10T07:05:00+00:00",
@@ -1079,13 +1086,6 @@
       "sent_at": "2026-10-17T08:48:24.726164+00:00",
       "title": "中 CXMT, 3분기 매출 600%대 급증 전망…최대 4000억 자사주 매입"
     },
-    "b97ccc57d9b34d88da02d1adf0406a16924dc45fa2a7f1dd4e5b2f461dbdfcf1": {
-      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGhTRGt1UDVxWkdGSnF0SURVdnhqWVNmR0JwNW5mWlpBaU02djV4RUVwdVVhTnNQQkx2cGJvaXhyMDAzUDVESTJtR3ZSZWw3cE9fREMzNVg3WlBBaFl3VnJIUTNNV3Z3UktCTFFMcW4yalQ2V3MzdEw1ekdjZlFHZFctUlpBQTdu?oc=5",
-      "published_at": "2026-10-04T17:00:00+00:00",
-      "real_link": "https://www.g-enews.com/article/Global-Biz/2026/10/2026100419212019789a1f309431_1",
-      "sent_at": "2026-10-04T17:04:52.926715+00:00",
-      "title": "트럼프 AI 차르에 클레이턴…120일 내 위험·기회 보고"
-    },
     "badcf76568fbb2ae64a7237aa73b464915d2cf248b64f3e2faf86a00c468e9d5": {
       "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LbDNmLUNkaEFiQ0Y2SVVRWUxFNDl0dkJ2RUlxb3hNbTkxeTVocVItTjd2OFpQcWd5ME4yU0Vma04zcDRRODQyb0ZLVUNqenRiMzlFSGF3?oc=5",
       "published_at": "2026-10-04T23:00:27+00:00",
@@ -1163,12 +1163,12 @@
       "sent_at": "2026-10-17T04:39:17.571641+00:00",
       "title": "北, 초고속 신형 어뢰 '잠-2.0' 시험발사…\"AI 탐색·유도 기술 적용\""
     },
-    "c8d8da16c584b29e60e45ca63becac0f347f931025aa5a7910d3c549c8a6e467": {
-      "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jc0pCYkN3WjBUVHBUWEl6aFRSZVg2U3RxZGxqdl9HSGVVeFhnRzM3Y01vOW5TUEE1MTdTY2ZGOHNXdndnS1F3ZXh3MzZmN0k?oc=5",
-      "published_at": "2026-10-04T16:42:27+00:00",
-      "real_link": "https://v.daum.net/v/20261005014227532",
-      "sent_at": "2026-10-04T17:04:51.935982+00:00",
-      "title": "美, 금리인상 속도조절 관측에도… “韓 포함 금리 상승 시간문제”"
+    "c7cc146c5140faadfc0f8c08bc9b6cd97df2862981f552676949c6c0d74b1ca6": {
+      "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14Mkktb2E1eTJDazNuYkIweWZERHBPbmFqU19POVVjUG1TTml2VWdzZHNzQU1rU1k1MmM1MVpNSGNPUW5KQ09LMXcxUThZd0d6OGctaHBZMk1WanFKajNDaWVzeHAxcXFKVHJj0gFwQVVfeXFMUDVoYUZIMjlQSHhQR0ZYMmRJa1Rwcm9UajJISmlfcENLUENNaDdMNW44U3I3dGVJMDVFcWJXUW1PMUJJeklZdlUyOGhwUXlwQ1ZpZkRaQzQ4Q3BGTExkVmhBTmRncUJjaWk0OXBMSDhEdQ?oc=5",
+      "published_at": "2026-10-18T18:45:00+00:00",
+      "real_link": "https://www.mt.co.kr/society/2026/10/19/2026101819434199052",
+      "sent_at": "2026-10-18T18:53:17.712045+00:00",
+      "title": "인천 칼부림도 '화요일'... 지난해 공공장소 흉기범죄, 주말보다 주초반에 몰렸다 - 머니투데이"
     },
     "c9c562e700c49717e40a3526088319958563634f11fc404f19a416fca02221f3": {
       "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pVnEzSzBvMWV0SDJVWV9NeGhMLW9jcURqdDUwZExEVUNyZWFwUm9OS2pzeUpqOFlrT0haR1dma2U3Smd2b3lUZ0w0VU5FcnM?oc=5",
@@ -1317,13 +1317,6 @@
       "sent_at": "2026-10-07T06:36:13.307103+00:00",
       "title": "토스플레이스, 점포 분석 AI 리포트 공개…결제 사업서 운영 서비스로"
     },
-    "e24a2eda6132a1ec670eb158a486e3927c36961a695ed01fe2423810413fde1e": {
-      "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRlhCOF9EbjZUT3lYU3RTSk8weTJQS1VWUGpXTHhwc2VGdFVJZTlDUTlqNDFMLVliZFNNUDBlV2QzZVBnY0Z1WU8zNjJPVnJYZ2J3dHNOLWFVa2RfeUlxZXktV29jdGItZzFiT2ItblA3TW1KRmJPckowZDdiTmNERm9HelZNZ0hjMHhjTG9MMzVjY21raFFLUnlFclJZamU4ekQ2Qk1USk1uYXpZT1liUzNSOFhhMmhKUTk2cG1QQmhpc0pjWWE0bi1Ud2puYV9MYWw4LVRlZE0wUQ?oc=5",
-      "published_at": "2026-10-04T16:39:51+00:00",
-      "real_link": "https://www.tikr.com/ko/blog/tesla-delivered-22141-more-vehicles-than-it-built-in-q3-heres-the-production-number-that-decides-what-comes-next?",
-      "sent_at": "2026-10-04T17:04:50.488158+00:00",
-      "title": "Tesla Delivered 22,141 More Vehicles Than It Built in Q3. Here’s the Production Number That Decides What Comes Next"
-    },
     "e2e2647c5e939c7c58db0a9f768503b581bfb966d712d2e3347ea517b4bbb52f": {
       "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTy16ZThmQ0d2VW5vMVZ3Y1o1UVY0dGFtYm8zM3FMd1NHb3BMemdZSFdoNW92VnBqbGlJU2YyakpnYmpCTlVmdENNUldvVGVHUG8tSnp2V2FITnc5Skp3RC1QdkJYaWVxNUtxRHFLdG0xSjZ0LXJiMGh1bDhPWnViRkJyU0hNM0J5M0t2dm9DTGJ3ZTlrZzN4OUt3cnJ4bzUtOGthaDdXLXJOUEVSQmlMVEVMOVFHdWY1WFctaA?oc=5",
       "published_at": "2026-10-17T15:49:43+00:00",
@@ -1351,13 +1344,6 @@
       "real_link": "http://www.mtnews.net/news/articleView.html?idxno=26243",
       "sent_at": "2026-10-16T01:26:57.257918+00:00",
       "title": "화학연, ‘말로 소통하는’ 자율실험실 AI 기술 개발… 소재 탐색 기간 20일 단축"
-    },
-    "e8c93bdc7f8c6e0cce98ce9df816836d1791cb5641bcce21a31c61d884ffaeb9": {
-      "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LRE11VTZFVHZJckxlV1FPX25WNDdfVVl5WC1qSUtYT283YnpuWi1JYWQ5enVDS0V3X3BMbXh3RGd0RlZmTG5yU3kxZjZHN1E?oc=5",
-      "published_at": "2026-10-04T16:49:13+00:00",
-      "real_link": "https://v.daum.net/v/20261005014913601",
-      "sent_at": "2026-10-04T17:04:54.031239+00:00",
-      "title": "법원, ‘시총 기준 상향, 미달 기업 퇴출’에 제동…새 상장폐지 절차 지연 불가피"
     },
     "e987a25f5151d93637db5a377a7a74ec743d23ab8ab765ca89fc4dddfa5d67b5": {
       "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mMFFMSkgzY1hab1V4NEVlSDJwYXdaYTU1c0FobDZXdWdHWlR0OGdvNzdkQlBtSGZiZm5NWGZvTWx4SU5yNEtyYXVaQWY4YlBYLTBvb2d3?oc=5",
@@ -1931,6 +1917,11 @@
       "real_link": "https://www.tradingkey.com/kr/news/transcripts/262199735-tradingkey",
       "updated_at": "2026-10-05T08:20:29.257988+00:00"
     },
+    "6eb4356f5248711a19a86e6100cc8fb7d561d9acd90ef332682a2a9f05d642d7": {
+      "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5taUJVUGtfbl8wOHZLVHkyaHBxTHFjVjVyNF9iN0lpd3F3R3hudDZMdlJ0Y0VHeVRNSUtLbGdtT1lxZW5BRncyOVE3dGdPb1pUX0U0cHFaYmNhSV9La1lzRFpsLUJEclJM?oc=5",
+      "real_link": "http://www.ggilbo.com/news/articleView.html?idxno=1186834",
+      "updated_at": "2026-10-18T18:53:19.027026+00:00"
+    },
     "6ebc49e3c48870301dd5eae9d233e6935c79acc12a5f91041d0794955071183e": {
       "google_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBENWxVQkM1TlNqOHRWVWxXdWw2dVhpX1NuVTBSWHBDY0V1ajdCX1cxUHhxY3hLSWFUWmlfUWZaSjV2VzIyR2RrQzRuVW8zQWJ0ZVRfYU1ERkZHWWlQZjFPaFBpeUw2LTRO?oc=5",
       "real_link": "https://www.cbci.co.kr/news/articleView.html?idxno=614104",
@@ -2236,11 +2227,6 @@
       "real_link": "http://www.inews24.com/view/2016108",
       "updated_at": "2026-10-17T08:48:24.058578+00:00"
     },
-    "b97ccc57d9b34d88da02d1adf0406a16924dc45fa2a7f1dd4e5b2f461dbdfcf1": {
-      "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGhTRGt1UDVxWkdGSnF0SURVdnhqWVNmR0JwNW5mWlpBaU02djV4RUVwdVVhTnNQQkx2cGJvaXhyMDAzUDVESTJtR3ZSZWw3cE9fREMzNVg3WlBBaFl3VnJIUTNNV3Z3UktCTFFMcW4yalQ2V3MzdEw1ekdjZlFHZFctUlpBQTdu?oc=5",
-      "real_link": "https://www.g-enews.com/article/Global-Biz/2026/10/2026100419212019789a1f309431_1",
-      "updated_at": "2026-10-04T17:04:52.397354+00:00"
-    },
     "badcf76568fbb2ae64a7237aa73b464915d2cf248b64f3e2faf86a00c468e9d5": {
       "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LbDNmLUNkaEFiQ0Y2SVVRWUxFNDl0dkJ2RUlxb3hNbTkxeTVocVItTjd2OFpQcWd5ME4yU0Vma04zcDRRODQyb0ZLVUNqenRiMzlFSGF3?oc=5",
       "real_link": "https://news.dealsitetv.com/articles/176393",
@@ -2296,10 +2282,10 @@
       "real_link": "https://www.newspim.com/news/view/20261017000061",
       "updated_at": "2026-10-17T04:39:16.991851+00:00"
     },
-    "c8d8da16c584b29e60e45ca63becac0f347f931025aa5a7910d3c549c8a6e467": {
-      "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jc0pCYkN3WjBUVHBUWEl6aFRSZVg2U3RxZGxqdl9HSGVVeFhnRzM3Y01vOW5TUEE1MTdTY2ZGOHNXdndnS1F3ZXh3MzZmN0k?oc=5",
-      "real_link": "https://v.daum.net/v/20261005014227532",
-      "updated_at": "2026-10-04T17:04:51.199207+00:00"
+    "c7cc146c5140faadfc0f8c08bc9b6cd97df2862981f552676949c6c0d74b1ca6": {
+      "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14Mkktb2E1eTJDazNuYkIweWZERHBPbmFqU19POVVjUG1TTml2VWdzZHNzQU1rU1k1MmM1MVpNSGNPUW5KQ09LMXcxUThZd0d6OGctaHBZMk1WanFKajNDaWVzeHAxcXFKVHJj0gFwQVVfeXFMUDVoYUZIMjlQSHhQR0ZYMmRJa1Rwcm9UajJISmlfcENLUENNaDdMNW44U3I3dGVJMDVFcWJXUW1PMUJJeklZdlUyOGhwUXlwQ1ZpZkRaQzQ4Q3BGTExkVmhBTmRncUJjaWk0OXBMSDhEdQ?oc=5",
+      "real_link": "https://www.mt.co.kr/society/2026/10/19/2026101819434199052",
+      "updated_at": "2026-10-18T18:53:16.928945+00:00"
     },
     "c9c562e700c49717e40a3526088319958563634f11fc404f19a416fca02221f3": {
       "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pVnEzSzBvMWV0SDJVWV9NeGhMLW9jcURqdDUwZExEVUNyZWFwUm9OS2pzeUpqOFlrT0haR1dma2U3Smd2b3lUZ0w0VU5FcnM?oc=5",
@@ -2406,11 +2392,6 @@
       "real_link": "https://www.news2day.co.kr/article/20261007500268",
       "updated_at": "2026-10-07T06:36:12.712231+00:00"
     },
-    "e24a2eda6132a1ec670eb158a486e3927c36961a695ed01fe2423810413fde1e": {
-      "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRlhCOF9EbjZUT3lYU3RTSk8weTJQS1VWUGpXTHhwc2VGdFVJZTlDUTlqNDFMLVliZFNNUDBlV2QzZVBnY0Z1WU8zNjJPVnJYZ2J3dHNOLWFVa2RfeUlxZXktV29jdGItZzFiT2ItblA3TW1KRmJPckowZDdiTmNERm9HelZNZ0hjMHhjTG9MMzVjY21raFFLUnlFclJZamU4ekQ2Qk1USk1uYXpZT1liUzNSOFhhMmhKUTk2cG1QQmhpc0pjWWE0bi1Ud2puYV9MYWw4LVRlZE0wUQ?oc=5",
-      "real_link": "https://www.tikr.com/ko/blog/tesla-delivered-22141-more-vehicles-than-it-built-in-q3-heres-the-production-number-that-decides-what-comes-next?",
-      "updated_at": "2026-10-04T17:04:49.805667+00:00"
-    },
     "e2e2647c5e939c7c58db0a9f768503b581bfb966d712d2e3347ea517b4bbb52f": {
       "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTy16ZThmQ0d2VW5vMVZ3Y1o1UVY0dGFtYm8zM3FMd1NHb3BMemdZSFdoNW92VnBqbGlJU2YyakpnYmpCTlVmdENNUldvVGVHUG8tSnp2V2FITnc5Skp3RC1QdkJYaWVxNUtxRHFLdG0xSjZ0LXJiMGh1bDhPWnViRkJyU0hNM0J5M0t2dm9DTGJ3ZTlrZzN4OUt3cnJ4bzUtOGthaDdXLXJOUEVSQmlMVEVMOVFHdWY1WFctaA?oc=5",
       "real_link": "https://www.vietnam.vn/ko/tao-co-hoi-de-doanh-nghiep-nho-va-vua-tham-gia-sau-hon-vao-chuoi-cung-ung-cua-doanh-nghiep-lon",
@@ -2430,11 +2411,6 @@
       "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kczlwa2Y1TFVpOWVzTXN2eGRoOEZIel9XdmRpSXJkZ002RFNnUUJ2eFJ5RWFNS3V1N3E5R0FSNzJxTVR5NkRZNnJKV2FMVjFPaUN0RjdJbnowSDVzbkZhMUYwd3Jhdw?oc=5",
       "real_link": "http://www.mtnews.net/news/articleView.html?idxno=26243",
       "updated_at": "2026-10-16T01:26:56.689443+00:00"
-    },
-    "e8c93bdc7f8c6e0cce98ce9df816836d1791cb5641bcce21a31c61d884ffaeb9": {
-      "google_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LRE11VTZFVHZJckxlV1FPX25WNDdfVVl5WC1qSUtYT283YnpuWi1JYWQ5enVDS0V3X3BMbXh3RGd0RlZmTG5yU3kxZjZHN1E?oc=5",
-      "real_link": "https://v.daum.net/v/20261005014913601",
-      "updated_at": "2026-10-04T17:04:53.533792+00:00"
     },
     "e987a25f5151d93637db5a377a7a74ec743d23ab8ab765ca89fc4dddfa5d67b5": {
       "google_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mMFFMSkgzY1hab1V4NEVlSDJwYXdaYTU1c0FobDZXdWdHWlR0OGdvNzdkQlBtSGZiZm5NWGZvTWx4SU5yNEtyYXVaQWY4YlBYLTBvb2d3?oc=5",
