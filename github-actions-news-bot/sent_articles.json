@@ -624,13 +624,6 @@
       "sent_at": "2026-10-18T13:14:58.265497+00:00",
       "title": "한화시스템, 27일 3분기 경영실적 설명회 개최"
     },
-    "645cf15b05201681110bbaaedd49064d73e4e757a955070ea08516d773f824e4": {
-      "google_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbUlOdHAtT1dIS09MamJ4WUZ3NDlIbUZHcl9fRHp3cklkSVVwZ09yY25zMXV3S3hhR2k2YjNTSGFUU1pHNDVWVUtUVmtVVlhEMkxhd0Nxeng5eGxONkMybndDZ0ZNdDRJbEhkeklReE5GNm9oWjdnRUtqZUt0ZWc?oc=5",
-      "published_at": "2026-10-10T13:37:38+00:00",
-      "real_link": "https://www.starnewskorea.com/business-life/2026/10/10/2026101022301436272",
-      "sent_at": "2026-10-10T13:48:42.154366+00:00",
-      "title": "\"전기차 다음은 로봇\"… BYD, 첫 자체 개발 휴머노이드 특허 전격 공개"
-    },
     "64a893df994b52a28478bef74f0e9aa960a9e2f99be246101c37696cf892e402": {
       "google_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45M2RERnpOZ2Q0OU9nNXlmaW93VkV5b3dUMGwtSnZZQlhRdTk2XzhLbUlUS3hsSkUtNWE3dmtDa3h6dmFVU1FSUkswYjZfenJJWDU1VkR1cDh0dWvSAWBBVV95cUxOSGZEU3pTNWV1bi1Bd3NrS2lXcTJwQm1CMmlYN2F1di1KQTBBb1dsdU03bXhwRlNUSk9mNUJMYVpvbDVIZG1qZWFXSzBiNXFDMFZZMS1oWXdLT1BpY3pKR0Q?oc=5",
       "published_at": "2026-10-21T06:52:03+00:00",
@@ -861,6 +854,13 @@
       "real_link": "http://www.snakorea.com/news/articleView.html?idxno=1057938",
       "sent_at": "2026-10-19T23:05:02.952059+00:00",
       "title": "목포해경, 응급환자 4명 ‘긴급이송’"
+    },
+    "80e6fe80d53e1ea9035da39ba2d8232670e28d0199c00edb34619c8b612d0c45": {
+      "google_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FRnFCU1N5SThEdDlYa01PamQ1dUZzMFVHR1JjUUp6MEpkYlNSVk9sVzJBQllPdVVROFRzeFBMYXp1NE1nd3JmT2hR?oc=5",
+      "published_at": "2026-10-24T16:51:58+00:00",
+      "real_link": "https://newsyonhap.com/news/132685",
+      "sent_at": "2026-10-24T16:56:55.075030+00:00",
+      "title": "중소기업 노리는 ShadowCrypt, 공급망 전체가 흔들린다"
     },
     "817cd9288366b0fb6830b914d2117beda17f16c1799d71b83ccad4340b663db2": {
       "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYlp5U2FNMjFXd0dkZXlIY2tqSmRfWDZVN1FTUEZlbGZFYW5TaUo2RXVCM1BfMEQzUUtiZVkzdHZjOWltbGVVTVdBZnBnY0duSS14c3BrNENVeXI5Y1dDanp4WTYxMFZkRzZIRGtUM01QLUctV1pHTjdBYVktRWpQR2xfcU1wZw?oc=5",
@@ -2107,11 +2107,6 @@
       "real_link": "https://www.vegannews.co.kr/news/article.html?no=394113",
       "updated_at": "2026-10-18T13:14:57.429050+00:00"
     },
-    "645cf15b05201681110bbaaedd49064d73e4e757a955070ea08516d773f824e4": {
-      "google_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbUlOdHAtT1dIS09MamJ4WUZ3NDlIbUZHcl9fRHp3cklkSVVwZ09yY25zMXV3S3hhR2k2YjNTSGFUU1pHNDVWVUtUVmtVVlhEMkxhd0Nxeng5eGxONkMybndDZ0ZNdDRJbEhkeklReE5GNm9oWjdnRUtqZUt0ZWc?oc=5",
-      "real_link": "https://www.starnewskorea.com/business-life/2026/10/10/2026101022301436272",
-      "updated_at": "2026-10-10T13:48:41.490071+00:00"
-    },
     "64a893df994b52a28478bef74f0e9aa960a9e2f99be246101c37696cf892e402": {
       "google_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45M2RERnpOZ2Q0OU9nNXlmaW93VkV5b3dUMGwtSnZZQlhRdTk2XzhLbUlUS3hsSkUtNWE3dmtDa3h6dmFVU1FSUkswYjZfenJJWDU1VkR1cDh0dWvSAWBBVV95cUxOSGZEU3pTNWV1bi1Bd3NrS2lXcTJwQm1CMmlYN2F1di1KQTBBb1dsdU03bXhwRlNUSk9mNUJMYVpvbDVIZG1qZWFXSzBiNXFDMFZZMS1oWXdLT1BpY3pKR0Q?oc=5",
       "real_link": "https://www.yna.co.kr/view/AKR20261021129200002",
@@ -2276,6 +2271,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zRjJEM2dHeVpWSkptalZreGtTaG5OOVYzY3B3RFVPeThCSEtwZXdKMExJYVljVnJxclJEa3lkeU04N1EwRFhuZGxlNE5mWW4zR0tQYTZlNGh5N0FaMTR5Qk56VnUydEZUNEM4?oc=5",
       "real_link": "http://www.snakorea.com/news/articleView.html?idxno=1057938",
       "updated_at": "2026-10-19T23:05:02.146985+00:00"
+    },
+    "80e6fe80d53e1ea9035da39ba2d8232670e28d0199c00edb34619c8b612d0c45": {
+      "google_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FRnFCU1N5SThEdDlYa01PamQ1dUZzMFVHR1JjUUp6MEpkYlNSVk9sVzJBQllPdVVROFRzeFBMYXp1NE1nd3JmT2hR?oc=5",
+      "real_link": "https://newsyonhap.com/news/132685",
+      "updated_at": "2026-10-24T16:56:54.203546+00:00"
     },
     "817cd9288366b0fb6830b914d2117beda17f16c1799d71b83ccad4340b663db2": {
       "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYlp5U2FNMjFXd0dkZXlIY2tqSmRfWDZVN1FTUEZlbGZFYW5TaUo2RXVCM1BfMEQzUUtiZVkzdHZjOWltbGVVTVdBZnBnY0duSS14c3BrNENVeXI5Y1dDanp4WTYxMFZkRzZIRGtUM01QLUctV1pHTjdBYVktRWpQR2xfcU1wZw?oc=5",
