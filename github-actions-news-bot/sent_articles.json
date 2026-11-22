@@ -351,13 +351,6 @@
       "sent_at": "2026-11-22T02:09:29.688163+00:00",
       "title": "최태원 “한일 기업·대학, AI 인재 함께 키우자”…SK ‘아이젠’ 통한 도쿄포럼서 공동 육성 제안"
     },
-    "5151e79d156113688e4b4c3929db50f319a8b79acd6a0b299a5388f5b80efcfa": {
-      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MZUFHdGVzOG5uYXM4ZHVUZUxETWR1OUxRNDlKLUpRUjUxeXdnX3J2THFBTF9HVlhNYWJleFl0QzVuc19RUWM5RmhMVUJIUDV2YXVj0gFYQVVfeXFMTXhmcS1Cd3JlVE16NVZ6ZFJxVEx3ZlJqNjBwbzFkRXdHbDVRNXdZR3ZlZ0hCNkxhUHphSlBuWTBQMVAtV3JySmtnSXk2bEJuYmVsT3RqLTlpNw?oc=5",
-      "published_at": "2026-11-08T16:04:55+00:00",
-      "real_link": "https://www.tokenpost.kr/news/tech/434813",
-      "sent_at": "2026-11-08T16:16:57.757659+00:00",
-      "title": "200mm 단결정 다이아몬드 성장…AI 반도체 기판 개발"
-    },
     "56647141824a58da8867fa90e2f6e5683829984f76c93d999f91a34238b6cb39": {
       "google_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aMmlqZWRsZXNOYVVXVEUwM3ZDUWxRSDlhSE1hU3BYTjF3clpSX2dEWXgwMk83NmEtOG9IcUFpSDByVTZpOHZUWDRB?oc=5",
       "published_at": "2026-11-20T04:03:10+00:00",
@@ -799,13 +792,6 @@
       "sent_at": "2026-11-13T00:16:31.592221+00:00",
       "title": "[표] LME 비철금속 및 환율 동향(11월 12일)"
     },
-    "bfab33d9db32e22f58d308175b82b6a7728910b02a40ce76977e04433bf92994": {
-      "google_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFdDREh6cnB2Y0E2VDJhSkFTNW1mb1JmUDZPTWwyZ1pDQldxSVhPVnZRaDBsOUx2MkFnSEpJc0dxbm42aU03OFJqS2JtV1JGRElwTFRhcnZnSFdCQTZBd20wTU1KVHNhNjJZTnhpU1dEMk0tdkhMbWM1b1lJeVdQOF9R?oc=5",
-      "published_at": "2026-11-08T15:50:23+00:00",
-      "real_link": "https://www.indexbox.io/ko/blog/tarantula-sightings-rise-sharply-in-austria/",
-      "sent_at": "2026-11-08T16:16:55.890504+00:00",
-      "title": "오스트리아 타란툴라 목격 급증…9월 이후 신고 200건 넘어 - 뉴스 및 통계"
-    },
     "c01269b060b83e3268f85705599eeb024b6cb55e91bc4f1bad6e5d6b2cb3b63b": {
       "google_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HNThBQm9ON2dnNzZZR0VQaW9PWjBNSGUxS3hFZTV4TGw4SkpZUWxjLVFfeHpiV0RKY3l0R0dQMEJFVVRKWE85T0pxdFBtb1N6QWdxTm1kNHd1aEk?oc=5",
       "published_at": "2026-11-14T07:43:48+00:00",
@@ -889,6 +875,13 @@
       "real_link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625429",
       "sent_at": "2026-11-16T01:42:39.281374+00:00",
       "title": "일본 3분기 실질 GDP 연율 0.1% 감소…소비 부진에 4분기 만에 역성장"
+    },
+    "da534d6c07e5c8d80d92badbb453b234e59aa03c14a8d84bfa632a98f43668c6": {
+      "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iemJPRWQ0YXM0UjlEOGpCdWlVQ1d2X1ZEOENGSE51SG5KbzRUYnBqbzVWdzhBUERkMkZ2UTJsWDkyVVJXZDdKWE1kSXRkZVVuek9oMG83aHB6MUxGckk2TnRVN3U4MWU5Q29iVFN6czlHY0pRMWc?oc=5",
+      "published_at": "2026-11-22T17:21:01+00:00",
+      "real_link": "https://media.khu.ac.kr/bbs/board.php?bo_table=univJubo&wr_id=40193",
+      "sent_at": "2026-11-22T17:25:32.851094+00:00",
+      "title": "[세시봉] 취업 한파"
     },
     "dbdcc22767b5700742bb05c868054f2ab290cd8b8d16eff0e6b8d450aa42a522": {
       "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlRkc05PM20xRXhYTEtKMHR6akZLUno4M0x3b3RwYl9NQ1VzOWEtdmt0Z0s4ZEZCM1pZU3lpUEtfdkVJZkpFVDVRQUVOU25iT2RQWkVPUGotejFsOXFpZms0dzBpVHV4anY0NXlnUG1WRjZSWEtCVWlveWhLWEtLTjVFYjAtcGx1?oc=5",
@@ -994,6 +987,13 @@
       "real_link": "https://www.smarttoday.co.kr/ko-kr/articles/113587",
       "sent_at": "2026-11-10T00:01:57.748297+00:00",
       "title": "CJ대한통운, 3분기 영업익 1105억원..대체로 부합"
+    },
+    "f2f8483aa464ce6c78d859ad88f24e24b48154560fceea2feff0e7f1226e8eb9": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uM0hqZnFyQVVJQmcwQ1RFYXVuX0FZZnFzQXRzdEMwbVQxS1JWNFVIdmFkR3V3NmVtXzJWa0txVU90X282X1VhUEFhbVpYeFQyb2xRMG5Vc2hSMU5kTmhNNVI0TUNuUQ?oc=5",
+      "published_at": "2026-11-22T17:12:38+00:00",
+      "real_link": "https://www.vegannews.co.kr/news/article.html?no=409605",
+      "sent_at": "2026-11-22T17:25:34.191756+00:00",
+      "title": "삼진, 2028년까지 매년 연결 FCF 5% 이상 환원 목표"
     },
     "f534dfd4dc72029842125436c53562f7dca38f4498e31f0663a822faf02b7e7b": {
       "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yclJCcC1Sa04wOFNWOUsyM3VXN25JaDJFTEwxemw0Q3NsRnZUeEhhRHdsYU5mTHhoQnIyYjQta0VTTTRLMlJSZzlIeVo0WjlhSXEzbnQyTEdMREsySlQxWHNuNHpEWmJZN3VEMGpxVQ?oc=5",
@@ -1310,11 +1310,6 @@
       "real_link": "https://www.greened.kr/news/articleView.html?idxno=355244",
       "updated_at": "2026-11-22T02:09:29.050382+00:00"
     },
-    "5151e79d156113688e4b4c3929db50f319a8b79acd6a0b299a5388f5b80efcfa": {
-      "google_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MZUFHdGVzOG5uYXM4ZHVUZUxETWR1OUxRNDlKLUpRUjUxeXdnX3J2THFBTF9HVlhNYWJleFl0QzVuc19RUWM5RmhMVUJIUDV2YXVj0gFYQVVfeXFMTXhmcS1Cd3JlVE16NVZ6ZFJxVEx3ZlJqNjBwbzFkRXdHbDVRNXdZR3ZlZ0hCNkxhUHphSlBuWTBQMVAtV3JySmtnSXk2bEJuYmVsT3RqLTlpNw?oc=5",
-      "real_link": "https://www.tokenpost.kr/news/tech/434813",
-      "updated_at": "2026-11-08T16:16:57.190577+00:00"
-    },
     "56647141824a58da8867fa90e2f6e5683829984f76c93d999f91a34238b6cb39": {
       "google_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aMmlqZWRsZXNOYVVXVEUwM3ZDUWxRSDlhSE1hU3BYTjF3clpSX2dEWXgwMk83NmEtOG9IcUFpSDByVTZpOHZUWDRB?oc=5",
       "real_link": "https://www.coinreaders.com/271928",
@@ -1630,11 +1625,6 @@
       "real_link": "http://www.snmnews.com/news/articleView.html?idxno=577343",
       "updated_at": "2026-11-13T00:16:31.107250+00:00"
     },
-    "bfab33d9db32e22f58d308175b82b6a7728910b02a40ce76977e04433bf92994": {
-      "google_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFdDREh6cnB2Y0E2VDJhSkFTNW1mb1JmUDZPTWwyZ1pDQldxSVhPVnZRaDBsOUx2MkFnSEpJc0dxbm42aU03OFJqS2JtV1JGRElwTFRhcnZnSFdCQTZBd20wTU1KVHNhNjJZTnhpU1dEMk0tdkhMbWM1b1lJeVdQOF9R?oc=5",
-      "real_link": "https://www.indexbox.io/ko/blog/tarantula-sightings-rise-sharply-in-austria/",
-      "updated_at": "2026-11-08T16:16:55.152550+00:00"
-    },
     "c01269b060b83e3268f85705599eeb024b6cb55e91bc4f1bad6e5d6b2cb3b63b": {
       "google_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HNThBQm9ON2dnNzZZR0VQaW9PWjBNSGUxS3hFZTV4TGw4SkpZUWxjLVFfeHpiV0RKY3l0R0dQMEJFVVRKWE85T0pxdFBtb1N6QWdxTm1kNHd1aEk?oc=5",
       "real_link": "https://m.ekn.kr/view.php?key=20261114022329680",
@@ -1694,6 +1684,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JeWFySGhuX1BwQ2NlTGVrQ3hTcnFuTGFWcmRFUUlkR0pyNzlvYWxNSTg3eGZOMmF6RDQwWWtsQ1F4Ymc1djNqWW92RTk2c2RHemJHMWJUX0p0eVNranAwbC04V3NHTHA3ak53ag?oc=5",
       "real_link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625429",
       "updated_at": "2026-11-16T01:42:38.592698+00:00"
+    },
+    "da534d6c07e5c8d80d92badbb453b234e59aa03c14a8d84bfa632a98f43668c6": {
+      "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iemJPRWQ0YXM0UjlEOGpCdWlVQ1d2X1ZEOENGSE51SG5KbzRUYnBqbzVWdzhBUERkMkZ2UTJsWDkyVVJXZDdKWE1kSXRkZVVuek9oMG83aHB6MUxGckk2TnRVN3U4MWU5Q29iVFN6czlHY0pRMWc?oc=5",
+      "real_link": "https://media.khu.ac.kr/bbs/board.php?bo_table=univJubo&wr_id=40193",
+      "updated_at": "2026-11-22T17:25:32.006629+00:00"
     },
     "dbdcc22767b5700742bb05c868054f2ab290cd8b8d16eff0e6b8d450aa42a522": {
       "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlRkc05PM20xRXhYTEtKMHR6akZLUno4M0x3b3RwYl9NQ1VzOWEtdmt0Z0s4ZEZCM1pZU3lpUEtfdkVJZkpFVDVRQUVOU25iT2RQWkVPUGotejFsOXFpZms0dzBpVHV4anY0NXlnUG1WRjZSWEtCVWlveWhLWEtLTjVFYjAtcGx1?oc=5",
@@ -1769,6 +1764,11 @@
       "google_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhVFZvMkgzTkY2a1NNeDlDdjV4bFRfTmZjRnB4WGpmNF9FeEVhQ2VNMm5RaW9ZWHpoMnk3SmJfNmFGVFdhNDhpV2dOTllhNHd6QXpXSnJGOGdzWTJhYmFj?oc=5",
       "real_link": "https://www.smarttoday.co.kr/ko-kr/articles/113587",
       "updated_at": "2026-11-10T00:01:57.136083+00:00"
+    },
+    "f2f8483aa464ce6c78d859ad88f24e24b48154560fceea2feff0e7f1226e8eb9": {
+      "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uM0hqZnFyQVVJQmcwQ1RFYXVuX0FZZnFzQXRzdEMwbVQxS1JWNFVIdmFkR3V3NmVtXzJWa0txVU90X282X1VhUEFhbVpYeFQyb2xRMG5Vc2hSMU5kTmhNNVI0TUNuUQ?oc=5",
+      "real_link": "https://www.vegannews.co.kr/news/article.html?no=409605",
+      "updated_at": "2026-11-22T17:25:33.519137+00:00"
     },
     "f534dfd4dc72029842125436c53562f7dca38f4498e31f0663a822faf02b7e7b": {
       "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yclJCcC1Sa04wOFNWOUsyM3VXN25JaDJFTEwxemw0Q3NsRnZUeEhhRHdsYU5mTHhoQnIyYjQta0VTTTRLMlJSZzlIeVo0WjlhSXEzbnQyTEdMREsySlQxWHNuNHpEWmJZN3VEMGpxVQ?oc=5",
